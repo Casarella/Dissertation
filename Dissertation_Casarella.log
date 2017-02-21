@@ -1,0 +1,4409 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.12.2)  17 FEB 2017 13:36
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Dissertation_Casarella.tex
+(./Dissertation_Casarella.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+File: template.tex 2013/04/16 v3.2013
+Template file for NDdiss2e class by Sameer Vijay and updated by Megan Patnott
+
+(./nddiss2e.cls
+Document Class: nddiss2e 2013/04/16 v3.2013
+Notre Dame Dissertation document class by Sameer Vijay and updated by Megan Pat
+nott
+
+FINAL MODE
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2007/10/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+\big@size=\dimen103
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip43
+\LTright=\skip44
+\LTpre=\skip45
+\LTpost=\skip46
+\LTchunksize=\count88
+\LTcapwidth=\dimen104
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count89
+\LT@rows=\count90
+\c@LT@tables=\count91
+\c@LT@chunks=\count92
+\LT@p@ftn=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen105
+\extrarowheight=\dimen106
+\NC@list=\toks15
+\extratabsurround=\skip47
+\backup@length=\skip48
+)
+\TX@col@width=\dimen107
+\TX@old@table=\dimen108
+\TX@old@col=\dimen109
+\TX@target=\dimen110
+\TX@delta=\dimen111
+\TX@cols=\count93
+\TX@ftn=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+\epsfxsize=\dimen114
+\epsfysize=\dimen115
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count95
+)
+\single@skip=\skip51
+\double@skip=\skip52
+\capwidth=\skip53
+\abovetableskip=\skip54
+\belowtableskip=\skip55
+\abovefigureskip=\skip56
+\belowfigureskip=\skip57
+)
+(./Dissertation_Casarella.aux (./pdflscape.aux) (./Chapter1_Casarella.aux)
+(./Chapter1_Casarella_lasthalf.aux) (./Chapter2_Casarella.aux)
+(./Chapter3_Casarella.aux) (./Chapter_Results.aux) (./Chapter_Results_Dy.aux)
+(./Chapter4_Casarella.aux) (./Chapter5_Casarella.aux)
+(./Chapter5_Casarella_2.aux) (./Chapter5_Casarella_3.aux
+
+LaTeX Warning: Label `fig:162Dy_misc' multiply defined.
+
+) (./Chapter6_Casarella.aux) (./appendix_160Gd_1.aux) (./appendix_160Gd_2.aux)
+(./appendix_162Dy_pos.aux) (./appendix_162Dy_neg.aux))
+\openout1 = `Dissertation_Casarella.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count96
+\scratchdimen=\dimen116
+\scratchbox=\box30
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen117
+\MPnumerator=\count100
+\makeMPintoPDFobject=\count101
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks21
+\ex@=\dimen118
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen119
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count102
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count103
+\leftroot@=\count104
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count105
+\DOTSCASE@=\count106
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box31
+\strutbox@=\box32
+\big@size=\dimen120
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count107
+\c@MaxMatrixCols=\count108
+\dotsspace@=\muskip10
+\c@parentequation=\count109
+\dspbrk@lvl=\count110
+\tag@help=\toks22
+\row@=\count111
+\column@=\count112
+\maxfields@=\count113
+\andhelp@=\toks23
+\eqnshift@=\dimen121
+\alignsep@=\dimen122
+\tagshift@=\dimen123
+\tagwidth@=\dimen124
+\totwidth@=\dimen125
+\lineht@=\dimen126
+\@envbody=\toks24
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count114
+\float@exts=\toks26
+\float@box=\box33
+\@float@everytoks=\toks27
+\@floatcapt=\box34
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen127
+\lightrulewidth=\dimen128
+\cmidrulewidth=\dimen129
+\belowrulesep=\dimen130
+\belowbottomsep=\dimen131
+\aboverulesep=\dimen132
+\abovetopsep=\dimen133
+\cmidrulesep=\dimen134
+\cmidrulekern=\dimen135
+\defaultaddspace=\dimen136
+\@cmidla=\count115
+\@cmidlb=\count116
+\@aboverulesep=\dimen137
+\@belowrulesep=\dimen138
+\@thisruleclass=\count117
+\@lastruleclass=\count118
+\@thisrulewidth=\dimen139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count119
+\rotFPtop=\skip61
+\rotFPbot=\skip62
+\rot@float@box=\box35
+\rot@mess@toks=\toks28
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+\AtBeginShipoutBox=\box36
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen140
+\Hy@linkcounter=\count120
+\Hy@pagecounter=\count121
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count122
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `final' set `true' on input line 4319.
+Package hyperref Info: Option `plainpages' set `false' on input line 4319.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4319
+.
+Package hyperref Info: Option `linktocpage' set `true' on input line 4319.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4319.
+Package hyperref Info: Option `colorlinks' set `false' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count123
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen141
+Package auxhook Info: \AddLineBeginMainAux comes a little late,
+(auxhook)             because the main .aux file is already opened on input lin
+e 5421.
+\Fld@menulength=\count124
+\Field@Width=\dimen142
+\Fld@charsize=\dimen143
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count125
+\c@Item=\count126
+\c@Hfootnote=\count127
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count128
+\c@bookmark@seq@number=\count129
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip63
+)
+Package hyperref Info: Link coloring OFF on input line 57.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count130
+)
+LaTeX Info: Redefining \ref on input line 57.
+LaTeX Info: Redefining \pageref on input line 57.
+LaTeX Info: Redefining \nameref on input line 57.
+
+(./Dissertation_Casarella.out) (./Dissertation_Casarella.out)
+\@outlinefile=\write3
+\openout3 = `Dissertation_Casarella.out'.
+
+
+Pagestyle and spacing normal
+\openout2 = `pdflscape.aux'.
+
+No file pdflscape.tex.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 74.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 74.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 74.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Copyright page
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.80  \makepublicdomain
+                          % Uncomment this to make your work public domain
+[1
+
+]
+Abstract page(s)
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.92   \end{abstract}
+                      [1
+
+
+] [2]
+Dedication page
+pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.106   \end{dedication}
+                         [2
+
+] (./Dissertation_Casarella.toc [3
+
+
+] [4])
+\tf@toc=\write4
+\openout4 = `Dissertation_Casarella.toc'.
+
+ [5]
+List of figures - FIGURES
+(./Dissertation_Casarella.lof [6
+
+] [7]
+Overfull \hbox (6.99034pt too wide) in paragraph at lines 45--45
+ [][] []\OT1/cmr/m/n/12 Sample Ex-per-i-men-tal Setup at UKAL for $\OML/cmm/m/i
+t/12 ^^M$\OT1/cmr/m/n/12 -singles mea-sure-ments (Made 
+ []
+
+
+Overfull \hbox (3.94958pt too wide) in paragraph at lines 49--49
+ \OT1/cmr/m/n/12 1252 keV) leav-ing the same level (E$[]$=1518 keV), and a sin-
+gle 1195 keV 
+ []
+
+[8]
+Overfull \hbox (4.95172pt too wide) in paragraph at lines 60--60
+ [][] []\OT1/cmr/m/n/12 Order-5 poly-no-mial non-lin-ear-ity cor-rec-tion, take
+n from the $[]$Dy(n,n$[]\OML/cmm/m/it/12 ^^M$\OT1/cmr/m/n/12 ) 
+ []
+
+
+Overfull \hbox (6.79669pt too wide) in paragraph at lines 79--79
+ [][] []\OT1/cmr/m/n/12 Lifetime in-fla-tion of the mea-sured life-times for tw
+o lev-els (E$[]$=1275 keV 
+ []
+
+[9] [10]
+Overfull \hbox (10.37526pt too wide) in paragraph at lines 108--108
+ [][] []\OT1/cmr/m/n/12 Non-isotropic de-cay from the ten-ta-tive 0$[]$ state i
+n $[]$Gd at E$[]$=1325 keV. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+ [][]  
+ []
+
+
+Overfull \hbox (1.98595pt too wide) in paragraph at lines 124--124
+ \OT1/cmr/m/n/12 level, W($\OML/cmm/m/it/12 ^^R$\OT1/cmr/m/n/12 ) fit is shown 
+with a$[]$ and a$[]$ co-ef-fi-cients from the E$[]$=3.1 MeV 
+ []
+
+[11])
+\tf@lof=\write5
+\openout5 = `Dissertation_Casarella.lof'.
+
+ [12]
+List of tables - TABLES
+(./Dissertation_Casarella.lot)
+\tf@lot=\write6
+\openout6 = `Dissertation_Casarella.lot'.
+
+ [13
+
+]
+Acknowledgment page
+[14] [15
+
+] [16]
+\openout2 = `Chapter1_Casarella.aux'.
+
+ (./Chapter1_Casarella.tex
+CHAPTER 1.
+[1
+
+
+
+
+] [2]
+Package epstopdf Info: Source file: <Chart_of_Nuclides_def.eps>
+(epstopdf)                    date: 2016-10-21 11:38:55
+(epstopdf)                    size: 2251450 bytes
+(epstopdf)             Output file: <Chart_of_Nuclides_def-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-10-21 11:39:05
+(epstopdf)                    size: 26380 bytes
+(epstopdf)             Command: <repstopdf --outfile=Chart_of_Nuclides_def-eps-
+converted-to.pdf Chart_of_Nuclides_def.eps>
+(epstopdf)             \includegraphics on input line 35.
+Package epstopdf Info: Output file is already uptodate.
+
+<Chart_of_Nuclides_def-eps-converted-to.pdf, id=785, 361.35pt x 252.945pt>
+File: Chart_of_Nuclides_def-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Chart_of_Nuclides_def-eps-converted-to.pdf>
+Package pdftex.def Info: Chart_of_Nuclides_def-eps-converted-to.pdf used on inp
+ut line 35.
+(pdftex.def)             Requested size: 432.0pt x 302.40161pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3] <B(E2)_rotations_Casten.png, id=799, 572.1375pt x 679.53876pt>
+File: B(E2)_rotations_Casten.png Graphic file (type png)
+
+<use B(E2)_rotations_Casten.png>
+Package pdftex.def Info: B(E2)_rotations_Casten.png used on input line 50.
+(pdftex.def)             Requested size: 410.39868pt x 487.44261pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <./Chart_of_Nuclides_def-eps-converted-to.pdf>] [5 <./B(E2)_rotations_Casten
+.png>] [6]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 81.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 81.
+ [7]
+Package epstopdf Info: Source file: <SciDraw_beta_vibration.eps>
+(epstopdf)                    date: 2016-05-24 15:10:24
+(epstopdf)                    size: 3595838 bytes
+(epstopdf)             Output file: <SciDraw_beta_vibration-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2016-05-24 15:13:35
+(epstopdf)                    size: 7753 bytes
+(epstopdf)             Command: <repstopdf --outfile=SciDraw_beta_vibration-eps
+-converted-to.pdf SciDraw_beta_vibration.eps>
+(epstopdf)             \includegraphics on input line 85.
+Package epstopdf Info: Output file is already uptodate.
+
+<SciDraw_beta_vibration-eps-converted-to.pdf, id=849, 957.5775pt x 478.78876pt>
+File: SciDraw_beta_vibration-eps-converted-to.pdf Graphic file (type pdf)
+<use SciDraw_beta_vibration-eps-converted-to.pdf>
+Package pdftex.def Info: SciDraw_beta_vibration-eps-converted-to.pdf used on in
+put line 85.
+(pdftex.def)             Requested size: 432.0pt x 216.00087pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <SciDraw_gamma_vibration.eps>
+(epstopdf)                    date: 2016-05-24 15:08:54
+(epstopdf)                    size: 3599174 bytes
+(epstopdf)             Output file: <SciDraw_gamma_vibration-eps-converted-to.p
+df>
+(epstopdf)                    date: 2016-05-24 15:13:36
+(epstopdf)                    size: 7914 bytes
+(epstopdf)             Command: <repstopdf --outfile=SciDraw_gamma_vibration-ep
+s-converted-to.pdf SciDraw_gamma_vibration.eps>
+(epstopdf)             \includegraphics on input line 93.
+Package epstopdf Info: Output file is already uptodate.
+
+<SciDraw_gamma_vibration-eps-converted-to.pdf, id=850, 957.5775pt x 478.78876pt
+>
+File: SciDraw_gamma_vibration-eps-converted-to.pdf Graphic file (type pdf)
+ <use SciDraw_gamma_vibration-eps-converted-to.pdf>
+Package pdftex.def Info: SciDraw_gamma_vibration-eps-converted-to.pdf used on i
+nput line 93.
+(pdftex.def)             Requested size: 432.0pt x 216.00087pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8] [9 <./SciDraw_beta_vibration-eps-converted-to.pdf>] [10 <./SciDraw_gamma_vi
+bration-eps-converted-to.pdf>]
+<phonon_deformed.pdf, id=887, 1102.1175pt x 615.29875pt>
+File: phonon_deformed.pdf Graphic file (type pdf)
+
+<use phonon_deformed.pdf>
+Package pdftex.def Info: phonon_deformed.pdf used on input line 148.
+(pdftex.def)             Requested size: 432.0pt x 241.17668pt.
+ [11 <./phonon_deformed.pdf>]
+Overfull \hbox (7.13046pt too wide) in paragraph at lines 182--183
+[]\OT1/cmr/m/n/12 Experimentally, many de-formed rare-earth nu-clei ex-hibit a 
+low-lying ex-cited K$[]$=0$[]$
+ []
+
+Package epstopdf Info: Source file: <Rare_Earth_2g_BE2.eps>
+(epstopdf)                    date: 2016-10-12 12:53:09
+(epstopdf)                    size: 23179 bytes
+(epstopdf)             Output file: <Rare_Earth_2g_BE2-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-10-12 12:55:32
+(epstopdf)                    size: 8372 bytes
+(epstopdf)             Command: <repstopdf --outfile=Rare_Earth_2g_BE2-eps-conv
+erted-to.pdf Rare_Earth_2g_BE2.eps>
+(epstopdf)             \includegraphics on input line 186.
+Package epstopdf Info: Output file is already uptodate.
+<Rare_Earth_2g_BE2-eps-converted-to.pdf, id=920, 361.35pt x 252.945pt>
+File: Rare_Earth_2g_BE2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Rare_Earth_2g_BE2-eps-converted-to.pdf>
+Package pdftex.def Info: Rare_Earth_2g_BE2-eps-converted-to.pdf used on input l
+ine 186.
+(pdftex.def)             Requested size: 380.16211pt x 266.11728pt.
+Package epstopdf Info: Source file: <Rare_Earth_2g_N.eps>
+(epstopdf)                    date: 2016-10-12 12:52:53
+(epstopdf)                    size: 23736 bytes
+(epstopdf)             Output file: <Rare_Earth_2g_N-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-10-13 16:50:17
+(epstopdf)                    size: 7903 bytes
+(epstopdf)             Command: <repstopdf --outfile=Rare_Earth_2g_N-eps-conver
+ted-to.pdf Rare_Earth_2g_N.eps>
+(epstopdf)             \includegraphics on input line 187.
+Package epstopdf Info: Output file is already uptodate.
+
+<Rare_Earth_2g_N-eps-converted-to.pdf, id=921, 361.35pt x 252.945pt>
+File: Rare_Earth_2g_N-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Rare_Earth_2g_N-eps-converted-to.pdf>
+Package pdftex.def Info: Rare_Earth_2g_N-eps-converted-to.pdf used on input lin
+e 187.
+(pdftex.def)             Requested size: 380.16211pt x 266.11728pt.
+
+
+LaTeX Warning: Float too large for page by 1.75595pt on input line 190.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12]
+Package epstopdf Info: Source file: <Rare_Earth_02_BE2.eps>
+(epstopdf)                    date: 2016-10-12 12:52:36
+(epstopdf)                    size: 22636 bytes
+(epstopdf)             Output file: <Rare_Earth_02_BE2-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-10-12 12:55:37
+(epstopdf)                    size: 7952 bytes
+(epstopdf)             Command: <repstopdf --outfile=Rare_Earth_02_BE2-eps-conv
+erted-to.pdf Rare_Earth_02_BE2.eps>
+(epstopdf)             \includegraphics on input line 198.
+Package epstopdf Info: Output file is already uptodate.
+ <Rare_Earth_02_BE2-eps-converted-to.pdf, id=934, 361.35pt x 252.945pt>
+File: Rare_Earth_02_BE2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Rare_Earth_02_BE2-eps-converted-to.pdf>
+Package pdftex.def Info: Rare_Earth_02_BE2-eps-converted-to.pdf used on input l
+ine 198.
+(pdftex.def)             Requested size: 380.16211pt x 266.11728pt.
+Package epstopdf Info: Source file: <Rare_Earth_0s_N.eps>
+(epstopdf)                    date: 2016-10-12 12:52:46
+(epstopdf)                    size: 23740 bytes
+(epstopdf)             Output file: <Rare_Earth_0s_N-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-10-12 12:55:36
+(epstopdf)                    size: 7904 bytes
+(epstopdf)             Command: <repstopdf --outfile=Rare_Earth_0s_N-eps-conver
+ted-to.pdf Rare_Earth_0s_N.eps>
+(epstopdf)             \includegraphics on input line 199.
+Package epstopdf Info: Output file is already uptodate.
+
+<Rare_Earth_0s_N-eps-converted-to.pdf, id=935, 361.35pt x 252.945pt>
+File: Rare_Earth_0s_N-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Rare_Earth_0s_N-eps-converted-to.pdf>
+Package pdftex.def Info: Rare_Earth_0s_N-eps-converted-to.pdf used on input lin
+e 199.
+(pdftex.def)             Requested size: 380.16211pt x 266.11728pt.
+
+
+LaTeX Warning: Float too large for page by 16.86794pt on input line 202.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13]) [14] [15 <./Rare_Earth_2g_BE2-eps-converted-to.pdf> <./Rare_Earth_2g_N-ep
+s-converted-to.pdf>] [16 <./Rare_Earth_02_BE2-eps-converted-to.pdf> <./Rare_Ear
+th_0s_N-eps-converted-to.pdf>]
+\openout2 = `Chapter1_Casarella_lasthalf.aux'.
+
+ (./Chapter1_Casarella_lasthalf.tex [17
+
+
+]
+<Q3D_spectrometer.png, id=997, 874.26625pt x 489.83pt>
+File: Q3D_spectrometer.png Graphic file (type png)
+
+<use Q3D_spectrometer.png>
+Package pdftex.def Info: Q3D_spectrometer.png used on input line 15.
+(pdftex.def)             Requested size: 432.0pt x 242.03682pt.
+ [18 <./Q3D_spectrometer.png>]
+<158Gd(pt).png, id=1007, 1363.0925pt x 816.04875pt>
+File: 158Gd(pt).png Graphic file (type png)
+ <use 158Gd(pt).png>
+Package pdftex.def Info: 158Gd(pt).png used on input line 26.
+(pdftex.def)             Requested size: 432.0pt x 258.62566pt.
+
+[19 <./158Gd(pt).png>]
+Package epstopdf Info: Source file: <Gd_Dy_0s_Number.eps>
+(epstopdf)                    date: 2016-09-28 08:41:05
+(epstopdf)                    size: 25062 bytes
+(epstopdf)             Output file: <Gd_Dy_0s_Number-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-09-28 11:06:15
+(epstopdf)                    size: 8005 bytes
+(epstopdf)             Command: <repstopdf --outfile=Gd_Dy_0s_Number-eps-conver
+ted-to.pdf Gd_Dy_0s_Number.eps>
+(epstopdf)             \includegraphics on input line 36.
+Package epstopdf Info: Output file is already uptodate.
+
+<Gd_Dy_0s_Number-eps-converted-to.pdf, id=1026, 361.35pt x 252.945pt>
+File: Gd_Dy_0s_Number-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Gd_Dy_0s_Number-eps-converted-to.pdf>
+Package pdftex.def Info: Gd_Dy_0s_Number-eps-converted-to.pdf used on input lin
+e 36.
+(pdftex.def)             Requested size: 410.39868pt x 287.2796pt.
+ [20 <./Gd_Dy_0s_Number-eps-converted-to.pdf>] [21] [22] [23] [24] [25] [26] [2
+7]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 180.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 180.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 180.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 180.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 183.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 183.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 183.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 183.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 183.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 183.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 183.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 183.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 183.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 183.
+
+[28] [29] <SciDraw_SmSystematics.pdf, id=1161, 1513.655pt x 926.46124pt>
+File: SciDraw_SmSystematics.pdf Graphic file (type pdf)
+
+<use SciDraw_SmSystematics.pdf>
+Package pdftex.def Info: SciDraw_SmSystematics.pdf used on input line 189.
+(pdftex.def)             Requested size: 564.63979pt x 345.60132pt.
+
+
+LaTeX Warning: Float too large for page by 61.2894pt on input line 193.
+
+[30 <./SciDraw_SmSystematics.pdf>]
+<SciDraw_GdSystematics.pdf, id=1185, 1135.24126pt x 696.6025pt>
+File: SciDraw_GdSystematics.pdf Graphic file (type pdf)
+
+<use SciDraw_GdSystematics.pdf>
+Package pdftex.def Info: SciDraw_GdSystematics.pdf used on input line 201.
+(pdftex.def)             Requested size: 563.21935pt x 345.60132pt.
+
+
+LaTeX Warning: Float too large for page by 61.2894pt on input line 205.
+
+[31 <./SciDraw_GdSystematics.pdf>]
+<SciDraw_DySystematics.pdf, id=1208, 1513.655pt x 926.46124pt>
+File: SciDraw_DySystematics.pdf Graphic file (type pdf)
+
+<use SciDraw_DySystematics.pdf>
+Package pdftex.def Info: SciDraw_DySystematics.pdf used on input line 213.
+(pdftex.def)             Requested size: 564.63979pt x 345.60132pt.
+
+
+LaTeX Warning: Float too large for page by 46.12271pt on input line 217.
+
+[32 <./SciDraw_DySystematics.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 220.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 220.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 220.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 220.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 220.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 220.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 220.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 220.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 220.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 220.
+
+[33
+
+
+
+
+
+
+] <SciDraw_ErSystematics.pdf, id=1234, 1513.655pt x 926.46124pt>
+File: SciDraw_ErSystematics.pdf Graphic file (type pdf)
+
+<use SciDraw_ErSystematics.pdf>
+Package pdftex.def Info: SciDraw_ErSystematics.pdf used on input line 226.
+(pdftex.def)             Requested size: 564.63979pt x 345.60132pt.
+
+
+LaTeX Warning: Float too large for page by 61.2894pt on input line 230.
+
+[34 <./SciDraw_ErSystematics.pdf>]
+<SciDraw_YbSystematics.pdf, id=1257, 1513.655pt x 926.46124pt>
+File: SciDraw_YbSystematics.pdf Graphic file (type pdf)
+
+<use SciDraw_YbSystematics.pdf>
+Package pdftex.def Info: SciDraw_YbSystematics.pdf used on input line 237.
+(pdftex.def)             Requested size: 564.63979pt x 345.60132pt.
+
+
+LaTeX Warning: Float too large for page by 61.2894pt on input line 241.
+
+[35 <./SciDraw_YbSystematics.pdf>]
+<SciDraw_HfSystematics.pdf, id=1280, 1513.655pt x 926.46124pt>
+File: SciDraw_HfSystematics.pdf Graphic file (type pdf)
+
+<use SciDraw_HfSystematics.pdf>
+Package pdftex.def Info: SciDraw_HfSystematics.pdf used on input line 248.
+(pdftex.def)             Requested size: 564.63979pt x 345.60132pt.
+
+
+LaTeX Warning: Float too large for page by 61.2894pt on input line 252.
+
+[36 <./SciDraw_HfSystematics.pdf>] [37
+
+
+
+
+
+
+] [38]
+<SciDraw_Gd_Octupole_Systematics_FULL.pdf, id=1329, 1513.655pt x 926.46124pt>
+File: SciDraw_Gd_Octupole_Systematics_FULL.pdf Graphic file (type pdf)
+
+<use SciDraw_Gd_Octupole_Systematics_FULL.pdf>
+Package pdftex.def Info: SciDraw_Gd_Octupole_Systematics_FULL.pdf used on input
+ line 275.
+(pdftex.def)             Requested size: 564.63979pt x 345.60132pt.
+
+
+LaTeX Warning: Float too large for page by 15.43463pt on input line 279.
+
+[39 <./SciDraw_Gd_Octupole_Systematics_FULL.pdf>]
+<SciDraw_DySystematics_Octupole.pdf, id=1351, 1513.655pt x 926.46124pt>
+File: SciDraw_DySystematics_Octupole.pdf Graphic file (type pdf)
+
+<use SciDraw_DySystematics_Octupole.pdf>
+Package pdftex.def Info: SciDraw_DySystematics_Octupole.pdf used on input line 
+285.
+(pdftex.def)             Requested size: 564.63979pt x 345.60132pt.
+
+
+LaTeX Warning: Float too large for page by 27.93463pt on input line 289.
+
+[40 <./SciDraw_DySystematics_Octupole.pdf>]
+
+LaTeX Warning: Reference `fig:SmSystematics,fig:GdSystematics,fig:DySystematics
+,fig:ErSystematics,fig:YbSystematics,fig:HfSystematics' on page 41 undefined on
+ input line 294.
+
+[41
+
+
+
+
+] [42] <Multiphonon_RareEarths.pdf, id=1384, 1513.655pt x 926.46124pt>
+File: Multiphonon_RareEarths.pdf Graphic file (type pdf)
+
+<use Multiphonon_RareEarths.pdf>
+Package pdftex.def Info: Multiphonon_RareEarths.pdf used on input line 299.
+(pdftex.def)             Requested size: 564.63979pt x 345.60132pt.
+
+
+LaTeX Warning: Float too large for page by 17.60132pt on input line 303.
+
+[43 <./Multiphonon_RareEarths.pdf>] [44
+
+
+]) [45]
+\openout2 = `Chapter2_Casarella.aux'.
+
+ (./Chapter2_Casarella.tex
+CHAPTER 2.
+Package epstopdf Info: Source file: <lifetimes-techniques-full.eps>
+(epstopdf)                    date: 2016-04-27 14:08:08
+(epstopdf)                    size: 844818 bytes
+(epstopdf)             Output file: <lifetimes-techniques-full-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2016-04-27 14:18:46
+(epstopdf)                    size: 209585 bytes
+(epstopdf)             Command: <repstopdf --outfile=lifetimes-techniques-full-
+eps-converted-to.pdf lifetimes-techniques-full.eps>
+(epstopdf)             \includegraphics on input line 12.
+Package epstopdf Info: Output file is already uptodate.
+
+<lifetimes-techniques-full-eps-converted-to.pdf, id=1413, 579.16376pt x 210.787
+5pt>
+File: lifetimes-techniques-full-eps-converted-to.pdf Graphic file (type pdf)
+ <use lifetimes-techniques-full-eps-converted-to.pdf>
+Package pdftex.def Info: lifetimes-techniques-full-eps-converted-to.pdf used on
+ input line 12.
+(pdftex.def)             Requested size: 410.39868pt x 149.36426pt.
+ [46
+
+
+
+ <./lifetimes-techniques-full-eps-converted-to.pdf>] [47] [48]
+Package epstopdf Info: Source file: <spectra_shift_DSAM.eps>
+(epstopdf)                    date: 2016-06-09 15:51:45
+(epstopdf)                    size: 25322 bytes
+(epstopdf)             Output file: <spectra_shift_DSAM-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-06-09 15:51:48
+(epstopdf)                    size: 10092 bytes
+(epstopdf)             Command: <repstopdf --outfile=spectra_shift_DSAM-eps-con
+verted-to.pdf spectra_shift_DSAM.eps>
+(epstopdf)             \includegraphics on input line 39.
+Package epstopdf Info: Output file is already uptodate.
+
+<spectra_shift_DSAM-eps-converted-to.pdf, id=1478, 361.35pt x 252.945pt>
+File: spectra_shift_DSAM-eps-converted-to.pdf Graphic file (type pdf)
+
+<use spectra_shift_DSAM-eps-converted-to.pdf>
+Package pdftex.def Info: spectra_shift_DSAM-eps-converted-to.pdf used on input 
+line 39.
+(pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[49] [50 <./spectra_shift_DSAM-eps-converted-to.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 51.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 51.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\prime' on input line 51.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\gamma' on input line 51.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 51.
+
+[51] [52]
+Package epstopdf Info: Source file: <SciDraw_ExpSetup_Dy.eps>
+(epstopdf)                    date: 2016-09-13 12:47:32
+(epstopdf)                    size: 2767346 bytes
+(epstopdf)             Output file: <SciDraw_ExpSetup_Dy-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-09-16 12:47:33
+(epstopdf)                    size: 14777 bytes
+(epstopdf)             Command: <repstopdf --outfile=SciDraw_ExpSetup_Dy-eps-co
+nverted-to.pdf SciDraw_ExpSetup_Dy.eps>
+(epstopdf)             \includegraphics on input line 67.
+Package epstopdf Info: Output file is already uptodate.
+
+<SciDraw_ExpSetup_Dy-eps-converted-to.pdf, id=1520, 658.46pt x 508.90125pt>
+File: SciDraw_ExpSetup_Dy-eps-converted-to.pdf Graphic file (type pdf)
+
+<use SciDraw_ExpSetup_Dy-eps-converted-to.pdf>
+Package pdftex.def Info: SciDraw_ExpSetup_Dy-eps-converted-to.pdf used on input
+ line 67.
+(pdftex.def)             Requested size: 419.04053pt x 323.87086pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[53] [54 <./SciDraw_ExpSetup_Dy-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <TAC_spectrum.eps>
+(epstopdf)                    date: 2017-02-08 16:27:07
+(epstopdf)                    size: 129610 bytes
+(epstopdf)             Output file: <TAC_spectrum-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-02-08 16:41:23
+(epstopdf)                    size: 46650 bytes
+(epstopdf)             Command: <repstopdf --outfile=TAC_spectrum-eps-converted
+-to.pdf TAC_spectrum.eps>
+(epstopdf)             \includegraphics on input line 79.
+Package epstopdf Info: Output file is already uptodate.
+
+<TAC_spectrum-eps-converted-to.pdf, id=1550, 361.35pt x 252.945pt>
+File: TAC_spectrum-eps-converted-to.pdf Graphic file (type pdf)
+
+<use TAC_spectrum-eps-converted-to.pdf>
+Package pdftex.def Info: TAC_spectrum-eps-converted-to.pdf used on input line 7
+9.
+(pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[55] [56 <./TAC_spectrum-eps-converted-to.pdf>] [57]
+Package epstopdf Info: Source file: <matching_exf.eps>
+(epstopdf)                    date: 2017-01-11 19:17:41
+(epstopdf)                    size: 27041 bytes
+(epstopdf)             Output file: <matching_exf-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-12 14:01:49
+(epstopdf)                    size: 11552 bytes
+(epstopdf)             Command: <repstopdf --outfile=matching_exf-eps-converted
+-to.pdf matching_exf.eps>
+(epstopdf)             \includegraphics on input line 92.
+Package epstopdf Info: Output file is already uptodate.
+
+<matching_exf-eps-converted-to.pdf, id=1573, 361.35pt x 252.945pt>
+File: matching_exf-eps-converted-to.pdf Graphic file (type pdf)
+
+<use matching_exf-eps-converted-to.pdf>
+Package pdftex.def Info: matching_exf-eps-converted-to.pdf used on input line 9
+2.
+(pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
+ [58 <./matching_exf-eps-converted-to.pdf>] [59]
+Package epstopdf Info: Source file: <multipole_diff.eps>
+(epstopdf)                    date: 2016-09-16 13:17:08
+(epstopdf)                    size: 26956 bytes
+(epstopdf)             Output file: <multipole_diff-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-09-16 13:17:15
+(epstopdf)                    size: 11984 bytes
+(epstopdf)             Command: <repstopdf --outfile=multipole_diff-eps-convert
+ed-to.pdf multipole_diff.eps>
+(epstopdf)             \includegraphics on input line 118.
+Package epstopdf Info: Output file is already uptodate.
+ <multipole_diff-eps-converted-to.pdf, id=1594, 722.7pt x 252.945pt>
+File: multipole_diff-eps-converted-to.pdf Graphic file (type pdf)
+
+<use multipole_diff-eps-converted-to.pdf>
+Package pdftex.def Info: multipole_diff-eps-converted-to.pdf used on input line
+ 118.
+(pdftex.def)             Requested size: 419.04053pt x 146.66574pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[60]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 128.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 128.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 128.
+
+[61 <./multipole_diff-eps-converted-to.pdf>]
+Overfull \hbox (22.33585pt too wide) in paragraph at lines 155--164
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 171.
+
+[62] [63]
+Package epstopdf Info: Source file: <SciDraw_angular_distributions.eps>
+(epstopdf)                    date: 2016-10-11 15:22:58
+(epstopdf)                    size: 2692925 bytes
+(epstopdf)             Output file: <SciDraw_angular_distributions-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2016-10-11 15:30:33
+(epstopdf)                    size: 11149 bytes
+(epstopdf)             Command: <repstopdf --outfile=SciDraw_angular_distributi
+ons-eps-converted-to.pdf SciDraw_angular_distributions.eps>
+(epstopdf)             \includegraphics on input line 213.
+Package epstopdf Info: Output file is already uptodate.
+
+<SciDraw_angular_distributions-eps-converted-to.pdf, id=1628, 658.46pt x 508.90
+125pt>
+File: SciDraw_angular_distributions-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use SciDraw_angular_distributions-eps-converted-to.pdf>
+Package pdftex.def Info: SciDraw_angular_distributions-eps-converted-to.pdf use
+d on input line 213.
+(pdftex.def)             Requested size: 410.39868pt x 317.1928pt.
+) [64 <./SciDraw_angular_distributions-eps-converted-to.pdf>] [65] [66]
+\openout2 = `Chapter3_Casarella.aux'.
+
+
+(./Chapter3_Casarella.tex
+CHAPTER 3.
+[67
+
+
+
+] [68] [69] <calibration_226Ra.png, id=1672, 1304.875pt x 964.60374pt>
+File: calibration_226Ra.png Graphic file (type png)
+
+<use calibration_226Ra.png>
+Package pdftex.def Info: calibration_226Ra.png used on input line 43.
+(pdftex.def)             Requested size: 410.39868pt x 303.38078pt.
+ [70
+
+
+ <./calibration_226Ra.png>] [71]
+Package epstopdf Info: Source file: <310_energy_calib.eps>
+(epstopdf)                    date: 2016-04-21 10:58:31
+(epstopdf)                    size: 24623 bytes
+(epstopdf)             Output file: <310_energy_calib-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-04-21 10:58:41
+(epstopdf)                    size: 9746 bytes
+(epstopdf)             Command: <repstopdf --outfile=310_energy_calib-eps-conve
+rted-to.pdf 310_energy_calib.eps>
+(epstopdf)             \includegraphics on input line 95.
+Package epstopdf Info: Output file is already uptodate.
+
+<310_energy_calib-eps-converted-to.pdf, id=1683, 361.35pt x 252.945pt>
+File: 310_energy_calib-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 310_energy_calib-eps-converted-to.pdf>
+Package pdftex.def Info: 310_energy_calib-eps-converted-to.pdf used on input li
+ne 95.
+(pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
+ [72
+
+
+ <./310_energy_calib-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <310_dsnonlin_color.eps>
+(epstopdf)                    date: 2016-04-14 11:02:52
+(epstopdf)                    size: 30310 bytes
+(epstopdf)             Output file: <310_dsnonlin_color-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-04-14 14:13:11
+(epstopdf)                    size: 16583 bytes
+(epstopdf)             Command: <repstopdf --outfile=310_dsnonlin_color-eps-con
+verted-to.pdf 310_dsnonlin_color.eps>
+(epstopdf)             \includegraphics on input line 108.
+Package epstopdf Info: Output file is already uptodate.
+
+<310_dsnonlin_color-eps-converted-to.pdf, id=1700, 361.35pt x 252.945pt>
+File: 310_dsnonlin_color-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 310_dsnonlin_color-eps-converted-to.pdf>
+Package pdftex.def Info: 310_dsnonlin_color-eps-converted-to.pdf used on input 
+line 108.
+(pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
+ [73]
+Package epstopdf Info: Source file: <310_polyfit_color.eps>
+(epstopdf)                    date: 2016-10-05 10:54:35
+(epstopdf)                    size: 25468 bytes
+(epstopdf)             Output file: <310_polyfit_color-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-10-05 10:54:40
+(epstopdf)                    size: 11213 bytes
+(epstopdf)             Command: <repstopdf --outfile=310_polyfit_color-eps-conv
+erted-to.pdf 310_polyfit_color.eps>
+(epstopdf)             \includegraphics on input line 119.
+Package epstopdf Info: Output file is already uptodate.
+
+<310_polyfit_color-eps-converted-to.pdf, id=1707, 361.35pt x 252.945pt>
+File: 310_polyfit_color-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 310_polyfit_color-eps-converted-to.pdf>
+Package pdftex.def Info: 310_polyfit_color-eps-converted-to.pdf used on input l
+ine 119.
+(pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
+ [74 <./310_dsnonlin_color-eps-converted-to.pdf>] [75 <./310_polyfit_color-eps-
+converted-to.pdf>]
+Package epstopdf Info: Source file: <gambit.eps>
+(epstopdf)                    date: 2016-09-16 14:08:34
+(epstopdf)                    size: 24273 bytes
+(epstopdf)             Output file: <gambit-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-09-16 14:08:43
+(epstopdf)                    size: 12720 bytes
+(epstopdf)             Command: <repstopdf --outfile=gambit-eps-converted-to.pd
+f gambit.eps>
+(epstopdf)             \includegraphics on input line 130.
+Package epstopdf Info: Output file is already uptodate.
+
+<gambit-eps-converted-to.pdf, id=1743, 361.35pt x 252.945pt>
+File: gambit-eps-converted-to.pdf Graphic file (type pdf)
+
+<use gambit-eps-converted-to.pdf>
+Package pdftex.def Info: gambit-eps-converted-to.pdf used on input line 130.
+(pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
+ [76 <./gambit-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <samplespec.eps>
+(epstopdf)                    date: 2016-04-12 15:34:27
+(epstopdf)                    size: 113434 bytes
+(epstopdf)             Output file: <samplespec-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-04-12 15:36:26
+(epstopdf)                    size: 50682 bytes
+(epstopdf)             Command: <repstopdf --outfile=samplespec-eps-converted-t
+o.pdf samplespec.eps>
+(epstopdf)             \includegraphics on input line 142.
+Package epstopdf Info: Output file is already uptodate.
+
+<samplespec-eps-converted-to.pdf, id=1759, 722.7pt x 505.89pt>
+File: samplespec-eps-converted-to.pdf Graphic file (type pdf)
+
+<use samplespec-eps-converted-to.pdf>
+Package pdftex.def Info: samplespec-eps-converted-to.pdf used on input line 142
+.
+(pdftex.def)             Requested size: 410.39868pt x 287.27959pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[77] [78 <./samplespec-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <sample_exf.eps>
+(epstopdf)                    date: 2016-07-07 12:59:10
+(epstopdf)                    size: 28978 bytes
+(epstopdf)             Output file: <sample_exf-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 13:06:32
+(epstopdf)                    size: 12564 bytes
+(epstopdf)             Command: <repstopdf --outfile=sample_exf-eps-converted-t
+o.pdf sample_exf.eps>
+(epstopdf)             \includegraphics on input line 164.
+Package epstopdf Info: Output file is already uptodate.
+
+<sample_exf-eps-converted-to.pdf, id=1787, 722.7pt x 252.945pt>
+File: sample_exf-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sample_exf-eps-converted-to.pdf>
+Package pdftex.def Info: sample_exf-eps-converted-to.pdf used on input line 164
+.
+(pdftex.def)             Requested size: 419.04053pt x 146.66574pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[79]
+Package epstopdf Info: Source file: <ExF_difference_140_230.eps>
+(epstopdf)                    date: 2016-10-11 13:07:03
+(epstopdf)                    size: 29732 bytes
+(epstopdf)             Output file: <ExF_difference_140_230-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2016-10-11 13:55:48
+(epstopdf)                    size: 10621 bytes
+(epstopdf)             Command: <repstopdf --outfile=ExF_difference_140_230-eps
+-converted-to.pdf ExF_difference_140_230.eps>
+(epstopdf)             \includegraphics on input line 176.
+Package epstopdf Info: Output file is already uptodate.
+
+<ExF_difference_140_230-eps-converted-to.pdf, id=1793, 361.35pt x 252.945pt>
+File: ExF_difference_140_230-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ExF_difference_140_230-eps-converted-to.pdf>
+Package pdftex.def Info: ExF_difference_140_230-eps-converted-to.pdf used on in
+put line 176.
+(pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[80 <./sample_exf-eps-converted-to.pdf>] [81 <./ExF_difference_140_230-eps-conv
+erted-to.pdf>]
+Package epstopdf Info: Source file: <ftau_all.eps>
+(epstopdf)                    date: 2016-04-21 13:30:47
+(epstopdf)                    size: 25288 bytes
+(epstopdf)             Output file: <ftau_all-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-04-21 13:30:50
+(epstopdf)                    size: 8827 bytes
+(epstopdf)             Command: <repstopdf --outfile=ftau_all-eps-converted-to.
+pdf ftau_all.eps>
+(epstopdf)             \includegraphics on input line 193.
+Package epstopdf Info: Output file is already uptodate.
+ <ftau_all-eps-converted-to.pdf, id=1823, 361.35pt x 252.945pt>
+File: ftau_all-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ftau_all-eps-converted-to.pdf>
+Package pdftex.def Info: ftau_all-eps-converted-to.pdf used on input line 193.
+(pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
+ [82] [83 <./ftau_all-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <DSAM_example.eps>
+(epstopdf)                    date: 2016-04-16 22:22:20
+(epstopdf)                    size: 23046 bytes
+(epstopdf)             Output file: <DSAM_example-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-04-16 22:22:26
+(epstopdf)                    size: 9571 bytes
+(epstopdf)             Command: <repstopdf --outfile=DSAM_example-eps-converted
+-to.pdf DSAM_example.eps>
+(epstopdf)             \includegraphics on input line 207.
+Package epstopdf Info: Output file is already uptodate.
+<DSAM_example-eps-converted-to.pdf, id=1846, 361.35pt x 252.945pt>
+File: DSAM_example-eps-converted-to.pdf Graphic file (type pdf)
+
+<use DSAM_example-eps-converted-to.pdf>
+Package pdftex.def Info: DSAM_example-eps-converted-to.pdf used on input line 2
+07.
+(pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
+ [84 <./DSAM_example-eps-converted-to.pdf>] [85] <1308_AD_fit.png, id=1878, 458
+.71375pt x 399.4925pt>
+File: 1308_AD_fit.png Graphic file (type png)
+
+<use 1308_AD_fit.png>
+Package pdftex.def Info: 1308_AD_fit.png used on input line 219.
+(pdftex.def)             Requested size: 186.01602pt x 162.0pt.
+ <1308_AD_chisq_fit.png, id=1879, 517.935pt x 397.485pt>
+File: 1308_AD_chisq_fit.png Graphic file (type png)
+
+<use 1308_AD_chisq_fit.png>
+Package pdftex.def Info: 1308_AD_chisq_fit.png used on input line 220.
+(pdftex.def)             Requested size: 211.09813pt x 162.0pt.
+
+<1308_AD_delta_chi.png, id=1880, 462.72874pt x 358.33875pt>
+File: 1308_AD_delta_chi.png Graphic file (type png)
+
+<use 1308_AD_delta_chi.png>
+Package pdftex.def Info: 1308_AD_delta_chi.png used on input line 221.
+(pdftex.def)             Requested size: 315.35815pt x 244.2139pt.
+) [86] [87] [88 <./1308_AD_fit.png> <./1308_AD_chisq_fit.png> <./1308_AD_delta_
+chi.png>]
+\openout2 = `Chapter_Results.aux'.
+
+ (./Chapter_Results.tex
+CHAPTER 4.
+Package epstopdf Info: Source file: <lifetime_inflation_example.eps>
+(epstopdf)                    date: 2016-06-20 13:00:24
+(epstopdf)                    size: 22506 bytes
+(epstopdf)             Output file: <lifetime_inflation_example-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2016-06-20 13:07:45
+(epstopdf)                    size: 8123 bytes
+(epstopdf)             Command: <repstopdf --outfile=lifetime_inflation_example
+-eps-converted-to.pdf lifetime_inflation_example.eps>
+(epstopdf)             \includegraphics on input line 6.
+Package epstopdf Info: Output file is already uptodate.
+
+<lifetime_inflation_example-eps-converted-to.pdf, id=1900, 361.35pt x 252.945pt
+>
+File: lifetime_inflation_example-eps-converted-to.pdf Graphic file (type pdf)
+ <use lifetime_inflation_example-eps-converted-to.pdf>
+Package pdftex.def Info: lifetime_inflation_example-eps-converted-to.pdf used o
+n input line 6.
+(pdftex.def)             Requested size: 367.20264pt x 257.04329pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[89
+
+
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 13.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 13.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 13.
+
+[90 <./lifetime_inflation_example-eps-converted-to.pdf>] [91]
+<160Gd_All.pdf, id=1927, 2254.4225pt x 1171.37625pt>
+File: 160Gd_All.pdf Graphic file (type pdf)
+ <use 160Gd_All.pdf>
+Package pdftex.def Info: 160Gd_All.pdf used on input line 19.
+(pdftex.def)             Requested size: 706.7069pt x 367.20264pt.
+
+Overfull \hbox (58.7069pt too wide) in paragraph at lines 19--21
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 26.04622pt on input line 22.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[92 <./160Gd_All.pdf>]
+Package epstopdf Info: Source file: <160Gd_viz_lifetimes.eps>
+(epstopdf)                    date: 2016-09-21 10:13:36
+(epstopdf)                    size: 25137 bytes
+(epstopdf)             Output file: <160Gd_viz_lifetimes-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-09-21 10:55:05
+(epstopdf)                    size: 9739 bytes
+(epstopdf)             Command: <repstopdf --outfile=160Gd_viz_lifetimes-eps-co
+nverted-to.pdf 160Gd_viz_lifetimes.eps>
+(epstopdf)             \includegraphics on input line 30.
+Package epstopdf Info: Output file is already uptodate.
+
+<160Gd_viz_lifetimes-eps-converted-to.pdf, id=1954, 722.7pt x 252.945pt>
+File: 160Gd_viz_lifetimes-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 160Gd_viz_lifetimes-eps-converted-to.pdf>
+Package pdftex.def Info: 160Gd_viz_lifetimes-eps-converted-to.pdf used on input
+ line 30.
+(pdftex.def)             Requested size: 410.39868pt x 143.6398pt.
+
+Overfull \hbox (18.9661pt too wide) in paragraph at lines 35--36
+[]\OT1/cmr/m/n/12 An ex-am-ple of the E$[]$=2.0 MeV an-gu-lar dis-tri-bu-tion s
+ingles-spectrum for $[]$Gd(n,n$[]\OML/cmm/m/it/12 ^^M$\OT1/cmr/m/n/12 )
+ []
+
+Package epstopdf Info: Source file: <160Gd_200_spectra.eps>
+(epstopdf)                    date: 2016-10-17 09:08:54
+(epstopdf)                    size: 243104 bytes
+(epstopdf)             Output file: <160Gd_200_spectra-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-10-17 09:10:09
+(epstopdf)                    size: 106899 bytes
+(epstopdf)             Command: <repstopdf --outfile=160Gd_200_spectra-eps-conv
+erted-to.pdf 160Gd_200_spectra.eps>
+(epstopdf)             \includegraphics on input line 39.
+Package epstopdf Info: Output file is already uptodate.
+<160Gd_200_spectra-eps-converted-to.pdf, id=1956, 4336.2pt x 2890.8pt>
+File: 160Gd_200_spectra-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 160Gd_200_spectra-eps-converted-to.pdf>
+Package pdftex.def Info: 160Gd_200_spectra-eps-converted-to.pdf used on input l
+ine 39.
+(pdftex.def)             Requested size: 410.39868pt x 273.57022pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 45.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 45.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 45.
+
+[93
+
+
+ <./160Gd_viz_lifetimes-eps-converted-to.pdf>] [94 <./160Gd_200_spectra-eps-con
+verted-to.pdf>]
+
+LaTeX Warning: Float too large for page by 19.27795pt on input line 79.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[95]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\gamma' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 82.
+
+
+Overfull \hbox (5.37532pt too wide) in paragraph at lines 90--106
+ [][] 
+ []
+
+[96
+
+
+]
+Overfull \hbox (7.39749pt too wide) in paragraph at lines 126--150
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[97]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 191.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 191.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 191.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 191.
+
+[98] [99]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [100] [101]
+\openout2 = `Chapter_Results_Dy.aux'.
+
+ (./Chapter_Results_Dy.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+[102
+
+
+] <162Dy_All.pdf, id=2047, 1908.12875pt x 1161.33875pt>
+File: 162Dy_All.pdf Graphic file (type pdf)
+
+<use 162Dy_All.pdf>
+Package pdftex.def Info: 162Dy_All.pdf used on input line 14.
+(pdftex.def)             Requested size: 567.84277pt x 345.60132pt.
+
+
+LaTeX Warning: Float too large for page by 32.61159pt on input line 18.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[103 <./162Dy_All.pdf>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[104
+
+
+] [105]
+Package epstopdf Info: Source file: <../Dissertation_Casarella/162Dy_viz_lifeti
+mes.eps>
+(epstopdf)                    date: 2016-08-29 09:40:24
+(epstopdf)                    size: 27906 bytes
+(epstopdf)             Output file: <../Dissertation_Casarella/162Dy_viz_lifeti
+mes-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-08-29 09:52:56
+(epstopdf)                    size: 11542 bytes
+(epstopdf)             Command: <repstopdf --outfile=../Dissertation_Casarella/
+162Dy_viz_lifetimes-eps-converted-to.pdf ../Dissertation_Casarella/162Dy_viz_li
+fetimes.eps>
+(epstopdf)             \includegraphics on input line 67.
+Package epstopdf Info: Output file is already uptodate.
+
+<../Dissertation_Casarella/162Dy_viz_lifetimes-eps-converted-to.pdf, id=2094, 7
+22.7pt x 252.945pt>
+File: ../Dissertation_Casarella/162Dy_viz_lifetimes-eps-converted-to.pdf Graphi
+c file (type pdf)
+
+<use ../Dissertation_Casarella/162Dy_viz_lifetimes-eps-converted-to.pdf>
+Package pdftex.def Info: ../Dissertation_Casarella/162Dy_viz_lifetimes-eps-conv
+erted-to.pdf used on input line 67.
+(pdftex.def)             Requested size: 431.56494pt x 151.04642pt.
+
+Overfull \hbox (18.39388pt too wide) in paragraph at lines 72--73
+[]\OT1/cmr/m/n/12 An ex-am-ple of the E$[]$=2.2 MeV an-gu-lar dis-tri-bu-tion s
+ingles-spectrum for $[]$Dy(n,n$[]\OML/cmm/m/it/12 ^^M$\OT1/cmr/m/n/12 )
+ []
+
+Package epstopdf Info: Source file: <sample_spec_stacked_220.eps>
+(epstopdf)                    date: 2016-10-17 09:11:24
+(epstopdf)                    size: 212865 bytes
+(epstopdf)             Output file: <sample_spec_stacked_220-eps-converted-to.p
+df>
+(epstopdf)                    date: 2016-10-17 09:15:06
+(epstopdf)                    size: 97955 bytes
+(epstopdf)             Command: <repstopdf --outfile=sample_spec_stacked_220-ep
+s-converted-to.pdf sample_spec_stacked_220.eps>
+(epstopdf)             \includegraphics on input line 76.
+Package epstopdf Info: Output file is already uptodate.
+<sample_spec_stacked_220-eps-converted-to.pdf, id=2096, 4336.2pt x 2890.8pt>
+File: sample_spec_stacked_220-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sample_spec_stacked_220-eps-converted-to.pdf>
+Package pdftex.def Info: sample_spec_stacked_220-eps-converted-to.pdf used on i
+nput line 76.
+(pdftex.def)             Requested size: 410.39868pt x 273.57022pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 82.
+
+<../Dissertation_Casarella/162Dy_0s_AD.pdf, id=2099, 722.7pt x 758.835pt>
+File: ../Dissertation_Casarella/162Dy_0s_AD.pdf Graphic file (type pdf)
+
+<use ../Dissertation_Casarella/162Dy_0s_AD.pdf>
+Package pdftex.def Info: ../Dissertation_Casarella/162Dy_0s_AD.pdf used on inpu
+t line 87.
+(pdftex.def)             Requested size: 410.39868pt x 430.9194pt.
+ [106 <../Dissertation_Casarella/162Dy_viz_lifetimes-eps-converted-to.pdf>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../Dissertation_Casarella/162Dy_0s_FT.pdf, id=2113, 722.7pt x 758.835pt>
+File: ../Dissertation_Casarella/162Dy_0s_FT.pdf Graphic file (type pdf)
+
+<use ../Dissertation_Casarella/162Dy_0s_FT.pdf>
+Package pdftex.def Info: ../Dissertation_Casarella/162Dy_0s_FT.pdf used on inpu
+t line 94.
+(pdftex.def)             Requested size: 410.39868pt x 430.9194pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[107 <./sample_spec_stacked_220-eps-converted-to.pdf>] [108 <../Dissertation_Ca
+sarella/162Dy_0s_AD.pdf>] [109 <../Dissertation_Casarella/162Dy_0s_FT.pdf>]
+[110] [111
+
+] [112] [113]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\gamma' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 171.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 171.
+
+[114
+
+] [115
+
+] [116] [117]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 235.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 235.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 235.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 235.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 235.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 235.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 235.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 235.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 235.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 235.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 235.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 235.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 235.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 235.
+
+<162Dy_LLoct.pdf, id=2207, 1355.0625pt x 975.645pt>
+File: 162Dy_LLoct.pdf Graphic file (type pdf)
+ <use 162Dy_LLoct.pdf>
+Package pdftex.def Info: 162Dy_LLoct.pdf used on input line 240.
+(pdftex.def)             Requested size: 410.39868pt x 295.47964pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[118
+
+] [119 <./162Dy_LLoct.pdf>] [120
+
+] [121] [122]
+Package epstopdf Info: Source file: <260_DSAM.eps>
+(epstopdf)                    date: 2016-08-29 15:12:28
+(epstopdf)                    size: 21560 bytes
+(epstopdf)             Output file: <260_DSAM-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-08-29 15:12:38
+(epstopdf)                    size: 9164 bytes
+(epstopdf)             Command: <repstopdf --outfile=260_DSAM-eps-converted-to.
+pdf 260_DSAM.eps>
+(epstopdf)             \includegraphics on input line 302.
+Package epstopdf Info: Output file is already uptodate.
+
+<260_DSAM-eps-converted-to.pdf, id=2252, 361.35pt x 252.945pt>
+File: 260_DSAM-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 260_DSAM-eps-converted-to.pdf>
+Package pdftex.def Info: 260_DSAM-eps-converted-to.pdf used on input line 302.
+(pdftex.def)             Requested size: 211.68237pt x 148.17871pt.
+Package epstopdf Info: Source file: <260_ExF.eps>
+(epstopdf)                    date: 2016-08-30 11:04:11
+(epstopdf)                    size: 27171 bytes
+(epstopdf)             Output file: <260_ExF-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-08-30 11:09:35
+(epstopdf)                    size: 14215 bytes
+(epstopdf)             Command: <repstopdf --outfile=260_ExF-eps-converted-to.p
+df 260_ExF.eps>
+(epstopdf)             \includegraphics on input line 303.
+Package epstopdf Info: Output file is already uptodate.
+
+<260_ExF-eps-converted-to.pdf, id=2253, 361.35pt x 252.945pt>
+File: 260_ExF-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 260_ExF-eps-converted-to.pdf>
+Package pdftex.def Info: 260_ExF-eps-converted-to.pdf used on input line 303.
+(pdftex.def)             Requested size: 211.68237pt x 148.17871pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[123
+
+] [124 <./260_DSAM-eps-converted-to.pdf> <./260_ExF-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <1974_ExF.eps>
+(epstopdf)                    date: 2016-08-23 12:34:17
+(epstopdf)                    size: 21466 bytes
+(epstopdf)             Output file: <1974_ExF-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-08-23 12:58:08
+(epstopdf)                    size: 9144 bytes
+(epstopdf)             Command: <repstopdf --outfile=1974_ExF-eps-converted-to.
+pdf 1974_ExF.eps>
+(epstopdf)             \includegraphics on input line 314.
+Package epstopdf Info: Output file is already uptodate.
+
+<1974_ExF-eps-converted-to.pdf, id=2290, 361.35pt x 252.945pt>
+File: 1974_ExF-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 1974_ExF-eps-converted-to.pdf>
+Package pdftex.def Info: 1974_ExF-eps-converted-to.pdf used on input line 314.
+(pdftex.def)             Requested size: 324.0pt x 226.80313pt.
+Package epstopdf Info: Source file: <912_DSAM.eps>
+(epstopdf)                    date: 2016-08-23 12:56:21
+(epstopdf)                    size: 23131 bytes
+(epstopdf)             Output file: <912_DSAM-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-08-23 12:58:09
+(epstopdf)                    size: 9666 bytes
+(epstopdf)             Command: <repstopdf --outfile=912_DSAM-eps-converted-to.
+pdf 912_DSAM.eps>
+(epstopdf)             \includegraphics on input line 315.
+Package epstopdf Info: Output file is already uptodate.
+
+<912_DSAM-eps-converted-to.pdf, id=2291, 361.35pt x 252.945pt>
+File: 912_DSAM-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 912_DSAM-eps-converted-to.pdf>
+Package pdftex.def Info: 912_DSAM-eps-converted-to.pdf used on input line 315.
+(pdftex.def)             Requested size: 211.68237pt x 148.17871pt.
+Package epstopdf Info: Source file: <1010_DSAM.eps>
+(epstopdf)                    date: 2016-08-23 12:55:24
+(epstopdf)                    size: 23052 bytes
+(epstopdf)             Output file: <1010_DSAM-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-08-23 12:58:21
+(epstopdf)                    size: 9527 bytes
+(epstopdf)             Command: <repstopdf --outfile=1010_DSAM-eps-converted-to
+.pdf 1010_DSAM.eps>
+(epstopdf)             \includegraphics on input line 316.
+Package epstopdf Info: Output file is already uptodate.
+
+<1010_DSAM-eps-converted-to.pdf, id=2292, 361.35pt x 252.945pt>
+File: 1010_DSAM-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 1010_DSAM-eps-converted-to.pdf>
+Package pdftex.def Info: 1010_DSAM-eps-converted-to.pdf used on input line 316.
+
+(pdftex.def)             Requested size: 211.68237pt x 148.17871pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 322.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 322.
+
+Package epstopdf Info: Source file: <../Dissertation_Casarella/937_ExF.eps>
+(epstopdf)                    date: 2016-07-28 10:57:44
+(epstopdf)                    size: 21874 bytes
+(epstopdf)             Output file: <../Dissertation_Casarella/937_ExF-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2016-07-28 11:01:01
+(epstopdf)                    size: 9578 bytes
+(epstopdf)             Command: <repstopdf --outfile=../Dissertation_Casarella/
+937_ExF-eps-converted-to.pdf ../Dissertation_Casarella/937_ExF.eps>
+(epstopdf)             \includegraphics on input line 328.
+Package epstopdf Info: Output file is already uptodate.
+
+<../Dissertation_Casarella/937_ExF-eps-converted-to.pdf, id=2298, 361.35pt x 25
+2.945pt>
+File: ../Dissertation_Casarella/937_ExF-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ../Dissertation_Casarella/937_ExF-eps-converted-to.pdf>
+Package pdftex.def Info: ../Dissertation_Casarella/937_ExF-eps-converted-to.pdf
+ used on input line 328.
+(pdftex.def)             Requested size: 324.0pt x 226.80313pt.
+Package epstopdf Info: Source file: <../Dissertation_Casarella/937_DSAM.eps>
+(epstopdf)                    date: 2016-07-28 11:00:04
+(epstopdf)                    size: 22837 bytes
+(epstopdf)             Output file: <../Dissertation_Casarella/937_DSAM-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2016-07-28 11:00:14
+(epstopdf)                    size: 9485 bytes
+(epstopdf)             Command: <repstopdf --outfile=../Dissertation_Casarella/
+937_DSAM-eps-converted-to.pdf ../Dissertation_Casarella/937_DSAM.eps>
+(epstopdf)             \includegraphics on input line 329.
+Package epstopdf Info: Output file is already uptodate.
+
+<../Dissertation_Casarella/937_DSAM-eps-converted-to.pdf, id=2299, 361.35pt x 2
+52.945pt>
+File: ../Dissertation_Casarella/937_DSAM-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use ../Dissertation_Casarella/937_DSAM-eps-converted-to.pdf>
+Package pdftex.def Info: ../Dissertation_Casarella/937_DSAM-eps-converted-to.pd
+f used on input line 329.
+(pdftex.def)             Requested size: 211.68237pt x 148.17871pt.
+Package epstopdf Info: Source file: <../Dissertation_Casarella/1220_DSAM.eps>
+(epstopdf)                    date: 2016-07-28 11:00:10
+(epstopdf)                    size: 23362 bytes
+(epstopdf)             Output file: <../Dissertation_Casarella/1220_DSAM-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2016-07-28 11:00:15
+(epstopdf)                    size: 9721 bytes
+(epstopdf)             Command: <repstopdf --outfile=../Dissertation_Casarella/
+1220_DSAM-eps-converted-to.pdf ../Dissertation_Casarella/1220_DSAM.eps>
+(epstopdf)             \includegraphics on input line 330.
+Package epstopdf Info: Output file is already uptodate.
+
+<../Dissertation_Casarella/1220_DSAM-eps-converted-to.pdf, id=2300, 361.35pt x 
+252.945pt>
+File: ../Dissertation_Casarella/1220_DSAM-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use ../Dissertation_Casarella/1220_DSAM-eps-converted-to.pdf>
+Package pdftex.def Info: ../Dissertation_Casarella/1220_DSAM-eps-converted-to.p
+df used on input line 330.
+(pdftex.def)             Requested size: 211.68237pt x 148.17871pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[125] [126 <./1974_ExF-eps-converted-to.pdf> <./912_DSAM-eps-converted-to.pdf> 
+<./1010_DSAM-eps-converted-to.pdf>] [127 <../Dissertation_Casarella/937_ExF-eps
+-converted-to.pdf> <../Dissertation_Casarella/937_DSAM-eps-converted-to.pdf> <.
+./Dissertation_Casarella/1220_DSAM-eps-converted-to.pdf>] [128]
+Package epstopdf Info: Source file: <../Dissertation_Casarella/162Dy_1minus_ExF
+.eps>
+(epstopdf)                    date: 2016-08-12 10:40:52
+(epstopdf)                    size: 23709 bytes
+(epstopdf)             Output file: <../Dissertation_Casarella/162Dy_1minus_ExF
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-08-27 10:29:25
+(epstopdf)                    size: 10343 bytes
+(epstopdf)             Command: <repstopdf --outfile=../Dissertation_Casarella/
+162Dy_1minus_ExF-eps-converted-to.pdf ../Dissertation_Casarella/162Dy_1minus_Ex
+F.eps>
+(epstopdf)             \includegraphics on input line 348.
+Package epstopdf Info: Output file is already uptodate.
+
+<../Dissertation_Casarella/162Dy_1minus_ExF-eps-converted-to.pdf, id=2379, 361.
+35pt x 252.945pt>
+File: ../Dissertation_Casarella/162Dy_1minus_ExF-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use ../Dissertation_Casarella/162Dy_1minus_ExF-eps-converted-to.pdf>
+Package pdftex.def Info: ../Dissertation_Casarella/162Dy_1minus_ExF-eps-convert
+ed-to.pdf used on input line 348.
+(pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
+ [129 <../Dissertation_Casarella/162Dy_1minus_ExF-eps-converted-to.pdf>] [130] 
+[131
+
+]
+[132]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 404.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 404.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 404.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 404.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 404.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 404.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 404.
+
+[133
+
+] [134
+
+] [135]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 458.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 458.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 458.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 458.
+
+
+LaTeX Warning: Reference `tab:162Dy_miscellaneous2' on page 136 undefined on in
+put line 459.
+
+[136
+
+] [137
+
+] [138] [139] [140
+
+]
+Overfull \hbox (5.08832pt too wide) in paragraph at lines 548--548
+[]|\OT1/cmr/m/n/12 Thresh.| 
+ []
+
+
+Overfull \hbox (1.34035pt too wide) in paragraph at lines 548--548
+[]|\OT1/cmr/m/n/12 Origin| 
+ []
+
+
+Overfull \hbox (5.08832pt too wide) in paragraph at lines 550--550
+[]|\OT1/cmr/m/n/12 Thresh.| 
+ []
+
+
+Overfull \hbox (1.34035pt too wide) in paragraph at lines 550--550
+[]|\OT1/cmr/m/n/12 Origin| 
+ []
+
+[141
+
+]
+Overfull \hbox (2.67538pt too wide) in paragraph at lines 591--591
+[]|$[]$\OT1/cmr/m/n/12 Dy?| 
+ []
+
+[142] [143]
+Overfull \hbox (2.11942pt too wide) in paragraph at lines 623--623
+[]|$[]$\OT1/cmr/m/n/12 Cu(n,n$[]\OML/cmm/m/it/12 ^^M$\OT1/cmr/m/n/12 )| 
+ []
+
+[144] [145] [146]
+Overfull \hbox (2.1223pt too wide) in paragraph at lines 655--655
+[]|$[]$\OT1/cmr/m/n/12 In(n,n$[]\OML/cmm/m/it/12 ^^M$\OT1/cmr/m/n/12 )| 
+ []
+
+[147] [148]
+Overfull \hbox (5.87782pt too wide) in paragraph at lines 685--685
+[]|$[]$\OT1/cmr/m/n/12 Pb(n,n$[]\OML/cmm/m/it/12 ^^M$\OT1/cmr/m/n/12 )| 
+ []
+
+[149] [150] [151] [152] [153]
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+[]|\OT1/cmr/m/n/12 2516.713
+ []
+
+[154] [155] [156] [157]
+Underfull \hbox (badness 10000) in paragraph at lines 795--801
+
+ []
+
+[158] [159])
+\openout2 = `Chapter4_Casarella.aux'.
+
+ (./Chapter4_Casarella.tex
+CHAPTER 5.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 21.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 21.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 21.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 25.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 25.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 25.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 25.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 25.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 25.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 25.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 25.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 25.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 25.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\gamma' on input line 25.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 25.
+
+[160
+
+
+
+
+]
+Package epstopdf Info: Source file: <1250_Gd.eps>
+(epstopdf)                    date: 2016-07-07 12:24:39
+(epstopdf)                    size: 22801 bytes
+(epstopdf)             Output file: <1250_Gd-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 12:35:12
+(epstopdf)                    size: 9991 bytes
+(epstopdf)             Command: <repstopdf --outfile=1250_Gd-eps-converted-to.p
+df 1250_Gd.eps>
+(epstopdf)             \includegraphics on input line 33.
+Package epstopdf Info: Output file is already uptodate.
+ <1250_Gd-eps-converted-to.pdf, id=2537, 361.35pt x 252.945pt>
+File: 1250_Gd-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 1250_Gd-eps-converted-to.pdf>
+Package pdftex.def Info: 1250_Gd-eps-converted-to.pdf used on input line 33.
+(pdftex.def)             Requested size: 427.68237pt x 299.37952pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[161]
+Package epstopdf Info: Source file: <2163_exfGd.eps>
+(epstopdf)                    date: 2016-07-07 13:03:24
+(epstopdf)                    size: 24868 bytes
+(epstopdf)             Output file: <2163_exfGd-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 13:06:33
+(epstopdf)                    size: 9923 bytes
+(epstopdf)             Command: <repstopdf --outfile=2163_exfGd-eps-converted-t
+o.pdf 2163_exfGd.eps>
+(epstopdf)             \includegraphics on input line 42.
+Package epstopdf Info: Output file is already uptodate.
+ <2163_exfGd-eps-converted-to.pdf, id=2544, 722.7pt x 252.945pt>
+File: 2163_exfGd-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 2163_exfGd-eps-converted-to.pdf>
+Package pdftex.def Info: 2163_exfGd-eps-converted-to.pdf used on input line 42.
+
+(pdftex.def)             Requested size: 427.68237pt x 149.68782pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<160Gd_Partial0sRevised.pdf, id=2546, 1210.5225pt x 984.67876pt>
+File: 160Gd_Partial0sRevised.pdf Graphic file (type pdf)
+
+<use 160Gd_Partial0sRevised.pdf>
+Package pdftex.def Info: 160Gd_Partial0sRevised.pdf used on input line 51.
+(pdftex.def)             Requested size: 427.68237pt x 347.88812pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[162 <./1250_Gd-eps-converted-to.pdf>] [163 <./2163_exfGd-eps-converted-to.pdf>
+] [164 <./160Gd_Partial0sRevised.pdf>] [165]
+<160Gd_OctupoleRevised.pdf, id=2611, 1645.14626pt x 931.48pt>
+File: 160Gd_OctupoleRevised.pdf Graphic file (type pdf)
+
+<use 160Gd_OctupoleRevised.pdf>
+Package pdftex.def Info: 160Gd_OctupoleRevised.pdf used on input line 70.
+(pdftex.def)             Requested size: 427.68237pt x 242.15065pt.
+ [166 <./160Gd_OctupoleRevised.pdf>] [167]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 93.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 93.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 93.
+
+<160Gd_posparity.pdf, id=2639, 1513.655pt x 926.46124pt>
+File: 160Gd_posparity.pdf Graphic file (type pdf)
+
+<use 160Gd_posparity.pdf>
+Package pdftex.def Info: 160Gd_posparity.pdf used on input line 98.
+(pdftex.def)             Requested size: 427.68237pt x 261.76819pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 104.
+
+[168 <./160Gd_posparity.pdf>] [169]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 107.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 107.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 107.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 107.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 107.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 107.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 107.
+
+<160Gd_Kunknown.pdf, id=2671, 865.2325pt x 525.965pt>
+File: 160Gd_Kunknown.pdf Graphic file (type pdf)
+ <use 160Gd_Kunknown.pdf>
+Package pdftex.def Info: 160Gd_Kunknown.pdf used on input line 113.
+(pdftex.def)             Requested size: 427.68237pt x 259.98029pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[170] [171 <./160Gd_Kunknown.pdf>] [172] [173]) [174]
+\openout2 = `Chapter5_Casarella.aux'.
+
+ (./Chapter5_Casarella.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\prime' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\gamma' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 75.
+
+Package epstopdf Info: Source file: <../Dissertation_Casarella/162Dy_unobserved
+_0s.eps>
+(epstopdf)                    date: 2016-09-20 14:40:28
+(epstopdf)                    size: 30237 bytes
+(epstopdf)             Output file: <../Dissertation_Casarella/162Dy_unobserved
+_0s-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-09-21 10:55:07
+(epstopdf)                    size: 10835 bytes
+(epstopdf)             Command: <repstopdf --outfile=../Dissertation_Casarella/
+162Dy_unobserved_0s-eps-converted-to.pdf ../Dissertation_Casarella/162Dy_unobse
+rved_0s.eps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+
+<../Dissertation_Casarella/162Dy_unobserved_0s-eps-converted-to.pdf, id=2718, 8
+67.24pt x 289.08pt>
+File: ../Dissertation_Casarella/162Dy_unobserved_0s-eps-converted-to.pdf Graphi
+c file (type pdf)
+
+<use ../Dissertation_Casarella/162Dy_unobserved_0s-eps-converted-to.pdf>
+Package pdftex.def Info: ../Dissertation_Casarella/162Dy_unobserved_0s-eps-conv
+erted-to.pdf used on input line 80.
+(pdftex.def)             Requested size: 431.56494pt x 143.85593pt.
+
+[175
+
+
+] [176] [177 <../Dissertation_Casarella/162Dy_unobserved_0s-eps-converted-to.pd
+f>]
+<../Dissertation_Casarella/162Dy_0s_all.pdf, id=2743, 1445.4pt x 751.80875pt>
+File: ../Dissertation_Casarella/162Dy_0s_all.pdf Graphic file (type pdf)
+
+<use ../Dissertation_Casarella/162Dy_0s_all.pdf>
+Package pdftex.def Info: ../Dissertation_Casarella/162Dy_0s_all.pdf used on inp
+ut line 90.
+(pdftex.def)             Requested size: 705.98055pt x 367.20264pt.
+
+Overfull \hbox (57.98055pt too wide) in paragraph at lines 90--91
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 25.96602pt on input line 93.
+
+[178 <../Dissertation_Casarella/162Dy_0s_all.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 99.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 99.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 99.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 99.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 99.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 99.
+
+
+Overfull \hbox (15.87527pt too wide) in paragraph at lines 100--101
+\OT1/cmr/m/n/12 Com-mon al-le-ga-tions on the col-lec-tiv-ity of a $\OML/cmm/m/
+it/12 ^^L$\OT1/cmr/m/n/12 -vibration are that the B(E2;0$[] \OMS/cmsy/m/n/12 !$
+\OT1/cmr/m/n/12 2$[]$)$\OMS/cmsy/m/n/12 ^^X$\OT1/cmr/m/n/12 12-
+ []
+
+[179
+
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\gamma' on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\gamma' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\gamma' on input line 106.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 106.
+
+[180] [181]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 111.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 111.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 111.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 111.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 111.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 111.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 111.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 111.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 111.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\gamma' on input line 111.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\gamma' on input line 111.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 111.
+
+[182]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 115.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 115.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 115.
+
+[183]
+Package epstopdf Info: Source file: <../Dissertation_Casarella/1342_AD.eps>
+(epstopdf)                    date: 2016-09-28 10:59:55
+(epstopdf)                    size: 22170 bytes
+(epstopdf)             Output file: <../Dissertation_Casarella/1342_AD-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2016-09-28 11:06:16
+(epstopdf)                    size: 9839 bytes
+(epstopdf)             Command: <repstopdf --outfile=../Dissertation_Casarella/
+1342_AD-eps-converted-to.pdf ../Dissertation_Casarella/1342_AD.eps>
+(epstopdf)             \includegraphics on input line 122.
+Package epstopdf Info: Output file is already uptodate.
+
+<../Dissertation_Casarella/1342_AD-eps-converted-to.pdf, id=2823, 361.35pt x 25
+2.945pt>
+File: ../Dissertation_Casarella/1342_AD-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ../Dissertation_Casarella/1342_AD-eps-converted-to.pdf>
+Package pdftex.def Info: ../Dissertation_Casarella/1342_AD-eps-converted-to.pdf
+ used on input line 122.
+(pdftex.def)             Requested size: 431.56494pt x 302.0967pt.
+ [184 <../Dissertation_Casarella/1342_AD-eps-converted-to.pdf>] [185]
+<../Dissertation_Casarella/162Dy_multiphonon042.pdf, id=2841, 1488.56125pt x 79
+4.97pt>
+File: ../Dissertation_Casarella/162Dy_multiphonon042.pdf Graphic file (type pdf
+)
+ <use ../Dissertation_Casarella/162Dy_multiphonon042.pdf>
+Package pdftex.def Info: ../Dissertation_Casarella/162Dy_multiphonon042.pdf use
+d on input line 132.
+(pdftex.def)             Requested size: 687.5857pt x 367.20264pt.
+
+Overfull \hbox (39.5857pt too wide) in paragraph at lines 132--134
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 51.03595pt on input line 136.
+
+[186 <../Dissertation_Casarella/162Dy_multiphonon042.pdf>] [187
+
+
+]) [188]
+[189] [190]
+\openout2 = `Chapter5_Casarella_2.aux'.
+
+ (./Chapter5_Casarella_2.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 4.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 16.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 16.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 16.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 16.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 16.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 16.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 16.
+
+[191
+
+
+]
+Package epstopdf Info: Source file: <1195_ExF.eps>
+(epstopdf)                    date: 2016-07-28 16:19:49
+(epstopdf)                    size: 22513 bytes
+(epstopdf)             Output file: <1195_ExF-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-28 16:19:52
+(epstopdf)                    size: 9849 bytes
+(epstopdf)             Command: <repstopdf --outfile=1195_ExF-eps-converted-to.
+pdf 1195_ExF.eps>
+(epstopdf)             \includegraphics on input line 22.
+Package epstopdf Info: Output file is already uptodate.
+ <1195_ExF-eps-converted-to.pdf, id=2911, 361.35pt x 252.945pt>
+File: 1195_ExF-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 1195_ExF-eps-converted-to.pdf>
+Package pdftex.def Info: 1195_ExF-eps-converted-to.pdf used on input line 22.
+(pdftex.def)             Requested size: 324.0pt x 226.80313pt.
+Package epstopdf Info: Source file: <1195_DSAM.eps>
+(epstopdf)                    date: 2016-07-28 19:05:05
+(epstopdf)                    size: 23354 bytes
+(epstopdf)             Output file: <1195_DSAM-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-28 19:05:14
+(epstopdf)                    size: 9678 bytes
+(epstopdf)             Command: <repstopdf --outfile=1195_DSAM-eps-converted-to
+.pdf 1195_DSAM.eps>
+(epstopdf)             \includegraphics on input line 23.
+Package epstopdf Info: Output file is already uptodate.
+
+<1195_DSAM-eps-converted-to.pdf, id=2912, 361.35pt x 252.945pt>
+File: 1195_DSAM-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 1195_DSAM-eps-converted-to.pdf>
+Package pdftex.def Info: 1195_DSAM-eps-converted-to.pdf used on input line 23.
+(pdftex.def)             Requested size: 211.68237pt x 148.17871pt.
+Package epstopdf Info: Source file: <1275_DSAM.eps>
+(epstopdf)                    date: 2016-07-28 19:05:09
+(epstopdf)                    size: 23861 bytes
+(epstopdf)             Output file: <1275_DSAM-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-28 19:05:15
+(epstopdf)                    size: 9823 bytes
+(epstopdf)             Command: <repstopdf --outfile=1275_DSAM-eps-converted-to
+.pdf 1275_DSAM.eps>
+(epstopdf)             \includegraphics on input line 24.
+Package epstopdf Info: Output file is already uptodate.
+
+<1275_DSAM-eps-converted-to.pdf, id=2913, 361.35pt x 252.945pt>
+File: 1275_DSAM-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 1275_DSAM-eps-converted-to.pdf>
+Package pdftex.def Info: 1275_DSAM-eps-converted-to.pdf used on input line 24.
+(pdftex.def)             Requested size: 211.68237pt x 148.17871pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<162Dy_negparity_202.pdf, id=2914, 1192.455pt x 939.51pt>
+File: 162Dy_negparity_202.pdf Graphic file (type pdf)
+
+<use 162Dy_negparity_202.pdf>
+Package pdftex.def Info: 162Dy_negparity_202.pdf used on input line 32.
+(pdftex.def)             Requested size: 423.35815pt x 333.54988pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 37.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 37.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 37.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 37.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 37.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 37.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 37.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 37.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [192]
+
+LaTeX Warning: Text page 193 contains only floats.
+
+
+Overfull \vbox (1.5175pt too high) has occurred while \output is active []
+
+
+[193] [194] [195 <./1195_ExF-eps-converted-to.pdf> <./1195_DSAM-eps-converted-t
+o.pdf> <./1275_DSAM-eps-converted-to.pdf>] [196 <./162Dy_negparity_202.pdf>]
+\openout2 = `Chapter5_Casarella_3.aux'.
+
+
+(./Chapter5_Casarella_3.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 7.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 7.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 7.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 7.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 7.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 7.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 7.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 10.
+
+[197
+
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 22.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 22.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 22.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 22.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 22.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 22.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 22.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 22.
+
+[198]
+<../Dissertation_Casarella/162Dy_otherNeg.pdf, id=3002, 1698.345pt x 939.51pt>
+File: ../Dissertation_Casarella/162Dy_otherNeg.pdf Graphic file (type pdf)
+
+<use ../Dissertation_Casarella/162Dy_otherNeg.pdf>
+Package pdftex.def Info: ../Dissertation_Casarella/162Dy_otherNeg.pdf used on i
+nput line 30.
+(pdftex.def)             Requested size: 663.77719pt x 367.20264pt.
+
+Overfull \hbox (15.77719pt too wide) in paragraph at lines 30--31
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 54.83601pt on input line 33.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[199 <../Dissertation_Casarella/162Dy_otherNeg.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\pi' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 36.
+
+<162Dy_scissors.pdf, id=3026, 1264.725pt x 939.51pt>
+File: 162Dy_scissors.pdf Graphic file (type pdf)
+ <use 162Dy_scissors.pdf>
+Package pdftex.def Info: 162Dy_scissors.pdf used on input line 46.
+(pdftex.def)             Requested size: 419.04053pt x 311.28647pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[200
+
+
+] [201 <./162Dy_scissors.pdf>]
+<162Dy_misc.pdf, id=3054, 1120.185pt x 794.97pt>
+File: 162Dy_misc.pdf Graphic file (type pdf)
+ <use 162Dy_misc.pdf>
+Package pdftex.def Info: 162Dy_misc.pdf used on input line 56.
+(pdftex.def)             Requested size: 517.42793pt x 367.20264pt.
+
+
+LaTeX Warning: Float too large for page by 35.2129pt on input line 59.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[202 <./162Dy_misc.pdf>] <162Dy_misc2.pdf, id=3074, 1445.4pt x 794.97pt>
+File: 162Dy_misc2.pdf Graphic file (type pdf)
+
+<use 162Dy_misc2.pdf>
+Package pdftex.def Info: 162Dy_misc2.pdf used on input line 65.
+(pdftex.def)             Requested size: 667.64896pt x 367.20264pt.
+
+Overfull \hbox (19.64896pt too wide) in paragraph at lines 65--66
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 39.2129pt on input line 68.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[203 <./162Dy_misc2.pdf>] <162Dy_misc3.pdf, id=3094, 1120.185pt x 794.97pt>
+File: 162Dy_misc3.pdf Graphic file (type pdf)
+
+<use 162Dy_misc3.pdf>
+Package pdftex.def Info: 162Dy_misc3.pdf used on input line 74.
+(pdftex.def)             Requested size: 517.42793pt x 367.20264pt.
+
+
+LaTeX Warning: Float too large for page by 38.2129pt on input line 77.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[204 <./162Dy_misc3.pdf>]
+Overfull \hbox (3.42453pt too wide) in paragraph at lines 82--83
+\OT1/cmr/m/n/12 quadrupole vi-bra-tions at the ex-ci-ta-tion en-er-gies E$[]$=8
+88 keV, E$[]$=1400 keV,
+ []
+
+) [205
+
+
+
+
+
+
+]
+\openout2 = `Chapter6_Casarella.aux'.
+
+ (./Chapter6_Casarella.tex
+CHAPTER 6.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 9.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 9.
+
+[206
+
+
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 11.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 11.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 11.
+
+[207] [208]
+
+LaTeX Warning: Reference `sec:162Dy_0s_gamma' on page 209 undefined on input li
+ne 22.
+
+[209] [210]
+Package epstopdf Info: Source file: <Rare_Earth_0s_energies.eps>
+(epstopdf)                    date: 2016-10-12 12:52:43
+(epstopdf)                    size: 24254 bytes
+(epstopdf)             Output file: <Rare_Earth_0s_energies-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2016-10-12 12:55:35
+(epstopdf)                    size: 8054 bytes
+(epstopdf)             Command: <repstopdf --outfile=Rare_Earth_0s_energies-eps
+-converted-to.pdf Rare_Earth_0s_energies.eps>
+(epstopdf)             \includegraphics on input line 28.
+Package epstopdf Info: Output file is already uptodate.
+
+<Rare_Earth_0s_energies-eps-converted-to.pdf, id=3151, 361.35pt x 252.945pt>
+File: Rare_Earth_0s_energies-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Rare_Earth_0s_energies-eps-converted-to.pdf>
+Package pdftex.def Info: Rare_Earth_0s_energies-eps-converted-to.pdf used on in
+put line 28.
+(pdftex.def)             Requested size: 410.39868pt x 287.2796pt.
+Package epstopdf Info: Source file: <Rare_Earth_0s_N.eps>
+(epstopdf)                    date: 2016-10-12 12:52:46
+(epstopdf)                    size: 23740 bytes
+(epstopdf)             Output file: <Rare_Earth_0s_N-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-10-12 12:55:36
+(epstopdf)                    size: 7904 bytes
+(epstopdf)             Command: <repstopdf --outfile=Rare_Earth_0s_N-eps-conver
+ted-to.pdf Rare_Earth_0s_N.eps>
+(epstopdf)             \includegraphics on input line 29.
+Package epstopdf Info: Output file is already uptodate.
+File: Rare_Earth_0s_N-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Rare_Earth_0s_N-eps-converted-to.pdf>
+Package pdftex.def Info: Rare_Earth_0s_N-eps-converted-to.pdf used on input lin
+e 29.
+(pdftex.def)             Requested size: 410.39868pt x 287.2796pt.
+
+
+LaTeX Warning: Float too large for page by 15.74728pt on input line 32.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <Rare_Earth_02_BE2.eps>
+(epstopdf)                    date: 2016-10-12 12:52:36
+(epstopdf)                    size: 22636 bytes
+(epstopdf)             Output file: <Rare_Earth_02_BE2-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-10-12 12:55:37
+(epstopdf)                    size: 7952 bytes
+(epstopdf)             Command: <repstopdf --outfile=Rare_Earth_02_BE2-eps-conv
+erted-to.pdf Rare_Earth_02_BE2.eps>
+(epstopdf)             \includegraphics on input line 36.
+Package epstopdf Info: Output file is already uptodate.
+File: Rare_Earth_02_BE2-eps-converted-to.pdf Graphic file (type pdf)
+<use Rare_Earth_02_BE2-eps-converted-to.pdf>
+Package pdftex.def Info: Rare_Earth_02_BE2-eps-converted-to.pdf used on input l
+ine 36.
+(pdftex.def)             Requested size: 410.39868pt x 287.2796pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [211] [212 <./Rare_Earth_0s_energies-eps-converted-to.pdf>] [213]
+\openout2 = `appendix_160Gd_1.aux'.
+
+
+(./appendix_160Gd_1.tex
+APPENDIX A.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+[214
+
+
+
+]
+
+pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/160Gd_firstpaper_fi
+nal.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> all
+owed
+
+<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3178, page=1, 591.
+71063pt x 794.97pt>
+File: ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf Graphic file (typ
+e pdf)
+
+<use ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, page 1>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_firstpaper_final.pd
+f, page1 used on input line 8.
+(pdftex.def)             Requested size: 458.20985pt x 615.59802pt.
+
+Overfull \hbox (26.20985pt too wide) in paragraph at lines 8--10
+ [] 
+ []
+
+
+
+pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/160Gd_firstpaper_fi
+nal.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> all
+owed
+
+<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3179, page=2, 591.
+71063pt x 794.97pt>
+File: ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf Graphic file (typ
+e pdf)
+
+<use ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, page 2>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_firstpaper_final.pd
+f, page2 used on input line 14.
+(pdftex.def)             Requested size: 458.20985pt x 615.59802pt.
+
+Overfull \hbox (26.20985pt too wide) in paragraph at lines 14--16
+ [] 
+ []
+
+[215 <../Dissertation_Bibliography/160Gd_firstpaper_final.pdf>]
+
+pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/160Gd_firstpaper_fi
+nal.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> all
+owed
+
+<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3211, page=3, 591.
+71063pt x 794.97pt>
+File: ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf Graphic file (typ
+e pdf)
+
+<use ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, page 3>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_firstpaper_final.pd
+f, page3 used on input line 20.
+(pdftex.def)             Requested size: 458.20985pt x 615.59802pt.
+
+Overfull \hbox (26.20985pt too wide) in paragraph at lines 20--22
+ [] 
+ []
+
+[216 <../Dissertation_Bibliography/160Gd_firstpaper_final.pdf>]
+
+pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/160Gd_firstpaper_fi
+nal.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> all
+owed
+
+<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3233, page=4, 591.
+71063pt x 794.97pt>
+File: ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf Graphic file (typ
+e pdf)
+
+<use ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, page 4>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_firstpaper_final.pd
+f, page4 used on input line 26.
+(pdftex.def)             Requested size: 458.20985pt x 615.59802pt.
+
+Overfull \hbox (26.20985pt too wide) in paragraph at lines 26--28
+ [] 
+ []
+
+[217 <../Dissertation_Bibliography/160Gd_firstpaper_final.pdf>]
+
+pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/160Gd_firstpaper_fi
+nal.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> all
+owed
+
+<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3254, page=5, 591.
+71063pt x 794.97pt>
+File: ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf Graphic file (typ
+e pdf)
+
+<use ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, page 5>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_firstpaper_final.pd
+f, page5 used on input line 32.
+(pdftex.def)             Requested size: 458.20985pt x 615.59802pt.
+
+Overfull \hbox (26.20985pt too wide) in paragraph at lines 32--34
+ [] 
+ []
+
+[218 <../Dissertation_Bibliography/160Gd_firstpaper_final.pdf>]
+
+pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/160Gd_firstpaper_fi
+nal.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> all
+owed
+
+<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3267, page=6, 591.
+71063pt x 794.97pt>
+File: ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf Graphic file (typ
+e pdf)
+
+<use ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, page 6>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_firstpaper_final.pd
+f, page6 used on input line 38.
+(pdftex.def)             Requested size: 458.20985pt x 615.59802pt.
+
+Overfull \hbox (26.20985pt too wide) in paragraph at lines 38--40
+ [] 
+ []
+
+[219 <../Dissertation_Bibliography/160Gd_firstpaper_final.pdf>]) [220 <../Disse
+rtation_Bibliography/160Gd_firstpaper_final.pdf>]
+\openout2 = `appendix_160Gd_2.aux'.
+
+ (./appendix_160Gd_2.tex
+APPENDIX B.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+[221
+
+
+
+]
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3295, page=1, 614.295pt x 794.
+97pt>
+File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
+ <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 1>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_Vs11.pdf, page1 use
+d on input line 9.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 9--12
+[][] 
+ []
+
+[222 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3393, page=2, 614.295pt x 794.
+97pt>
+File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
+ <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 2>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_Vs11.pdf, page2 use
+d on input line 13.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 13--14
+[][] 
+ []
+
+[223 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3428, page=3, 614.295pt x 794.
+97pt>
+File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
+ <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 3>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_Vs11.pdf, page3 use
+d on input line 14.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 14--15
+[][] 
+ []
+
+[224 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3476, page=4, 614.295pt x 794.
+97pt>
+File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
+ <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 4>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_Vs11.pdf, page4 use
+d on input line 15.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 15--16
+[][] 
+ []
+
+[225 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3525, page=5, 614.295pt x 794.
+97pt>
+File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
+ <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 5>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_Vs11.pdf, page5 use
+d on input line 16.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 16--17
+[][] 
+ []
+
+[226 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3563, page=6, 614.295pt x 794.
+97pt>
+File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
+ <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 6>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_Vs11.pdf, page6 use
+d on input line 17.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 17--18
+[][] 
+ []
+
+[227 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3619, page=7, 614.295pt x 794.
+97pt>
+File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
+ <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 7>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_Vs11.pdf, page7 use
+d on input line 18.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 18--19
+[][] 
+ []
+
+[228 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3653, page=8, 614.295pt x 794.
+97pt>
+File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
+ <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 8>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_Vs11.pdf, page8 use
+d on input line 19.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 19--20
+[][] 
+ []
+
+[229 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3668, page=9, 614.295pt x 794.
+97pt>
+File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
+ <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 9>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_Vs11.pdf, page9 use
+d on input line 20.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 20--21
+[][] 
+ []
+
+[230 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3683, page=10, 614.295pt x 794
+.97pt>
+File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
+ <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 10>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_Vs11.pdf, page10 us
+ed on input line 21.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 21--22
+[][] 
+ []
+
+[231 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3724, page=11, 614.295pt x 794
+.97pt>
+File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
+ <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 11>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_Vs11.pdf, page11 us
+ed on input line 22.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 22--23
+[][] 
+ []
+
+[232 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3761, page=12, 614.295pt x 794
+.97pt>
+File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
+ <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 12>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_Vs11.pdf, page12 us
+ed on input line 23.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 23--24
+[][] 
+ []
+
+[233 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3798, page=13, 614.295pt x 794
+.97pt>
+File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
+ <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 13>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_Vs11.pdf, page13 us
+ed on input line 24.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 24--25
+[][] 
+ []
+
+[234 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3826, page=14, 614.295pt x 794
+.97pt>
+File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
+ <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 14>
+Package pdftex.def Info: ../Dissertation_Bibliography/160Gd_Vs11.pdf, page14 us
+ed on input line 25.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+)
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 25--198
+[][] 
+ []
+
+[235 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
+\openout2 = `appendix_162Dy_pos.aux'.
+
+ (./appendix_162Dy_pos.tex
+APPENDIX C.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+[236
+
+
+
+] <../162Dy_papers/162Dy_RC_0s.pdf, id=3880, page=1, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 1>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page1 used on input l
+ine 12.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 12--12
+[][] 
+ []
+
+[237 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=3913, page=2, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 2>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page2 used on input l
+ine 13.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 13--13
+[][] 
+ []
+
+[238 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=3939, page=3, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 3>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page3 used on input l
+ine 14.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 14--14
+[][] 
+ []
+
+[239 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=3966, page=4, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 4>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page4 used on input l
+ine 15.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 15--15
+[][] 
+ []
+
+[240 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4005, page=5, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 5>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page5 used on input l
+ine 16.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 16--16
+[][] 
+ []
+
+[241 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4034, page=6, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 6>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page6 used on input l
+ine 17.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 17--17
+[][] 
+ []
+
+[242 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4077, page=7, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 7>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page7 used on input l
+ine 18.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 18--18
+[][] 
+ []
+
+[243 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4114, page=8, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 8>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page8 used on input l
+ine 19.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 19--19
+[][] 
+ []
+
+[244 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4148, page=9, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 9>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page9 used on input l
+ine 20.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 20--20
+[][] 
+ []
+
+[245 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4182, page=10, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 10>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page10 used on input 
+line 21.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 21--21
+[][] 
+ []
+
+[246 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4229, page=11, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 11>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page11 used on input 
+line 22.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 22--22
+[][] 
+ []
+
+[247 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4275, page=12, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 12>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page12 used on input 
+line 23.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 23--23
+[][] 
+ []
+
+[248 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4309, page=13, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 13>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page13 used on input 
+line 24.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 24--24
+[][] 
+ []
+
+[249 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4345, page=14, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 14>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page14 used on input 
+line 25.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 25--25
+[][] 
+ []
+
+[250 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4378, page=15, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 15>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page15 used on input 
+line 26.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 26--26
+[][] 
+ []
+
+[251 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4409, page=16, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 16>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page16 used on input 
+line 27.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 27--27
+[][] 
+ []
+
+[252 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4459, page=17, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 17>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page17 used on input 
+line 28.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 28--28
+[][] 
+ []
+
+[253 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4503, page=18, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 18>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page18 used on input 
+line 29.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 29--29
+[][] 
+ []
+
+[254 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4539, page=19, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 19>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page19 used on input 
+line 30.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 30--30
+[][] 
+ []
+
+[255 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4554, page=20, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 20>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page20 used on input 
+line 31.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 31--31
+[][] 
+ []
+
+[256 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4569, page=21, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 21>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page21 used on input 
+line 32.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 32--32
+[][] 
+ []
+
+[257 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4584, page=22, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 22>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page22 used on input 
+line 33.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 33--33
+[][] 
+ []
+
+[258 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4622, page=23, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 23>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page23 used on input 
+line 34.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 34--34
+[][] 
+ []
+
+[259 <../162Dy_papers/162Dy_RC_0s.pdf>]
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4658, page=24, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_RC_0s.pdf, page 24>
+Package pdftex.def Info: ../162Dy_papers/162Dy_RC_0s.pdf, page24 used on input 
+line 35.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+)
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 35--199
+[][] 
+ []
+
+[260 <../162Dy_papers/162Dy_RC_0s.pdf>]
+\openout2 = `appendix_162Dy_neg.aux'.
+
+ (./appendix_162Dy_neg.tex
+APPENDIX D.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+[261
+
+
+
+]
+<../162Dy_papers/162Dy_neg202.pdf, id=4696, page=1, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 1>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page1 used on input 
+line 10.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 10--10
+[][] 
+ []
+
+[262 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=4727, page=2, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 2>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page2 used on input 
+line 11.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 11--11
+[][] 
+ []
+
+[263 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=4760, page=3, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 3>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page3 used on input 
+line 12.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 12--12
+[][] 
+ []
+
+[264 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=4805, page=4, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 4>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page4 used on input 
+line 13.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 13--13
+[][] 
+ []
+
+[265 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=4833, page=5, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 5>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page5 used on input 
+line 14.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 14--14
+[][] 
+ []
+
+[266 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=4881, page=6, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 6>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page6 used on input 
+line 15.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 15--15
+[][] 
+ []
+
+[267 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=4921, page=7, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 7>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page7 used on input 
+line 16.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 16--16
+[][] 
+ []
+
+[268 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=4952, page=8, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 8>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page8 used on input 
+line 17.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 17--17
+[][] 
+ []
+
+[269 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=4992, page=9, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 9>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page9 used on input 
+line 18.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 18--18
+[][] 
+ []
+
+[270 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=5036, page=10, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 10>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page10 used on input
+ line 19.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 19--19
+[][] 
+ []
+
+[271 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=5090, page=11, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 11>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page11 used on input
+ line 20.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 20--20
+[][] 
+ []
+
+[272 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=5123, page=12, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 12>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page12 used on input
+ line 21.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 21--21
+[][] 
+ []
+
+[273 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=5184, page=13, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 13>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page13 used on input
+ line 22.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 22--22
+[][] 
+ []
+
+[274 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=5230, page=14, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 14>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page14 used on input
+ line 23.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 23--23
+[][] 
+ []
+
+[275 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=5281, page=15, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 15>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page15 used on input
+ line 24.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 24--24
+[][] 
+ []
+
+[276 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=5301, page=16, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 16>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page16 used on input
+ line 25.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 25--25
+[][] 
+ []
+
+[277 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=5319, page=17, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 17>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page17 used on input
+ line 26.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 26--26
+[][] 
+ []
+
+[278 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=5355, page=18, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 18>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page18 used on input
+ line 27.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 27--27
+[][] 
+ []
+
+[279 <../162Dy_papers/162Dy_neg202.pdf>]
+<../162Dy_papers/162Dy_neg202.pdf, id=5388, page=19, 614.295pt x 794.97pt>
+File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
+
+<use ../162Dy_papers/162Dy_neg202.pdf, page 19>
+Package pdftex.def Info: ../162Dy_papers/162Dy_neg202.pdf, page19 used on input
+ line 28.
+(pdftex.def)             Requested size: 475.69876pt x 615.59802pt.
+
+Overfull \hbox (61.32358pt too wide) in paragraph at lines 28--29
+[][] 
+ []
+
+) [280 <../162Dy_papers/162Dy_neg202.pdf>] (./Dissertation_Casarella.bbl
+[281
+
+
+
+]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no © in font cmr12!
+ [282]
+
+LaTeX Warning: Command \o invalid in math mode on input line 204.
+
+
+LaTeX Warning: Command \o invalid in math mode on input line 204.
+
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¸ in font cmr12!
+[283]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¤ in font cmr12!
+ [284]
+Missing character: There is no â in font cmr8!
+Missing character: There is no ˆ in font cmr8!
+Missing character: There is no ’ in font cmr8!
+ [285] [286])
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10> not available
+(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 208.
+
+[287]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 208.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 208.
+ (./Dissertation_Casarella.aux (./pdflscape.aux) (./Chapter1_Casarella.aux) (./
+Chapter1_Casarella_lasthalf.aux) (./Chapter2_Casarella.aux)
+(./Chapter3_Casarella.aux) (./Chapter_Results.aux) (./Chapter_Results_Dy.aux)
+(./Chapter4_Casarella.aux) (./Chapter5_Casarella.aux)
+(./Chapter5_Casarella_2.aux) (./Chapter5_Casarella_3.aux)
+(./Chapter6_Casarella.aux) (./appendix_160Gd_1.aux) (./appendix_160Gd_2.aux)
+(./appendix_162Dy_pos.aux) (./appendix_162Dy_neg.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 208.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 208.
+Package rerunfilecheck Info: File `Dissertation_Casarella.out' has not changed.
+
+(rerunfilecheck)             Checksum: 2CD08F2F2F9CBEA5B69829F53377DF97;7605.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 208.
+ ) 
+Here is how much of TeX's memory you used:
+ 8901 strings out of 493304
+ 144616 string characters out of 6139871
+ 264557 words of memory out of 5000000
+ 11392 multiletter control sequences out of 15000+600000
+ 18653 words of font info for 73 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 41i,12n,35p,4242b,604s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmti7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
+t8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm1
+0.pfb>
+Output written on Dissertation_Casarella.pdf (306 pages, 5361364 bytes).
+PDF statistics:
+ 5659 PDF objects out of 6186 (max. 8388607)
+ 4812 compressed objects within 49 object streams
+ 608 named destinations out of 1000 (max. 500000)
+ 1436 words of extra memory for PDF output out of 10000 (max. 10000000)
+

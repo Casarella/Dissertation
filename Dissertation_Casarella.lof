@@ -1,0 +1,150 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Chart of nuclides showing the varying degrees of deformation (R$_\frac {4}{2}$ values for even-even nuclei). Orange colored squares mark a well-deformed ground state, with green representing spherical nuclei.}}{4}{figure.1.1}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Measured B(E2) transition probabilities in single-particle units as a function of A, highlighting the region of deformation (as well as heavier actinide region) where strong nuclear rotations exist \cite {Casten_text}. }}{5}{figure.1.2}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Schematic of the $\beta $ quadrupole vibration about a deformed equilibrium shape.}}{9}{figure.1.3}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Schematic of the $\gamma $ quadrupole vibration about a deformed equilibrium shape.}}{10}{figure.1.4}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Schematic level scheme of the single- and double-phonon vibrational (quadrupole and octupole) bands expected in deformed nuclei (color online).}}{11}{figure.1.5}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Absolute B(E2;2$^+_\gamma \rightarrow $0$^+_{gs}$) (in Weisskopf units) measurements for rare-earth nuclei, showing the uniformity of the $\gamma $-vibration in a deformed nucleus. The bottom plot shows the energy of the 2$^+$ bandheads as a function of N, highlighting the smoothly varying energies. }}{15}{figure.1.6}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Absolute B(E2;0$^+_2\rightarrow $2$^+_{gs}$) (in Weisskopf units) measurements for rare-earth nuclei, showing the scattered experimental data that spans an order of magnitude variance. The bottom plot shows the energy of the 0$^+_2$ bandheads as a function of N, which shows a slightly more variant energy systematic than the 2$^+$ bandheads. }}{16}{figure.1.7}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Schematic of the Q3D magnetic spectrograph at M\"{u}nich used for precision (p,t)/(t,p) spectroscopy \cite {Meyer_thesis}.}}{18}{figure.1.8}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Angular distribution data for all 0$^+$ states in $^{158}$Gd observed in the (p,t) reaction in \cite {Meyer_pt0_2006}. A DWBA calculation for an L=2 transition is shown as a dotted line in the E=1452\nobreakspace {}keV plot to show the unique nature of the L=0 transitions (in solid black).}}{19}{figure.1.9}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Number of 0$^+$ states in rare earth isotopes of Sm, Gd, Dy, Er, Yb, and Hf. $^{162}$Dy is highlighted with a blue circle. }}{20}{figure.1.10}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Systematics for the energies of excited 0$^+$ states, the first excited 2$^+$ bandhead, and low-lying ground state band members for even-even Samarium nuclei. Proton and neutron pairing gaps (2$\Delta _\pi $ and 2$\Delta _\nu $, respectively) are drawn in green and blue and are calculated from Equations \ref {eq:pairing_gapP} and \ref {eq:pairing_gapN}. Transition arrows represent known experimental B(E2) measurements for 0$^+$ bandheads and 2$^+$ bandheads (in W.u. where known). }}{30}{figure.1.11}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Systematics for the energies of excited 0$^+$ states, the first excited 2$^+$ bandhead, and low-lying ground state band members for even-even Gadolinium nuclei. Proton and neutron pairing gaps (2$\Delta _\pi $ and 2$\Delta _\nu $, respectively) are drawn in green and blue and are calculated from Equations \ref {eq:pairing_gapP} and \ref {eq:pairing_gapN}. Transition arrows represent known experimental B(E2) measurements for 0$^+$ bandheads and 2$^+$ bandheads (in W.u. where known). }}{31}{figure.1.12}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.13}{\ignorespaces Systematics for the energies of excited 0$^+$ states, the first excited 2$^+$ bandhead, and low-lying ground state band members for even-even Dysprosium nuclei. New transition probabilities are presented in $^{162}$Dy, with the widths proportional to B(E2) values (in W.u.); also shown are the proton and neutron pairing gap (2$\Delta _\pi $ and 2$\Delta _\nu $, respectively) for each isotope. }}{32}{figure.1.13}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.14}{\ignorespaces Systematics for the energies of excited 0$^+$ states, the first excited 2$^+$ bandhead, and low-lying ground state band members for even-even Erbium nuclei. Proton and neutron pairing gaps (2$\Delta _\pi $ and 2$\Delta _\nu $, respectively) are drawn in green and blue and are calculated from Equations \ref {eq:pairing_gapP} and \ref {eq:pairing_gapN}. Transition arrows represent known experimental B(E2) measurements for 0$^+$ bandheads and 2$^+$ bandheads (in W.u. where known). }}{34}{figure.1.14}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.15}{\ignorespaces Systematics for the energies of excited 0$^+$ states, the first excited 2$^+$ bandhead, and low-lying ground state band members for even-even Ytterbium nuclei. Proton and neutron pairing gaps (2$\Delta _\pi $ and 2$\Delta _\nu $, respectively) are drawn in green and blue and are calculated from Equations \ref {eq:pairing_gapP} and \ref {eq:pairing_gapN}. Transition arrows represent known experimental B(E2) measurements for 0$^+$ bandheads and 2$^+$ bandheads (in W.u. where known). }}{35}{figure.1.15}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.16}{\ignorespaces Systematics for the energies of excited 0$^+$ states, the first excited 2$^+$ bandhead, and low-lying ground state band members for even-even Hafnium nuclei. Proton and neutron pairing gaps (2$\Delta _\pi $ and 2$\Delta _\nu $, respectively) are drawn in green and blue and are calculated from Equations \ref {eq:pairing_gapP} and \ref {eq:pairing_gapN}. Transition arrows represent known experimental B(E2) measurements for 0$^+$ bandheads and 2$^+$ bandheads (in W.u. where known). }}{36}{figure.1.16}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.17}{\ignorespaces Systematics for the energies of excited negative parity states, the first excited 2$^+$ bandhead, and low-lying excited 0$^+$ states below the pairing gap (2$\Delta _\pi $ and 2$\Delta _\nu $) for even-even Gadolinium nuclei.}}{39}{figure.1.17}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.18}{\ignorespaces Systematics for the energies of excited negative parity states, the first excited 2$^+$ bandhead, and low-lying excited 0$^+$ states below the pairing gap (2$\Delta _\pi $ and 2$\Delta _\nu $) for even-even Dysprosium nuclei. States with a `$\oplus $' marker indicate where a literature lifetime measurement exists.}}{40}{figure.1.18}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {1.19}{\ignorespaces Summary of all known multiphonon ($\gamma \gamma $, $\beta \gamma $, or $\beta \beta $) configurations in rare-earth nuclei, absolute B(E2) from literature are shown in Weisskopf units to signify collective decays to $\gamma $-vibrational and/or potential $\beta $-vibrational states. }}{43}{figure.1.19}
+ {\vskip 0.4em} 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Techniques available to nuclear physicists to measure lifetimes as short as a few attoseconds (10$^{-18}$\nobreakspace {}s) to the more long-lived lifetimes on the order of microseconds (10$^{-6}$\nobreakspace {}s) (Adapted from \cite {Poenaru_text}, courtesy of M.\nobreakspace {}K. Smith).}}{46}{figure.2.1}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Doppler shift of an E$_\gamma $=1902.055\nobreakspace {}keV de-excitation from the $\theta _{lab}$=40, 90, and 150 degrees in red, blue, and green, respectively. The vertical lines mark the centroid of each peak of corresponding color.}}{50}{figure.2.2}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Sample Experimental Setup at UKAL for $\gamma $-singles measurements (Made in M. Caprio's SciDraw software for Mathematica \cite {Caprio2005107})}}{54}{figure.2.3}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Typical TOF spectrum with labeled regions for corresponding $\gamma $, neutron, and background events.}}{56}{figure.2.4}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Superimposed excitation functions for two gamma rays (E$_\gamma $=969 \& 1252\nobreakspace {}keV) leaving the same level (E$_{lev}$=1518\nobreakspace {}keV), and a single 1195\nobreakspace {}keV $\gamma $-ray leaving a separate E$_{lev}$=1275\nobreakspace {}keV level in $^{162}$Dy. The different thresholds and shape of the 1195\nobreakspace {}keV and 969\nobreakspace {}keV de-excitations imply that these decays are from two different levels, clearly showing their placement in the level scheme.}}{58}{figure.2.5}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Angular distributions for two different multipolarity $\gamma $-rays in $^{162}$Dy, an E2 transition of E$_\gamma $=282\nobreakspace {}keV (the 6$^+_{gs}\rightarrow $4$^+_{gs}$ transition) \& an E1 transition of E$_\gamma $=334\nobreakspace {}keV (a 3$^-\rightarrow $2$^+_\gamma $ transition), showing distinct, inverted shapes.}}{61}{figure.2.6}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Angles used in $^{162}$Dy(n,n$^\prime \gamma $) angular distributions. Angles in black are used in all measurements, while angles in red (137$^o$ and 145$^o$) are used for the E$_n$=1.6\nobreakspace {}MeV measurements and angles in blue are used for both E$_n$=2.2 and 3.1\nobreakspace {}MeV datasets. }}{64}{figure.2.7}
+ {\vskip 0.4em} 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Spectrum from a $^{226}$Ra calibration run during the $^{162}$Dy experiments. Sampled, higher intensity peaks are labeled by their energy in keV (refer to Table \ref {tab:226Ralines}).}}{70}{figure.3.1}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Linear energy calibration, taken from the three $^{162}$Dy(n,n$^{\prime }\gamma $) angular distributions and single excitation function (ExF in the legend).}}{72}{figure.3.2}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Order-5 polynomial nonlinearity correction, taken from the $^{162}$Dy(n,n$^{\prime }\gamma $) angular distribution with E$_n$=3.1\nobreakspace {}MeV}}{74}{figure.3.3}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Fifth-order relative efficiency curve taken from the $^{162}$Dy(n,n$^{\prime }\gamma $) angular distribution with E$_n$=3.1\nobreakspace {}MeV }}{75}{figure.3.4}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Multiplicative factor calculated by {\tt GAMBIT} to correct for the angular dependent $\gamma $-ray self-absorption by a finite-size target. }}{76}{figure.3.5}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Example of an energy-calibrated spectrum from the $^{162}$Dy angular distribution at E$_n$=1.6\nobreakspace {}MeV and $\theta _{lab}$=90$^\circ $, outlining typical background levels and miscellaneous $\gamma $-ray transitions. }}{78}{figure.3.6}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces A set of plots from a typical excitation function for a single $\gamma $-ray transition, in `a)', E$_\gamma $ vs. E$_n$, and in `b)', the peak area vs E$_n$. Note the dip in $\gamma $-ray energy at 2.6\nobreakspace {}MeV, and corresponding bump in peak area (shown as a blue ellipse to guide the eye), indicating a second transition of a similar (slightly lower) energy being populated. }}{80}{figure.3.7}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Spectra from four bombarding neutron energies (E$_n$=1.4, 1.7, 1.775, and 2.3\nobreakspace {}MeV datasets) to show the typical increase of statistics for a single peak, a 1647\nobreakspace {}keV decay from the 1728\nobreakspace {}keV state in $^{162}$Dy. Note the peak area emerge just above the level energy threshold (1.775\nobreakspace {}MeV neutron dataset), with optimal statistics in the E$_n$=2.3\nobreakspace {}MeV set. }}{81}{figure.3.8}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Calculated Winterbon curves (\textit {F}(\textit {$\tau $}) as a function of \textit {$\tau $}) for E$_n$=1.6, 2.2, and 3.1\nobreakspace {}MeV $^{162}$Dy angular distributions. Sensitive lifetime ranges from DSAM are shown as vertical black lines, with the corresponding \textit {F}(\textit {$\tau $}) values as horizontal lines. }}{83}{figure.3.9}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Example Doppler Shift for a 1149\nobreakspace {}keV $\gamma $-ray populated in the 1.5\nobreakspace {}MeV $^{160}$Gd(n,n$^\prime \gamma $) experiment. Here, the \textit {F}(\textit {$\tau $}) value of 0.665 $\pm $ 0.010 corresponds to a lifetime of 21 $\pm $ 1 fs. }}{84}{figure.3.10}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Example extraction of multipole mixing fraction ($\delta $) for a 4$^+\rightarrow $4$^+$ transition in $^{162}$Dy. Top-left plot: angular distribution of the 1308\nobreakspace {}keV $\gamma $ ray. Top-right plot: {\tt CINDY} comparison for a range of initial spins (color online) decaying to the final spin of 4; intersections with the black ellipse mark local/global minima of $\chi ^2$ vs $\delta $. Bottom plot: projection of {\tt CINDY} comparison as $\chi ^2$ as a function of $\delta $ minimization (note the lowest $\chi $ value corresponds to the $\delta \approx $1 for the cyan-colored 4$^+\rightarrow $4$^+$ transition). (color online) }}{88}{figure.3.11}
+ {\vskip 0.4em} 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Lifetime inflation of the measured lifetimes for two levels (E$_{lev}$=1275\nobreakspace {}keV and E$_{lev}$=1358\nobreakspace {}keV) in $^{162}$Dy caused by effects due to a higher bombarding neutron energy and unknown level-feeding from higher-lying states. }}{90}{figure.4.1}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Level scheme for all level lifetimes measured in the $^{160}$Gd experiments, with confirmed band and spin assignments shown. Previously measured lifetimes are in blue, with newly presented lifetimes in red. Individual levels and bands will be discussed in following sections. }}{92}{figure.4.2}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Visual representation of all measured lifetimes with respect to literature values (in blue). Each separate color outlines the specific regimes ($<$1.5\nobreakspace {}MeV, 1.5\nobreakspace {}-\nobreakspace {}2.0\nobreakspace {}MeV, and $>$2.0\nobreakspace {}MeV excitation energy) of energies studied in the $^{160}$Gd angular distributions. }}{93}{figure.4.3}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Singles spectra from the $\theta _{lab}$=90$^\circ $ and E$_n$=2.0\nobreakspace {}MeV angular distributions of $^{160}$Gd. }}{94}{figure.4.4}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Level scheme for all level lifetimes measured in the $^{162}$Dy experiments, with confirmed band and spin assignments shown. Previously measured lifetimes are in blue, with newly presented lifetimes in red, levels in green constitute an unreliable lifetime measurement from our data, where F($\tau $)$<$0 or is consistent with zero. }}{103}{figure.4.5}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces All measured lifetimes in $^{162}$Dy (in femtoseconds) plotted as a function of excitation energy in keV. Data points in red are extracted from the E$_n$=1.6\nobreakspace {}MeV angular distributions, points in green correspond to lifetimes extracted from the 2.2\nobreakspace {}MeV angular distributions, and blue points are lifetimes from the 3.1\nobreakspace {}MeV dataset. (color online) }}{106}{figure.4.6}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Singles spectra from the $\theta _{lab}$=90$^\circ $ and E$_n$=2.2\nobreakspace {}MeV angular distributions of $^{162}$Dy. }}{107}{figure.4.7}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Angular distributions of 0$^+_i\rightarrow $2$^+_{g.s.}$ $\gamma $-rays observed in $^{162}$Dy, highlighting their isotropic nature (color online). }}{108}{figure.4.8}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Doppler energy shifts of 0$^+_i\rightarrow $2$^+_{g.s.}$ $\gamma $-rays observed in $^{162}$Dy (color online). }}{109}{figure.4.9}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Lowest-lying negative parity bands in $^{162}$Dy with reliable lifetimes measured in our experiments in red, existing literature values in blue, and unreliable lifetimes measured in green (color online). }}{119}{figure.4.10}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {4.11}{\ignorespaces E$_\gamma $=260\nobreakspace {}keV $\gamma $ ray (from the E$_{\rm x}$=1148\nobreakspace {}keV level) Doppler shift and excitation functions for decays from the first 2$^-$ band (color online). The vertical black lines highlight our justification for using a slightly higher bombarding neutron energy, for the sake of better statistics, without the potential for contaminant decay channels from other states. }}{124}{figure.4.11}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {4.12}{\ignorespaces E$_\gamma $=912 \& 1010\nobreakspace {}keV (de-excitations from the E$_{\rm x}$=1974\nobreakspace {}keV level) Doppler shifts and excitation functions (color online). The excitation function (in blue) for the 1010\nobreakspace {}keV $\gamma $ ray is scaled by a factor of 0.33 to normalize to the branching ratio of the level. }}{126}{figure.4.12}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {4.13}{\ignorespaces E$_\gamma $=937 \& 1220\nobreakspace {}keV (de-excitations from the E$_{\rm x}$=1485\nobreakspace {}keV level) Doppler shifts and overlaid excitation functions (color online). The excitation function (in blue) for the 1220\nobreakspace {}keV $\gamma $ ray is scaled by a factor of 0.291. }}{127}{figure.4.13}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Excitation functions for the decays leaving the E$_{\rm x}$=1637\nobreakspace {}keV state. Note the differing population threshold energies for each $\gamma $-ray. (color online)}}{129}{figure.4.14}
+ {\vskip 0.4em} 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Non-isotropic decay from the tentative 0$^+$ state in $^{160}$Gd at E$_{\rm x}$=1325\nobreakspace {}keV. }}{162}{figure.5.1}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Excitation function measurement from the tentative 0$^+$ state in $^{160}$Gd at E$_{\rm x}$=2236\nobreakspace {}keV. }}{163}{figure.5.2}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Level scheme showing the calculated B(E2) in W.u. and B(E1) in mW.u. for the confirmed 0$^+$ excitations in $^{160}$Gd. }}{164}{figure.5.3}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Level scheme showing the decays with calculated reduced transition probabilities for the K$^\pi $=2$^+_\gamma $ band and low-lying negative parity states in $^{160}$Gd. }}{166}{figure.5.4}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Level scheme showing the decays with calculated reduced transition probabilities for the K$^\pi $=4$^+$ and 1$^+$ bands in $^{160}$Gd. }}{168}{figure.5.5}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Level scheme showing the decays with calculated reduced transition probabilities for the levels that are not assigned to rotational bands in $^{160}$Gd. Note the neutron and proton pairing gaps drawn as dotted lines (2$\Delta _\nu \sim $1625\nobreakspace {}keV and 2$\Delta _\pi \sim $1810\nobreakspace {}keV). }}{171}{figure.5.6}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Singles spectra cuts where remaining 0$^+$ excitations should be observed. Spectra for 0$^+_{4,5}$ placements are from the E$_n$=1.925\nobreakspace {}MeV excitation function measurements, with 0$^+_{8,10}$ from the E$_n$=2.9\nobreakspace {}MeV dataset. }}{177}{figure.5.7}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Level scheme outlining all measured lifetimes for K$^\pi $=0$^+$ bands in $^{162}$Dy. New lifetime measurements are shown in red (color online), and new B(E2;0$^+_i\rightarrow $g.s.) calculations are expressed in Weisskopf units (W.u.). }}{178}{figure.5.8}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Measured angular distribution of 1342\nobreakspace {}keV $\gamma $ ray leaving the 2230\nobreakspace {}keV level, W($\theta $) fit is shown with a$_2$ and a$_4$ coefficients from the E$_n$=3.1\nobreakspace {}MeV angular distribution. }}{184}{figure.5.9}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Level scheme showing all observed transitions from the lowest-lying 2$^+_\gamma $, 0$^+_2$, and 4$^+_1$ band with all interband (K$^\pi $=J$^+_i\rightarrow $K$^\pi $=2$^+_\gamma $) decays. Intensities for transitions to the $\gamma $-band are taken from \cite {Aprahamian200642}. Also shown is a tentative (2$^+$) state at 2230\nobreakspace {}keV with a strong decay to the 2$^+_\gamma $ band. }}{186}{figure.5.10}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {5.11}{\ignorespaces E$_\gamma $=1195 \& 1275\nobreakspace {}keV (de-excitations from the E$_{\rm x}$=1275\nobreakspace {}keV level) Doppler shifts and excitation functions (color online). The excitation function (in blue) for the 1275\nobreakspace {}keV $\gamma $ ray is scaled by a factor of 1.53 to normalize to the branching ratio of the level. }}{195}{figure.5.11}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Observed $\gamma $-decays from negative parity, K$^\pi $=2$^-$, 0$^-$, 2$^-_2$ bands in $^{162}$Dy. Transition strengths are drawn proportional in width to their deduced B(E1), with E1 transitions (B(E1) in milli-Weksskopf units) in violet (color online). Literature B(E3) values are drawn in green, expressed in W.u., and are from Refs. \cite {McGowan_BE2_1981,OEHLBERG_BE3} }}{196}{figure.5.12}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Observed $\gamma $-decays from higher lying K$^\pi $=5$^-$, 3$^-$, 1$^-$, 3$^-_2$ bands in $^{162}$Dy. Transition strengths are proportional in width, with E2 transitions in red and E1 transitions in violet (color online). Hollow (white with colored border) transition arrows indicate that the resulting transition probability is tentatively from an unreliable lifetime measurement. }}{199}{figure.5.13}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {5.14}{\ignorespaces K$^\pi $=1$^+$ band and the 1$^\pm $-spin levels part of the isovector M1 scissors mode in $^{162}$Dy. B(E1) in violet and in mW.u., B(M1) in green and W.u., and B(E2) in red in W.u. }}{201}{figure.5.14}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Levels in $^{162}$Dy with no rotational band assignment above the pairing gap (2$\Delta $n=1720\nobreakspace {}keV \& 2$\Delta $p=1914\nobreakspace {}keV). B(E2) strenghts drawn in red and in W.u. }}{202}{figure.5.15}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Levels in $^{162}$Dy with no rotational band assignment above the pairing gap (2$\Delta $n=1720\nobreakspace {}keV \& 2$\Delta $p=1914\nobreakspace {}keV) (continued). B(E1) in violet and in mW.u., and B(E2) in red in W.u. }}{203}{figure.5.16}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Levels in $^{162}$Dy with no rotational band assignment above the pairing gap (2$\Delta $n=1720\nobreakspace {}keV \& 2$\Delta $p=1914\nobreakspace {}keV) (continued). B(E1) in violet and in mW.u., and B(E2) in red in W.u. }}{204}{figure.5.17}
+ {\vskip 0.4em} 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Energies of the lowest-lying 0$^+$ state as a function of A (top) and N (bottom) for rare earth Sm, Gd, Dy, Er, Yb and Hf isotopes. }}{212}{figure.6.1}
+ {\vskip 0.4em} 
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Known experimental B(E2) strengths of the lowest-lying 0$^+$ state as a function of A for rare earth Sm, Gd, Dy, Er, Yb and Hf isotopes. }}{213}{figure.6.2}
+ {\vskip 0.4em} 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

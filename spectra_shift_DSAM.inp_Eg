@@ -1,0 +1,19 @@
+set terminal postscript eps color enhanced "Helvetica" 20 solid
+set xlabel "E_{/Symbol g} (keV)" offset 0,-0.5 font "Helvetica, 30"
+set ylabel "Normalized counts" offset 0.75,0 font "Helvetica, 30"
+set mytics 4
+set ytics 100 
+set xtics 2
+set mxtics 5
+OFF=0.704329
+SLOPE=0.205789
+set yrange [0:300]
+set xrange [(SLOPE*9210+OFF):(SLOPE*9280+OFF)]
+set output 'spectra_shift_DSAM.eps'
+set size 1,1
+set arrow from (SLOPE*9247.681+OFF),0 to (SLOPE*9247.681+OFF),300 nohead lw 5 lc rgb "red"
+set arrow from (SLOPE*9246.411+OFF),0 to (SLOPE*9246.411+OFF),300 nohead lw 5 lc rgb "blue"
+set arrow from (SLOPE*9244.183+OFF),0 to (SLOPE*9244.183+OFF),300 nohead lw 5 lc rgb "green"
+set label "E_{{/Symbol g},o}=1902.055 keV" left at (SLOPE*9215+OFF),275 norotate font "Helvetica,25"
+set label "E_n=2.2 MeV" left at (SLOPE*9215+OFF),245 norotate font "Helvetica,25"
+plot '162Dy_40.dat' u (SLOPE*$1+OFF):(2*$2) t "{/Symbol q}_{lab}=40 deg" w histeps lw 3,'162Dy_90.dat' u (SLOPE*$1+OFF):2 t "{/Symbol q}_{lab}=90 deg" w histeps lw 3 lc rgb "blue",'162Dy_150.dat' u (SLOPE*$1+OFF):2 t "{/Symbol q}_{lab}=150 deg" w histeps lw 3 lc rgb "green"

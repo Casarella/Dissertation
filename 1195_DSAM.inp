@@ -1,0 +1,19 @@
+set terminal postscript eps color enhanced "Helvetica" 20 solid
+set xlabel "cos({/Symbol q})" offset 0,0.5 font "Helvetica, 30"
+set ylabel "E_{/Symbol g} (keV)" offset 1.5,0 font "Helvetica, 30"
+set mytics 3
+set ytics 0.1
+set yrange [1194.6:1195.4]
+set xrange [-1:1]
+set output '1195_DSAM.eps'
+set size 1,1
+b=0.00018431142084551422*2.2
+F=0.578
+E=1195.106
+#107.       13.0      -12.0  
+set label "E_{/Symbol g} = 1195 keV" left at -0.8,1195.3 norotate font "Helvetica,25"
+set label "E_n = 2.2 MeV" left at -0.8,1195.2 norotate font "Helvetica,25"
+set label "{/Symbol t} = 107 @^{+13}_{-12}   fs" left at 0.0,1194.7 norotate font "Helvetica,25"
+set label "F({/Symbol t}) = 0.578 {/Symbol \261} 0.030" left at 0.0,1194.8 norotate font "Helvetica,25"
+F(x) = E * (1 + b * F * x)
+plot '1195_DSAM.dat' u (cos($5*3.14/180)):1:2 w yerrorbars t "" pt 7 ps 1, F(x) lt rgb "blue" t ""

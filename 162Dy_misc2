@@ -1,0 +1,82 @@
+W = 10;
+W1 = W/7;
+xorigin=1;
+xorigin2=xorigin+2;
+x0[0]=xorigin2+1;
+x1[0]=x0[0]+2;
+Nband=9;
+Do[x0[i]=x1[i-1]+5,{i,1,Nband,1}]
+Do[x1[i]=x0[i]+3,{i,1,Nband,1}]
+Do[lw[i]=x1[1]-x0[1],{i,1,Nband,1}]
+N1 = 3;
+Do[wd[i] = i*lw[1]/N1, {i, 0, N1, 1}]
+
+
+
+
+Figure[FigurePanel[{
+    SetOptions[Lev, LineThickness -> 2, FontSize -> 20, MakeWing -> {True, False}, WingTipWidth -> 2.5, RightTextOffset -> BottomLeft, LeftTextNudge -> {5, 0}];
+    SetOptions[ExtensionLine, LineDashing -> 4];
+    SetOptions[Trans, ArrowType -> Block, HeadLength -> 15, FontSize -> 14, TextBackground -> White,FillColor->Red,LineColor->Red];
+    SetOptions[BandLabel, FontSize -> 30, TextNudge -> {0, -20}];
+    Lev[["162Dy_0gs"]][xorigin, x1[Nband], 0, LeftLabel -> LevelLabel[{"0", \[Null], +1}]];
+    Lev[["162Dy_2gs"]][xorigin, xorigin2, 80.661, LeftLabel -> LevelLabel[{"2", \[Null], +1}], RightLabel -> 80];
+    Lev[["162Dy_4gs"]][xorigin, xorigin2, 265.664, LeftLabel -> LevelLabel[{"4", \[Null], +1}], RightLabel -> 265, Color -> Blue];
+    Lev[["162Dy_6gs"]][xorigin, xorigin2, 548.520, LeftLabel -> LevelLabel[{"6", \[Null], +1}], RightLabel -> 548, Color -> Blue];
+    BandLabel["162Dy_0gs", Isotope["162", "Dy"], FontSize -> 30];
+    ExtensionLine["162Dy_2gs", Right,x1[Nband]-xorigin2];
+    ExtensionLine["162Dy_4gs", Right,x1[Nband]-xorigin2];
+    ExtensionLine["162Dy_6gs", Right,x1[Nband]-xorigin2];
+    
+    Lev[["162Dy_2g"]][x0[0], x1[0], 888.161, LeftLabel -> LevelLabel[{"2", \[Null], +1}], RightLabel -> 888, Color -> Blue];
+    Lev[["162Dy_3g"]][x0[0], x1[0], 962.940, LeftLabel -> LevelLabel[{"3", \[Null], +1}], RightLabel -> 962, Color -> Red];
+    Lev[["162Dy_4g"]][x0[0], x1[0], 1060.991, LeftLabel -> LevelLabel[{"4", \[Null], +1}], RightLabel -> 1060, Color -> Red];
+    Lev[["162Dy_5g"]][x0[0], x1[0], 1182.763, LeftLabel -> LevelLabel[{"5", \[Null], +1}], RightLabel -> 1182, Color -> Red];
+    BandLabel["162Dy_2g", RowBox[{SuperscriptBox["K", "\[Pi]"], "=",   LabelJiP["2", "\[Gamma]", +1]}],TextNudge->{0,150}];
+    ExtensionLine["162Dy_2g", Right,x1[Nband]-x1[0]];
+    ExtensionLine["162Dy_3g", Right,x1[Nband]-x1[0]];
+    ExtensionLine["162Dy_5g", Right,x1[Nband]-x1[0]];
+    
+    Lev[["162Dy_2m"]][x0[1], x1[1], 1148.763, LeftLabel -> LevelLabel[{"2", \[Null], -1}], RightLabel -> 1148, Color -> Blue,VerticalShift->-10];
+    Lev[["162Dy_3m"]][x0[1], x1[1], 1210.089, LeftLabel -> LevelLabel[{"3", \[Null], -1}], RightLabel -> 1210, Color -> Red];
+    Lev[["162Dy_4m"]][x0[1], x1[1], 1297.006, LeftLabel -> LevelLabel[{"4", \[Null], -1}], RightLabel -> 1297, Color -> Red];
+    Lev[["162Dy_5m"]][x0[1], x1[1], 1390.513, LeftLabel -> LevelLabel[{"5", \[Null], -1}], RightLabel -> 1390, Color -> Red];
+    BandLabel["162Dy_2m", RowBox[{SuperscriptBox["K", "\[Pi]"], "=", LabelJP["2", -1]}],TextNudge->{0,150}];
+    ExtensionLine["162Dy_2m", Right,x1[Nband]-x1[1]];
+    
+    Lev[["162Dy_1m"]][x0[2], x1[2], 1275.772, LeftLabel -> LevelLabel[{"1", \[Null], -1}], RightLabel -> 1275, Color -> Blue];
+    ExtensionLine["162Dy_1m", Right,x1[Nband]-x1[2]];
+    BandLabel["162Dy_1m", RowBox[{SuperscriptBox["K", "\[Pi]"], "=", LabelJP["0", -1]}],TextNudge->{0,100}];
+ 
+
+    Lev[["162Dy_1895"]][x0[3], x1[3], 1895, LeftLabel -> LevelLabel[{"2", \[Null], +1}], RightLabel -> 1895, Color -> Red, WingHeight -> 0];
+    Lev[["162Dy_1999"]][x0[4], x1[4], 1999, LeftLabel -> LevelLabel[{"2", \[Null], +1}], RightLabel -> 1999, Color -> Red, WingHeight -> 10];
+    Lev[["162Dy_2181"]][x0[5], x1[5], 2181, LeftLabel -> LevelLabel[{"4", \[Null], +1}], RightLabel -> 2181, Color -> Red, WingHeight -> 0];
+    Lev[["162Dy_2230"]][x0[6], x1[6], 2230, LeftLabel -> LevelLabel[{"(2)", \[Null], +1}], RightLabel -> 2230, Color -> Red, WingHeight -> 20,MakeWing->{True,False}];
+    Lev[["162Dy_2324"]][x0[7], x1[7], 2324,LeftLabel -> LevelLabel[{"(4,5)", \[Null], +1}], RightLabel -> 2324, Color -> Red, WingHeight -> 10,MakeWing->{True,False}];
+    Lev[["162Dy_2386"]][x0[8], x1[8], 2386, LeftLabel -> LevelLabel[{"(2)", \[Null], +1}], RightLabel -> 2386, Color -> Red, WingHeight -> 20];
+    Lev[["162Dy_2506"]][x0[9], x1[9], 2506, LeftLabel -> LevelLabel[{"(2)", \[Null], +1}], RightLabel -> 2506, Color -> Red, WingHeight -> 10];
+
+         Trans["162Dy_1895",wd[1]*N1/3,"162Dy_2gs",Automatic,Width->0.286/W1,CenterLabel->"0.3 W.u."];
+         Trans["162Dy_1895",wd[2]*N1/3,"162Dy_2m",Automatic,Width->0.419/W1,CenterLabel->"0.4 mW.u.",FillColor->DarkViolet,LineColor->DarkViolet]; 
+         Trans["162Dy_2230",wd[1]*N1/3,"162Dy_2g",Automatic,Width->6.2/W1,CenterLabel->"5.2 W.u."];
+         Trans["162Dy_2230",wd[2]*N1/3,"162Dy_1m",Automatic,Width->0.5/W1,CenterLabel->"0.4 mW.u.",FillColor->DarkViolet,LineColor->DarkViolet];
+         Trans["162Dy_2386",wd[1]*N1/2,"162Dy_2gs",Automatic,Width->0.3/W1,CenterLabel->"0.3 W.u."];
+         Trans["162Dy_1999",wd[1]*N1/2,"162Dy_2gs",Automatic,Width->0.01/W1,CenterLabel->"0.01 W.u."];
+         Trans["162Dy_2181",wd[1]*N1/2,"162Dy_3g",Automatic,Width->1.3/W1,CenterLabel->"1.3 W.u."];
+         Trans["162Dy_2324",wd[1]*N1/2,"162Dy_5g",Automatic,Width->6.1/W1,CenterLabel->"<6.2 W.u."];
+         Trans["162Dy_2506",wd[1],"162Dy_0gs",Automatic,Width->0.5/W1,CenterLabel->"0.5 W.u."];
+         Trans["162Dy_2506",wd[2],"162Dy_4gs",Automatic,Width->0.9/W1,CenterLabel->"0.9 W.u."];
+
+(*Trans["162Dy_1-2-3",wd[1]*N1/2,"162Dy_2m",Automatic,Width->1.065/W1,CenterLabel->"1.065 W.u."];*)
+(*Lev[["162Dy_1-2-3"]][x0[3], x1[3], 2163, LeftLabel -> LevelLabel[{"1,2,3", \[Null], +1}], RightLabel -> 2163, Color -> Red];*)
+
+  BandLabel["162Dy_2230", RowBox[{SuperscriptBox["K", "\[Pi]"], "unknown"}], TextNudge -> {0, 140}];
+    
+    },
+   PlotRange -> {{xorigin-1, x1[Nband]+2}, {-300, 3000.}}, XFrame -> False, 
+   YFrameLabel -> "Excitation Energy (keV)", FontSize -> 20, 
+   ExtendRange -> Automatic];, CanvasSize -> 1.5*{12, 6}, 
+ CanvasMargin -> 1]
+
+    

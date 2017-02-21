@@ -1,0 +1,4 @@
+pdflatex Dissertation_Casarella.tex
+bibtex Dissertation_Casarella
+pdflatex Dissertation_Casarella.tex
+pdflatex Dissertation_Casarella.tex

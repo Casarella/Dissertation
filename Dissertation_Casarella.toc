@@ -1,0 +1,88 @@
+\contentsline {chapter}{FIGURES}{vi}{chapter*.3}
+\contentsline {chapter}{TABLES}{xiii}{chapter*.4}
+\contentsline {chapter}{ACKNOWLEDGMENTS}{xv}{chapter*.5}
+\contentsline {chapter}{{CHAPTER\ 1: INTRODUCTION}}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Deformation in Nuclei}{6}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Vibrations in Deformed Nuclei}{7}{subsection.1.1.1}
+\contentsline {section}{\numberline {1.2}Excited States in Deformed Nuclei}{10}{section.1.2}
+\contentsline {section}{\numberline {1.3}Historical Impetus in Experimental Nuclear Structure}{17}{section.1.3}
+\contentsline {section}{\numberline {1.4}Assessing Nuclear Structure from Decay Radiation}{22}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Importance of Transition Probabilities}{25}{subsection.1.4.1}
+\contentsline {section}{\numberline {1.5}Decay and Structure Systematics in the 150$<$A$<$180 Region}{28}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}K$^\pi $=0$^+$,2$^+$ Systematics in Samarium, Gadolinium, and Dysprosium Nuclei}{29}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}K$^\pi $=0$^+$,2$^+$ Systematics in Erbium, Ytterbium, and Hafnium Nuclei}{33}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Negative Parity States in Gadolinium and Dysprosium Nuclei}{37}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {1.5.4}Multiphonon Configurations in Deformed Nuclei}{41}{subsection.1.5.4}
+\contentsline {chapter}{{CHAPTER\ 2: EXPERIMENTS AND DATA ACQUISITION}}{46}{chapter.2}
+\contentsline {section}{\numberline {2.1}Lifetime Measurements of Excited States}{46}{section.2.1}
+\contentsline {section}{\numberline {2.2}DSAM-INS Formalism}{48}{section.2.2}
+\contentsline {section}{\numberline {2.3}(n,n$^{\prime }\gamma $) Experiments at the University of Kentucky}{51}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Excitation Function Measurements}{57}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Angular Distribution Measurements}{59}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Experimental Campaigns}{61}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}The $^{160}$Gd Campaign}{62}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}The $^{162}$Dy Campaign}{62}{subsection.2.4.2}
+\contentsline {chapter}{{CHAPTER\ 3: DATA ANALYSIS}}{67}{chapter.3}
+\contentsline {section}{\numberline {3.1}Calibrations and Corrections}{67}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Energy Calibrations}{67}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Nonlinearity Calibrations}{73}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Efficiency Calibrations}{74}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Self-Absorption Corrections}{75}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}Statistical Analysis}{77}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Fitting Procedures}{77}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Observable Extraction}{79}{subsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.1}Excitation Functions}{79}{subsubsection.3.2.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2.2}Angular Distributions}{82}{subsubsection.3.2.2.2}
+\contentsline {chapter}{{CHAPTER\ 4: RESULTS}}{89}{chapter.4}
+\contentsline {section}{\numberline {4.1}$^{160}$Gd Results}{90}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Lifetimes of 0$^+$ States}{94}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Lifetimes of 2$^+_\gamma $ Band}{96}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Lifetimes of Negative Parity Bands}{97}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Lifetimes of Positive Parity Bands}{97}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Lifetimes of States with No K$^\pi $ Assignment}{99}{subsection.4.1.5}
+\contentsline {section}{\numberline {4.2}$^{162}$Dy Results}{102}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Lifetimes of 0$^+$ States}{106}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Lifetimes of K$^\pi $=2$^+_\gamma $ and 4$^+$ Bands}{114}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Lifetimes of Negative Parity Bands (K$^\pi $=2$^-$, 0$^-$, and 2$^-_2$)}{118}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Lifetimes of Other Negative Parity Bands (K$^\pi $=5$^-$, 3$^-$, 1$^-$ and 3$^-_2$)}{125}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Lifetimes of K$^\pi $=1$^+$ Band and Members of M1 Scissors}{133}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Lifetimes of States with No K$^\pi $ Assignment}{136}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}All Decays Observed (Intensities)}{140}{subsection.4.2.7}
+\contentsline {chapter}{{CHAPTER\ 5: DISCUSSION AND INTERPRETATION}}{160}{chapter.5}
+\contentsline {section}{\numberline {5.1}$^{160}$Gd Discussion}{160}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Excited 0$^+$ States and the K$^\pi $=2$^+_\gamma $ Band}{160}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Negative Parity States}{165}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Other Lifetime Measurements in $^{160}$Gd}{168}{subsection.5.1.3}
+\contentsline {subsubsection}{\numberline {5.1.3.1}K$^\pi $=4$^+$ Band as a Hexadecapole Vibration?}{169}{subsubsection.5.1.3.1}
+\contentsline {subsubsection}{\numberline {5.1.3.2}K$^\pi $=1$^+$ Band}{170}{subsubsection.5.1.3.2}
+\contentsline {subsection}{\numberline {5.1.4}Implications and Further Discussion}{172}{subsection.5.1.4}
+\contentsline {section}{\numberline {5.2}$^{162}$Dy Lifetimes}{175}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}0$^+$ Excitations Not Observed in (n,n$^\prime \gamma $)}{175}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}A Lack of Strong $\beta $ Vibrations in $^{162}$Dy}{179}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}On the Two-Phonon Characteristics}{180}{subsection.5.2.3}
+\contentsline {subsubsection}{\numberline {5.2.3.1}2$^+_\gamma $ Band}{180}{subsubsection.5.2.3.1}
+\contentsline {subsubsection}{\numberline {5.2.3.2}0$^+_2$ Band $\gamma \gamma $-Vibration}{181}{subsubsection.5.2.3.2}
+\contentsline {subsubsection}{\numberline {5.2.3.3}K$^\pi $=4$^+_{1,2}$ Bands at 1535,2181\nobreakspace {}keV as $\gamma \gamma $-Vibrations}{182}{subsubsection.5.2.3.3}
+\contentsline {subsubsection}{\numberline {5.2.3.4}(2,3,4)$^+$ State at 2230\nobreakspace {}keV}{183}{subsubsection.5.2.3.4}
+\contentsline {subsection}{\numberline {5.2.4}Negative Parity States}{191}{subsection.5.2.4}
+\contentsline {subsubsection}{\numberline {5.2.4.1}K$^\pi $=2$^-$ Band at 1148\nobreakspace {}keV}{191}{subsubsection.5.2.4.1}
+\contentsline {subsubsection}{\numberline {5.2.4.2}K$^\pi $=0$^-$ Band at 1275\nobreakspace {}keV}{191}{subsubsection.5.2.4.2}
+\contentsline {subsubsection}{\numberline {5.2.4.3}K$^\pi $=2$^-_2$ Band at 1863\nobreakspace {}keV}{192}{subsubsection.5.2.4.3}
+\contentsline {subsection}{\numberline {5.2.5}Other Negative Parity Bands}{197}{subsection.5.2.5}
+\contentsline {subsubsection}{\numberline {5.2.5.1}K$^\pi $=5$^-$ Band}{197}{subsubsection.5.2.5.1}
+\contentsline {subsubsection}{\numberline {5.2.5.2}K$^\pi $=3$^-$ Band}{197}{subsubsection.5.2.5.2}
+\contentsline {subsubsection}{\numberline {5.2.5.3}K$^\pi $=1$^-$ Band}{198}{subsubsection.5.2.5.3}
+\contentsline {subsubsection}{\numberline {5.2.5.4}K$^\pi $=3$^-_2$ Band}{198}{subsubsection.5.2.5.4}
+\contentsline {subsection}{\numberline {5.2.6}K$^\pi $=1$^+$ Band}{200}{subsection.5.2.6}
+\contentsline {subsection}{\numberline {5.2.7}States Above 2.2\nobreakspace {}MeV Excitation Energy}{200}{subsection.5.2.7}
+\contentsline {subsection}{\numberline {5.2.8}Implications and Further Discussion}{205}{subsection.5.2.8}
+\contentsline {chapter}{{CHAPTER\ 6: FINAL REMARKS AND FUTURE OUTLOOK}}{206}{chapter.6}
+\contentsline {section}{\numberline {6.1}Impact of Presented Lifetime Measurements}{206}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}$^{160}$Gd}{206}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}$^{162}$Dy}{207}{subsection.6.1.2}
+\contentsline {section}{\numberline {6.2}What Lies Ahead for Rare-Earth Nuclei?}{208}{section.6.2}
+\contentsline {chapter}{{APPENDIX\ A: $^{160}$GD 0$^+$ STATES}}{214}{appendix.A}
+\contentsline {chapter}{{APPENDIX\ B: $^{160}$GD NEGATIVE PARITY STATES}}{221}{appendix.B}
+\contentsline {chapter}{{APPENDIX\ C: $^{162}$DY QUADRUPOLE EXCITATIONS}}{236}{appendix.C}
+\contentsline {chapter}{{APPENDIX\ D: $^{162}$DY NEGATIVE PARITY STATES}}{261}{appendix.D}
+\contentsline {chapter}{BIBLIOGRAPHY}{281}{appendix*.6}

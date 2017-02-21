@@ -1,0 +1,606 @@
+\begin{thebibliography}{85}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Aprahamian(2004)]{Aprahamian2004}
+A.~Aprahamian.
+\newblock {From ripples to tidal waves: Low lying vibrational motion in
+  nuclei}.
+\newblock \emph{Nuclear Physics A}, 731:\penalty0 291 -- 298, 2004.
+
+\bibitem[Aprahamian et~al.(2002)Aprahamian, de~Haan, B\"orner, Lehmann, Doll,
+  Jentschel, Bruce, and Piepenbring]{Aprahamian2002}
+A.~Aprahamian, R.~C. de~Haan, H.~G. B\"orner, H.~Lehmann, C.~Doll,
+  M.~Jentschel, A.~M. Bruce, and R.~Piepenbring.
+\newblock {Lifetime measurements of excited ${K}^{\ensuremath{\pi}}{=0}^{+}$
+  bands in ${}^{178}\mathrm{Hf}$}.
+\newblock \emph{Phys. Rev. C}, 65:\penalty0 031301, Feb 2002.
+
+\bibitem[Aprahamian et~al.(2006)Aprahamian, Wu, Lesher, Warner, Gelletly,
+  B\"orner, Hoyler, Schreckenbach, Casten, Shi, Kusnezov, Ibrahim,
+  Macchiavelli, Brinkman, and Becker]{Aprahamian200642}
+A.~Aprahamian, X.~Wu, S.~Lesher, D.~Warner, W.~Gelletly, H.~B\"orner,
+  F.~Hoyler, K.~Schreckenbach, R.~Casten, Z.~Shi, D.~Kusnezov, M.~Ibrahim,
+  A.~Macchiavelli, M.~Brinkman, and J.~Becker.
+\newblock Complete spectroscopy of the {$^{162}$Dy} nucleus.
+\newblock \emph{Nuclear Physics A}, 764:\penalty0 42 -- 78, 2006.
+\newblock ISSN 0375-9474.
+
+\bibitem[{Aprahamian, A. and Brenner, D. S. and Casten, R. F. and Gill, R. L.
+  and Piotrowski, A.}(1987)]{Aprahamian_118Cd}
+{Aprahamian, A. and Brenner, D. S. and Casten, R. F. and Gill, R. L. and
+  Piotrowski, A.}
+\newblock {First observation of a near-harmonic vibrational nucleus}.
+\newblock \emph{Phys. Rev. Lett.}, 59:\penalty0 535--538, Aug 1987.
+
+\bibitem[Belgya et~al.(1996)Belgya, Molnar, and Yates]{Belgya_DSAM1996}
+T.~Belgya, G.~Molnar, and S.~W. Yates.
+\newblock {Analysis of Doppler-shift attenuation measurements performed with
+  accelerator-produced monoenergetic neutrons}.
+\newblock \emph{Nuclear Physics A}, 607:\penalty0 43 -- 61, 1996.
+
+\bibitem[Bender et~al.(2004)Bender, Rutz, Reinhard, and
+  Maruhn]{Bender_pairing2000}
+M.~Bender, K.~Rutz, P.~G. Reinhard, and J.~A. Maruhn.
+\newblock {Pairing Gaps from Nuclear Mean-Field Models}.
+\newblock \emph{EPJ manuscript CHECK}, 731:\penalty0 291 -- 298, 2004.
+
+\bibitem[{Berzin} et~al.(1989){Berzin}, {Grigorev}, {Guseva}, and
+  {Tamberg}]{Berzin_160Gd_reject0}
+Y.~Y. {Berzin}, E.~P. {Grigorev}, T.~V. {Guseva}, and Y.~Y. {Tamberg}.
+\newblock {The Levels of $^{160}$Gd Nucleus}.
+\newblock \emph{Izv.Akad.Nauk}, SSSR:\penalty0 Ser.Fiz. 53, 901, 1989.
+
+\bibitem[Berzins et~al.(1995)Berzins, Prokofjevs, Georgii, Hucke, von Egidy,
+  Hlawatsch, Klora, Lindner, Mayerhofer, Schmidt, Walter, Soloviev, Shirikova,
+  and Sushkov]{BERZINS1995413}
+J.~Berzins, P.~Prokofjevs, R.~Georgii, R.~Hucke, T.~von Egidy, G.~Hlawatsch,
+  J.~Klora, H.~Lindner, U.~Mayerhofer, H.~Schmidt, A.~Walter, V.~Soloviev,
+  N.~Shirikova, and A.~Sushkov.
+\newblock {$^{162}$Dy studied with (n, $\gamma$), (n, n$^\prime\gamma$), (d, p)
+  and (d, t) reactions}.
+\newblock \emph{Nuclear Physics A}, 584\penalty0 (3):\penalty0 413 -- 448,
+  1995.
+
+\bibitem[Bevington and Robinson(2003)]{Bevington_text}
+P.~R. Bevington and D.~K. Robinson.
+\newblock \emph{{Data Reduction and Error Analysis for the Physical Sciences}}.
+\newblock McGraw-Hill, 2003.
+
+\bibitem[Blatt and Weisskopf(1952)]{BlattWeiss_text}
+J.~Blatt and V.~Weisskopf.
+\newblock \emph{{Theoretical Nuclear Physics}}.
+\newblock Wiley, London, 1952.
+
+\bibitem[Blaugrund(1966)]{BLAUGRUND_DSAM_1966}
+A.~Blaugrund.
+\newblock {Notes on Doppler-shift lifetime measurements}.
+\newblock \emph{{Nuclear Physics}}, 88\penalty0 (3):\penalty0 501 -- 512, 1966.
+
+\bibitem[Bohr and Mottelson(1975)]{BohrMott_text}
+A.~Bohr and B.~R. Mottelson.
+\newblock \emph{{Nuclear Structure}}, volume~II.
+\newblock World Scientific Publishing Co., Singapore, {First} edition, 1975.
+
+\bibitem[{Bohr, A. and B.~R. Mottelson and D. Pines}(1958)]{Bohr_pairing1958}
+{Bohr, A. and B.~R. Mottelson and D. Pines}.
+\newblock {Possible Analogy between the Excitation Spectra of Nuclei and Those
+  of the Superconducting Metallic State}.
+\newblock \emph{Physical Review}, 110:\penalty0 936--938, May 1958.
+
+\bibitem[{Bonatsos, Dennis and E.~A. McCutchan and Casten, R.~F. Casperson,
+  R.~J. and Werner, V. and Williams, E.}(2009)]{Bonatsos_collective02009}
+{Bonatsos, Dennis and E.~A. McCutchan and Casten, R.~F. Casperson, R.~J. and
+  Werner, V. and Williams, E.}
+\newblock {Regularities and symmetries of subsets of collective 0$^+$ states}.
+\newblock \emph{Phys. Rev. C}, 80:\penalty0 034311, Sep 2009.
+
+\bibitem[Boring(1960)]{GAMBIT_BORING1960}
+J.~Boring.
+\newblock \emph{{Gamma-ray ABSortption Correction (ABSCOR)}}.
+\newblock PhD thesis, University of Kentucky, 1960.
+
+\bibitem[B\"orner et~al.(1999)B\"orner, Jentschel, Zamfir, Casten, Krticka, and
+  Andrejtscheff]{Borner_collective1999}
+H.~G. B\"orner, M.~Jentschel, N.~V. Zamfir, R.~F. Casten, M.~Krticka, and
+  W.~Andrejtscheff.
+\newblock {Ultrahigh resolution study of collective modes in $^{158}$Gd}.
+\newblock \emph{Phys. Rev. C}, 59:\penalty0 2432--2439, May 1999.
+
+\bibitem[Bucher et~al.(2016)Bucher, Zhu, Wu, Janssens, Cline, Hayes, Albers,
+  Ayangeakaa, Butler, Campbell, Carpenter, Chiara, Clark, Crawford, Cromaz,
+  David, Dickerson, Gregor, Harker, Hoffman, Kay, Kondev, Korichi, Lauritsen,
+  Macchiavelli, Pardo, Richard, Riley, Savard, Scheck, Seweryniak, Smith,
+  Vondrasek, and Wiens]{Bucher_Octupole144Ba_2016}
+B.~Bucher, S.~Zhu, C.~Y. Wu, R.~V.~F. Janssens, D.~Cline, A.~B. Hayes,
+  M.~Albers, A.~D. Ayangeakaa, P.~A. Butler, C.~M. Campbell, M.~P. Carpenter,
+  C.~J. Chiara, J.~A. Clark, H.~L. Crawford, M.~Cromaz, H.~M. David,
+  C.~Dickerson, E.~T. Gregor, J.~Harker, C.~R. Hoffman, B.~P. Kay, F.~G.
+  Kondev, A.~Korichi, T.~Lauritsen, A.~O. Macchiavelli, R.~C. Pardo,
+  A.~Richard, M.~A. Riley, G.~Savard, M.~Scheck, D.~Seweryniak, M.~K. Smith,
+  R.~Vondrasek, and A.~Wiens.
+\newblock Direct evidence of octupole deformation in neutron-rich
+  $^{144}\mathrm{Ba}$.
+\newblock \emph{Phys. Rev. Lett.}, 116:\penalty0 112503, Mar 2016.
+
+\bibitem[Burke(1994)]{Burke_hexadecapole1994}
+D.~Burke.
+\newblock {Hexadecapole-Phonon versus Double-$\gamma$-Phonon Interpretation for
+  K$^\pi$=4$^+$ Bands in Deformed Even-Even Nuclei}.
+\newblock \emph{Phys. Rev. Lett.}, 73, Oct 1994.
+
+\bibitem[Caprio(2005)]{Caprio2005107}
+M.~Caprio.
+\newblock Levelscheme: A level scheme drawing and scientific figure preparation
+  system for mathematica.
+\newblock \emph{Computer Physics Communications}, 171\penalty0 (2):\penalty0
+  107 -- 118, 2005.
+
+\bibitem[Casten(1990)]{Casten_text}
+R.~F. Casten.
+\newblock \emph{{Nuclear Structure from a Simple Perspective}}.
+\newblock Oxford University Press, {Second} edition, 1990.
+
+\bibitem[{Casten, R.~F. and Hasegawa, M. and Mizusaki, T. Jing-ye, Zhang and
+  E.~A. McCutchan and N.~V. Zamfir and Kr\"{u}cken,
+  R.}(2005)]{Casten_0plusbehavior2005}
+{Casten, R.~F. and Hasegawa, M. and Mizusaki, T. Jing-ye, Zhang and E.~A.
+  McCutchan and N.~V. Zamfir and Kr\"{u}cken, R.}
+\newblock {Anomalous behavior of the first excited 0$^+$ state in N$\approx$Z
+  nuclei}.
+\newblock \emph{Phys. Rev. C}, 71:\penalty0 014319, Jan 2005.
+
+\bibitem[Chakraborty et~al.(2012)Chakraborty, Prados-Est\'evez, Choudry,
+  Crider, Garrett, Kulp, Kumar, McEllistrem, Mukhopadhyay, Mynk, Orce, Peters,
+  Wood, and Yates]{Chakraborty_negparity2012}
+A.~Chakraborty, F.~M. Prados-Est\'evez, S.~Choudry, B.~Crider, P.~Garrett,
+  W.~D. Kulp, A.~Kumar, M.~T. McEllistrem, S.~Mukhopadhyay, M.~Mynk, J.~Orce,
+  E.~E. Peters, J.~L. Wood, and S.~W. Yates.
+\newblock {New decay pattern of negative-parity states at $N=90$}.
+\newblock \emph{Phys. Rev. C}, 86:\penalty0 064314, Dec 2012.
+
+\bibitem[Charvet et~al.(1973)Charvet, Chéry, Duffait, Morgue, and
+  Sau]{CHARVET_162Dy5minus}
+A.~Charvet, R.~Chéry, R.~Duffait, M.~Morgue, and J.~Sau.
+\newblock Lifetimes and structures of some levels above 1.5 mev in $^{168}$yb,
+  $^{164}$er and $^{158, 160, 162}$dy.
+\newblock \emph{Nuclear Physics A}, 213\penalty0 (1):\penalty0 117 -- 124,
+  1973.
+
+\bibitem[Clark et~al.(2009)Clark, Casten, Bettermann, and
+  Winkler]{Clark_pairtransfer2009}
+R.~Clark, R.~Casten, L.~Bettermann, and R.~Winkler.
+\newblock {Unified framework for understanding pair transfer between collective
+  states in atomic nuclei}.
+\newblock \emph{Phys. Rev. C}, 80:\penalty0 011303, Jul 2009.
+
+\bibitem[{Crider, B. P. and Peters, E. E. and Allmond, J. M. and McEllistrem,
+  M. T. and Prados-Est\'evez, F. M. and Ross, T. J. and Vanhoy, J. R. and
+  Yates, S. W.}(2015)]{Crider_76Ge_cindy}
+{Crider, B. P. and Peters, E. E. and Allmond, J. M. and McEllistrem, M. T. and
+  Prados-Est\'evez, F. M. and Ross, T. J. and Vanhoy, J. R. and Yates, S. W.}
+\newblock {Inelastic neutron scattering cross sections for $^{76}\mathrm{Ge}$
+  relevant to background in neutrinoless double-$\ensuremath{\beta}$ decay
+  experiments}.
+\newblock \emph{Phys. Rev. C}, 92:\penalty0 034310, Sep 2015.
+
+\bibitem[{D.~J. Rowe and J.~L. Wood}(2010)]{Rowe_Wood_text}
+{D.~J. Rowe and J.~L. Wood}.
+\newblock \emph{{Fundamentals of NucleSar Models: Foundational Models}}.
+\newblock World Scientific Publishing Co. Pte. Ltd., {First} edition, 2010.
+
+\bibitem[Engelbrecht(1970)]{ENGELBRECHT1970187}
+C.~Engelbrecht.
+\newblock Multiple scattering correction for inelastic scattering from
+  cylindrical targets.
+\newblock \emph{Nuclear Instruments and Methods}, 80\penalty0 (2):\penalty0 187
+  -- 191, 1970.
+
+\bibitem[{G. L$\o$vh$\o$iden and T.~F. Thorsteinsen and D.~G.
+  Burke}(1986)]{Lovhoiden_160pt}
+{G. L$\o$vh$\o$iden and T.~F. Thorsteinsen and D.~G. Burke}.
+\newblock {States in $^{160,162}$Gd Studied with the (t, p) Reaction}.
+\newblock \emph{Physica Scripta}, 34\penalty0 (6A):\penalty0 691, 1986.
+
+\bibitem[{Gabriela Ilie and Richard~F. Casten}(2011)]{Ilie_E02011}
+{Gabriela Ilie and Richard~F. Casten}.
+\newblock {$\textit{E0}$ transitions in deformed nuclei}.
+\newblock \emph{Phys. Rev. C}, 84:\penalty0 064320, Dec 2011.
+
+\bibitem[Garrett(2001{\natexlab{a}})]{Garrett_betavib2001}
+P.~Garrett.
+\newblock {Characterization of the $\beta$ vibration and 0$^+_2$ states in
+  deformed nuclei}.
+\newblock \emph{Journal of Physics G: Nuclear and Particle Physics},
+  27\penalty0 (1):\penalty0 R1, 2001{\natexlab{a}}.
+
+\bibitem[Garrett(2001{\natexlab{b}})]{Garrett_02_beta}
+P.~E. Garrett.
+\newblock Characterization of the $\beta$ vibration and 0$^+_2$ states in
+  deformed nuclei.
+\newblock \emph{Journal of Physics G: Nuclear and Particle Physics},
+  27\penalty0 (1):\penalty0 R1, 2001{\natexlab{b}}.
+
+\bibitem[Garrett et~al.(1997)Garrett, Kadi, Li, McGrath, Sorokin, Yeh, and
+  Yates]{Garrett_twogammaEr_1997}
+P.~E. Garrett, M.~Kadi, M.~Li, C.~A. McGrath, V.~Sorokin, M.~Yeh, and S.~W.
+  Yates.
+\newblock
+  {${\mathit{K}}^{\ensuremath{\pi}}{\phantom{\rule{0ex}{0ex}}=\phantom{\rule{0ex}{0ex}}0}^{+}$
+  and ${4}^{+}$ Two-Phonon $\ensuremath{\gamma}$-Vibrational States in
+  ${}^{166}\mathrm{Er}$}.
+\newblock \emph{Phys. Rev. Lett.}, 78:\penalty0 4545--4548, Jun 1997.
+
+\bibitem[{Garrett, P. E. and Kulp, W. D. and Wood, J. L. and Bandyopadhyay, D.
+  and Choudry, S. and Dashdorj, D. and Lesher, S. R. and McEllistrem, M. T. and
+  Mynk, M. and Orce, J. N. and Yates, S. W.}(2009)]{Garrett_2009_negShapeCoex}
+{Garrett, P. E. and Kulp, W. D. and Wood, J. L. and Bandyopadhyay, D. and
+  Choudry, S. and Dashdorj, D. and Lesher, S. R. and McEllistrem, M. T. and
+  Mynk, M. and Orce, J. N. and Yates, S. W.}
+\newblock {New Features of Shape Coexistence in $^{152}\mathrm{Sm}$}.
+\newblock \emph{Phys. Rev. Lett.}, 103:\penalty0 062501, Aug 2009.
+
+\bibitem[Govor et~al.(2002)Govor, Demidov, and Kurkin]{Govor_162Dy2002}
+L.~I. Govor, A.~M. Demidov, and V.~A. Kurkin.
+\newblock {Multipole mixtures in $\gamma$ transitions accompanying the (n,
+  n$^\prime\gamma$) reaction on $^{162}$Dy}.
+\newblock \emph{Physics of Atomic Nuclei}, 65\penalty0 (5):\penalty0 785--794,
+  2002.
+
+\bibitem[Govor et~al.(2009)Govor, Demidov, Kurkin, and
+  Mikhailov]{Govor_160Gd_2009}
+L.~I. Govor, A.~M. Demidov, V.~A. Kurkin, and I.~V. Mikhailov.
+\newblock {Multipole mixtures in gamma transitions in the (n, n$^\prime\gamma$)
+  reaction on $^{160}$Gd}.
+\newblock \emph{Physics of Atomic Nuclei}, 72\penalty0 (11):\penalty0
+  1799--1811, 2009.
+
+\bibitem[Greiner and Maruhn(1996)]{Greiner_Maruhn_text}
+W.~Greiner and J.~A. Maruhn.
+\newblock \emph{{Nuclear Models}}.
+\newblock Springer, Berlin, 1 edition, 1996.
+
+\bibitem[Grigoriev(2012)]{Grigoriev2012}
+E.~P. Grigoriev.
+\newblock {Structure of levels of the $^{160}$Gd nucleus}.
+\newblock \emph{Physics of Atomic Nuclei}, 75\penalty0 (12):\penalty0
+  1427--1431, 2012.
+
+\bibitem[Grotdal et~al.(1968)Grotdal, Nybø, Thorsteinsen, and
+  Elbek]{GROTDAL1968385}
+T.~Grotdal, K.~Nybø, T.~Thorsteinsen, and B.~Elbek.
+\newblock Collective vibrational states in even dysprosium nuclei.
+\newblock \emph{Nuclear Physics A}, 110\penalty0 (2):\penalty0 385 -- 399,
+  1968.
+
+\bibitem[{G\"unther, C. and Boehmsdorff, S. and Freitag, K. and Manns, J. and
+  M\"uller, U.}(1996)]{PhysRevC.54.679}
+{G\"unther, C. and Boehmsdorff, S. and Freitag, K. and Manns, J. and M\"uller,
+  U.}
+\newblock {Is there experimental evidence for an interpretation of the lowest
+  \textit{K} =0 collective excitation of deformed nuclei as a phonon excitation
+  of the \ensuremath{\gamma} band?}
+\newblock \emph{Phys. Rev. C}, 54:\penalty0 679--683, Aug 1996.
+
+\bibitem[Heyde(1999)]{Heyde_text}
+K.~Heyde.
+\newblock \emph{{Basic Ideas and Concepts in Nuclear Physics}}.
+\newblock Institute of Physics Publishing, {Second} edition, 1999.
+
+\bibitem[{Heyde, Kris and Wood, John L.}(2011)]{RevModPhys.83.1467}
+{Heyde, Kris and Wood, John L.}
+\newblock {Shape coexistence in atomic nuclei}.
+\newblock \emph{Rev. Mod. Phys.}, 83:\penalty0 1467--1521, Nov 2011.
+
+\bibitem[H\"onig(1969)]{Honig_5minus1969}
+V.~H\"onig.
+\newblock {Messung von Halbertszeiten K-berbotener \"Uberg\"ange in gg-Kernen
+  der Seltenen Erden}.
+\newblock \emph{Z. Physik}, 225:\penalty0 327 -- 335, 1969.
+
+\bibitem[Iachello and Arima(1987)]{Iachello_Arima_IBM}
+F.~Iachello and A.~Arima.
+\newblock \emph{{The Interacting Boson Model}}.
+\newblock Cambridge University Press, Cambridge, 1987.
+
+\bibitem[Jammari and Piepenbring(1988)]{JAMMARI_1988}
+M.~Jammari and R.~Piepenbring.
+\newblock Anharmonicities of $\gamma$-vibrations in deformed nuclei.
+\newblock \emph{Nuclear Physics A}, 487\penalty0 (1):\penalty0 77 -- 91, 1988.
+
+\bibitem[Jentschel et~al.(2014)Jentschel, Sengele, Curien, Dudek, and
+  Haas]{Jentschel_156Gd_GRID}
+M.~Jentschel, L.~Sengele, D.~Curien, J.~Dudek, and F.~Haas.
+\newblock {The negative parity bands in $^{156}$Gd}.
+\newblock \emph{Physica Scripta}, 89\penalty0 (5):\penalty0 054017, 2014.
+\newblock URL \url{http://stacks.iop.org/1402-4896/89/i=5/a=054017}.
+
+\bibitem[Johnson et~al.(1995)Johnson, Baum, DiPrete, Gatenby, Belgya, Wang,
+  Vanhoy, McEllistrem, and Yates]{Yates_162nnp1995}
+E.~L. Johnson, E.~M. Baum, D.~P. DiPrete, R.~A. Gatenby, T.~Belgya, D.~Wang,
+  J.~R. Vanhoy, M.~T. McEllistrem, and S.~W. Yates.
+\newblock Lifetime measurements of scissors mode excitations in
+  $^{162,164}\mathrm{Dy}$.
+\newblock \emph{Phys. Rev. C}, 52:\penalty0 2382--2386, Nov 1995.
+
+\bibitem[Knoll(2000)]{Knoll_text}
+G.~F. Knoll.
+\newblock \emph{{Radiation Detection and Measurement}}.
+\newblock John Wiley \& Sons, {Third} edition, 2000.
+
+\bibitem[Korten et~al.(1993)Korten, Härtlein, Gerl, Habs, and
+  Schwalm]{KORTEN_1993}
+W.~Korten, T.~Härtlein, J.~Gerl, D.~Habs, and D.~Schwalm.
+\newblock Observation of a harmonic two-phonon vibration in a deformed nucleus.
+\newblock \emph{Physics Letters B}, 317\penalty0 (1):\penalty0 19 -- 24, 1993.
+
+\bibitem[Lehmann et~al.(1998)Lehmann, Jolie, Corminboeuf, B\"orner, Doll,
+  Jentschel, Casten, and Zamfir]{Lehmann_doublegamma168Er_1998}
+H.~Lehmann, J.~Jolie, F.~Corminboeuf, H.~G. B\"orner, C.~Doll, M.~Jentschel,
+  R.~F. Casten, and N.~V. Zamfir.
+\newblock {Lifetimes of the lowest ${2}_{{K}^{\ensuremath{\pi}}{=0}^{+}}^{+}$
+  levels in ${}^{168}$Er and ${}^{164}$Dy}.
+\newblock \emph{Phys. Rev. C}, 57:\penalty0 569--576, Feb 1998.
+
+\bibitem[Lesher et~al.(2002)Lesher, Aprahamian, Trache, Oros-Peusquens, Deyliz,
+  Gollwitzer, Hertenberger, and D.]{Lesher_158Gdpt}
+S.~R. Lesher, A.~Aprahamian, L.~Trache, A.~Oros-Peusquens, S.~Deyliz,
+  A.~Gollwitzer, R.~Hertenberger, and B.~D.
+\newblock {New ${0}^{+}$ excitations in $^{158}\mathrm{Gd}$}.
+\newblock \emph{Phys. Rev. C}, 66:\penalty0 051305, Nov 2002.
+
+\bibitem[Lesher et~al.(2007)Lesher, Orce, Ammar, Hannant, Merrick, Warr, Brown,
+  Boukharouba, Fransen, Scheck, McEllistrem, and Yates]{Lesher_158Gdmain}
+S.~R. Lesher, J.~N. Orce, Z.~Ammar, C.~D. Hannant, M.~Merrick, N.~Warr, T.~B.
+  Brown, N.~Boukharouba, C.~Fransen, M.~Scheck, M.~T. McEllistrem, and S.~W.
+  Yates.
+\newblock {Study of ${0}^{+}$ excitations in $^{158}\mathrm{Gd}$ with the
+  ($n,{n}^{'}\ensuremath{\gamma}$) reaction}.
+\newblock \emph{Phys. Rev. C}, 76:\penalty0 034318, Sep 2007.
+
+\bibitem[Lesher et~al.(2015)Lesher, Casarella, Aprahamian, Crider, Ikeyama,
+  Marsh, McEllistrem, Peters, Prados-Est\'evez, Smith, Tully, Vanhoy, and
+  Yates]{Lesher_160Gd0s}
+S.~R. Lesher, C.~Casarella, A.~Aprahamian, B.~P. Crider, R.~Ikeyama, I.~R.
+  Marsh, M.~T. McEllistrem, E.~E. Peters, F.~M. Prados-Est\'evez, M.~K. Smith,
+  Z.~R. Tully, J.~R. Vanhoy, and S.~W. Yates.
+\newblock Collectivity of ${0}^{+}$ states in $^{160}\mathrm{Gd}$.
+\newblock \emph{Phys. Rev. C}, 91:\penalty0 054317, May 2015.
+
+\bibitem[Mang et~al.(1965)Mang, Poggenburg, and Rasmussen]{MANG_pairing1965353}
+H.~Mang, J.~Poggenburg, and J.~Rasmussen.
+\newblock Nuclear structure and pairing correlations for the heavy elements.
+\newblock \emph{Nuclear Physics}, 64\penalty0 (3):\penalty0 353 -- 378, 1965.
+
+\bibitem[Margraf et~al.(1995)Margraf, Eckert, Rittner, Bauske, Beck, Kneissl,
+  Maser, Pitz, Schiller, Brentano, Fischer, Herzberg, Pietralla, Zilges, and
+  Friedrichs]{Margraf_gg'NRF_1995}
+J.~Margraf, T.~Eckert, M.~Rittner, I.~Bauske, O.~Beck, U.~Kneissl, H.~Maser,
+  H.~H. Pitz, A.~Schiller, P.~v. Brentano, R.~Fischer, R.-D. Herzberg,
+  N.~Pietralla, A.~Zilges, and H.~Friedrichs.
+\newblock {Systematics of low-lying dipole strengths in odd and even Dy and Gd
+  isotopes}.
+\newblock \emph{Phys. Rev. C}, 52:\penalty0 2429--2443, Nov 1995.
+
+\bibitem[McGowan et~al.(1978)McGowan, Milner, Robinson, Stelson, and
+  Grabowski]{MCGOWAN_168Er_E3}
+F.~McGowan, W.~Milner, R.~Robinson, P.~Stelson, and Z.~Grabowski.
+\newblock {Coulomb excitation of vibrational-like states in $^{166−170}$Er}.
+\newblock \emph{Nuclear Physics A}, 297\penalty0 (1):\penalty0 51 -- 60, 1978.
+
+\bibitem[McGowan and Milner(1981)]{McGowan_BE2_1981}
+F.~K. McGowan and W.~T. Milner.
+\newblock {Reduced $M1$, $E1$, $E2$, and $E3$ transition probabilities for
+  transitions in $^{156-160}\mathrm{Gd}$ and $^{160-164}\mathrm{Dy}$}.
+\newblock \emph{Phys. Rev. C}, 23:\penalty0 1926--1937, May 1981.
+
+\bibitem[Meyer(2006)]{Meyer_thesis}
+D.~Meyer.
+\newblock \emph{{Nuclear Structure Studies in the Rare Earth and Trans-lead
+  Regions}}.
+\newblock PhD thesis, Yale University, 2006.
+
+\bibitem[Meyer et~al.(2006)Meyer, Wood, Casten, Fitzpatrick, Graw, Bucurescu,
+  Jolie, Brentano, Hertenberger, Wirth, Braun, Faestermann, Heinze, Jerke,
+  Kr\"ucken, Mahgoub, M\"oller, M\"ucher, and Scholl]{Meyer_pt0_2006}
+D.~A. Meyer, V.~Wood, R.~F. Casten, C.~R. Fitzpatrick, G.~Graw, D.~Bucurescu,
+  J.~Jolie, P.~v. Brentano, R.~Hertenberger, H.-F. Wirth, N.~Braun,
+  T.~Faestermann, S.~Heinze, J.~L. Jerke, R.~Kr\"ucken, M.~Mahgoub,
+  O.~M\"oller, D.~M\"ucher, and C.~Scholl.
+\newblock {Extensive investigation of ${0}^{+}$ states in rare earth region
+  nuclei}.
+\newblock \emph{Phys. Rev. C}, 74:\penalty0 044309, Oct 2006.
+
+\bibitem[Oehlberg et~al.(1974)Oehlberg, Riedinger, Rainis, Schmidt, Funk, and
+  Mihelich]{OEHLBERG_BE3}
+R.~Oehlberg, L.~Riedinger, A.~Rainis, A.~Schmidt, E.~Funk, and J.~Mihelich.
+\newblock Coulomb excitation studies of $^{160}$dy, $^{162}$dy and $^{164}$dy.
+\newblock \emph{Nuclear Physics A}, 219\penalty0 (3):\penalty0 543 -- 562,
+  1974.
+
+\bibitem[Pascu et~al.(2015)Pascu, Bucurescu, et~al.]{Pascu_octupole_2015}
+S.~Pascu, D.~Bucurescu, et~al.
+\newblock {Detailed spectroscopy of quadrupole and octupole states in
+  $^{168}\mathrm{Yb}$}.
+\newblock \emph{Phys. Rev. C}, 91:\penalty0 034321, Mar 2015.
+
+\bibitem[{P.E. Garrett and others}(2005)]{Garrett_OctHex}
+{P.E. Garrett and others}.
+\newblock {Octupole and hexadecapole bands in $^{152}$Sm}.
+\newblock \emph{Journal of Physics G: Nuclear and Particle Physics},
+  31\penalty0 (10):\penalty0 S1855, 2005.
+
+\bibitem[Pelte and Schwalm()]{Pelte_text}
+D.~Pelte and D.~Schwalm.
+\newblock \emph{{Heavy Ion Collisions}}, volume~3.
+
+\bibitem[Peters et~al.(2013)Peters, Chakraborty, Crider, Davis, Gnanamani,
+  McEllistrem, Prados-Estevez, Vanhoy, and Yates]{PETERS_DSAM2013}
+E.~E. Peters, A.~Chakraborty, B.~P. Crider, B.~H. Davis, M.~K. Gnanamani, M.~T.
+  McEllistrem, F.~M. Prados-Estevez, J.~R. Vanhoy, and S.~W. Yates.
+\newblock {Level lifetimes in the stable Zr nuclei: Effects of chemical
+  properties in Doppler-shift measurements}.
+\newblock \emph{Physical Review C}, 88:\penalty0 024316, Aug 2013.
+
+\bibitem[{Peters, E.E. and others}(2016)]{Peters2016_Pdshapecoex}
+{Peters, E.E. and others}.
+\newblock {E0 transitions in $^{106}$Pd: Implications for shape coexistence}.
+\newblock \emph{The European Physical Journal A}, 52\penalty0 (4):\penalty0
+  1--5, 2016.
+
+\bibitem[Pietralla and Gorbachenko(2004)]{Pietrella_beta_2004}
+N.~Pietralla and O.~M. Gorbachenko.
+\newblock {Evolution of the ``$\ensuremath{\beta}$ excitation'' in axially
+  symmetric transitional nuclei}.
+\newblock \emph{Phys. Rev. C}, 70:\penalty0 011304, Jul 2004.
+
+\bibitem[Poenaru and Greiner(1997)]{Poenaru_text}
+D.~N. Poenaru and W.~Greiner.
+\newblock \emph{{Experimental Techniques in Nuclear Physics}}.
+\newblock Walter de Gruyter, Boston, 1997.
+
+\bibitem[{S.~D. Conte and C. de Boor}()]{CONTE_NUMERICAL_text}
+{S.~D. Conte and C. de Boor}.
+\newblock \emph{{Elementary Numerical Methods of Analysis: An Algorithmic
+  Approach}}.
+
+\bibitem[Sethi and Mukherjee(1968)]{PhysRev.166.1227}
+B.~Sethi and S.~K. Mukherjee.
+\newblock Half-lives of the excited states of $^{46}\mathrm{Ti}$,
+  $^{84}\mathrm{Rb}$, $^{99}\mathrm{Tc}$, $^{162}\mathrm{Dy}$,
+  $^{164}\mathrm{Er}$, and $^{196}\mathrm{Au}$.
+\newblock \emph{Phys. Rev.}, 166:\penalty0 1227--1233, Feb 1968.
+
+\bibitem[Sharpey-Schafer et~al.(2011)Sharpey-Schafer, Madiba, Bvumbi, Lawrie,
+  Lawrie, Minkova, Mullins, Papka, Roux, and Tim{\'a}r]{Sharpey-Schafer2011}
+J.~F. Sharpey-Schafer, T.~E. Madiba, S.~P. Bvumbi, E.~A. Lawrie, J.~J. Lawrie,
+  A.~Minkova, S.~M. Mullins, P.~Papka, D.~G. Roux, and J.~Tim{\'a}r.
+\newblock {Blocking of coupling to the 0$_2^+$ excitation in $^{154}$Gd by the
+  [505]11/2- neutron in $^{155}$Gd}.
+\newblock \emph{The European Physical Journal A}, 47\penalty0 (1):\penalty0
+  1--4, 2011.
+
+\bibitem[{Sharpey-Schafer, J.F.} et~al.(2011){Sharpey-Schafer, J.F.}, {Mullins,
+  S.M.}, {Bark, R.A.}, {Kau, J.}, {Komati, F.}, {Lawrie, E.A.}, {Lawrie, J.J.},
+  {Madiba, T.E.}, {Maine, P.}, {Minkova, A.}, {Murray, S.H.T.}, {Ncapayi,
+  N.J.}, and {Vymers, P.A.}]{SharpeySchafer_beta2011}
+{Sharpey-Schafer, J.F.}, {Mullins, S.M.}, {Bark, R.A.}, {Kau, J.}, {Komati,
+  F.}, {Lawrie, E.A.}, {Lawrie, J.J.}, {Madiba, T.E.}, {Maine, P.}, {Minkova,
+  A.}, {Murray, S.H.T.}, {Ncapayi, N.J.}, and {Vymers, P.A.}
+\newblock {Congruent band structures in $^{154}$Gd: Configuration-dependent
+  pairing, a double vacuum and lack of $\beta$ -vibrations}.
+\newblock \emph{Eur. Phys. J. A}, 47\penalty0 (1):\penalty0 5, Jan 2011.
+
+\bibitem[Sheldon and Rogers(1973)]{SHELDON197399}
+E.~Sheldon and V.~Rogers.
+\newblock {Computation of total and differential cross section for compound
+  nuclear reactions of the type (a,a), (a,a'), (a,b), (a,$\gamma$),
+  (a,$\gamma$-$\gamma$), (a,b$\gamma$) and (a,b$\gamma$-$\gamma$)}.
+\newblock \emph{Computer Physics Communications}, 6\penalty0 (3):\penalty0 99
+  -- 131, 1973.
+
+\bibitem[{Soloviev} et~al.(1996){Soloviev}, {Sushkov}, and
+  {Shirikova}]{Solovev_162K2octupole}
+V.~G. {Soloviev}, A.~V. {Sushkov}, and N.~Y. {Shirikova}.
+\newblock Low-lying nonrotational states in strongly deformed even-even nuclei
+  of the rare-earth region.
+\newblock \emph{Fiz.Elem.Chastits At.Yadra}, 27:\penalty0 1643, 1996.
+
+\bibitem[Spieker et~al.(2015)Spieker, Pascu, Zilges, and
+  Iachello]{Spiecker_E1strength}
+M.~Spieker, S.~Pascu, A.~Zilges, and F.~Iachello.
+\newblock {Origin of Low-Lying Enhanced $E1$ Strength in Rare-Earth Nuclei}.
+\newblock \emph{Phys. Rev. Lett.}, 114:\penalty0 192504, May 2015.
+
+\bibitem[Sun et~al.(2003)Sun, Aprahamian, Zhang, and
+  Lee]{Sun_0plusnature_PSM_2003}
+Y.~Sun, A.~Aprahamian, J.-y. Zhang, and C.-T. Lee.
+\newblock {Nature of excited ${0}^{+}$ states in $^{158}\mathrm{Gd}$ described
+  by the projected shell model}.
+\newblock \emph{Phys. Rev. C}, 68:\penalty0 061301, Dec 2003.
+
+\bibitem[{University of Fribourg Nuclear Structure Group, Fribourg,
+  Switzerland}()]{FitPic_Fribourg}
+{University of Fribourg Nuclear Structure Group, Fribourg, Switzerland}.
+\newblock {FiTPiC spectra fitting program, version 5.1-8, (1996)}.
+
+\bibitem[{V.~G. Solviev}(1997)]{Soloviev_QuadHex}
+{V.~G. Solviev}.
+\newblock {Quadrupole and Hexadecapole Vibrational Excitations in Deformed
+  Nuclei}.
+\newblock \emph{International Journal of Modern Physics E, Nuclear Physics},
+  06:\penalty0 437--473, 1997.
+
+\bibitem[Wesselborg et~al.(1988)Wesselborg, Brentano, Zell, Heil, Pitz, Berg,
+  Kneissl, Lindenstruth, Seemann, and Stock]{WESSELBORG198822}
+C.~Wesselborg, P.~V. Brentano, K.~Zell, R.~Heil, H.~Pitz, U.~Berg, U.~Kneissl,
+  S.~Lindenstruth, U.~Seemann, and R.~Stock.
+\newblock {Photoexcitation of dipole modes in $^{160,162,164}$Dy}.
+\newblock \emph{Physics Letters B}, 207\penalty0 (1):\penalty0 22 -- 26, 1988.
+
+\bibitem[Winterbon(1975)]{WINTERBON_1975}
+K.~Winterbon.
+\newblock {An analytic theory of Doppler-shift attenuation}.
+\newblock \emph{Nuclear Physics A}, 246\penalty0 (2):\penalty0 293 -- 316,
+  1975.
+
+\bibitem[Wong(1998)]{Wong_text}
+S.~S. Wong.
+\newblock \emph{{Introductory Nuclear Physics}}.
+\newblock Wiley-VCH, {Second} edition, 1998.
+
+\bibitem[Wu et~al.(2001)Wu, Cline, Simon, Davis, Teng, Macchiavelli, and
+  Vetter]{Wu_2minus_2001}
+C.~Y. Wu, D.~Cline, M.~W. Simon, G.~A. Davis, R.~Teng, A.~O. Macchiavelli, and
+  K.~Vetter.
+\newblock Electromagnetic properties of the rotationally aligned band in
+  ${}^{162}\mathrm{Dy}$.
+\newblock \emph{Phys. Rev. C}, 64:\penalty0 064317, Nov 2001.
+
+\bibitem[Wu et~al.(1994)Wu, Aprahamian, Fischer, Reviol, Liu, and
+  Saladin]{WuAprahamian_multiphonon_1994}
+X.~Wu, A.~Aprahamian, S.~M. Fischer, W.~Reviol, G.~Liu, and J.~X. Saladin.
+\newblock Multiphonon vibrational states in deformed nuclei.
+\newblock \emph{Phys. Rev. C}, 49:\penalty0 1837--1844, Apr 1994.
+
+\bibitem[Younes et~al.(1999)Younes, Archer, Becker, Bernstein, Garrett, Warr,
+  Kadi, Martin, Yates, Johns, Nelson, and Wilburn]{Younes_170Er_conf_proc_gg}
+W.~Younes, D.~E. Archer, J.~A. Becker, L.~A. Bernstein, P.~E. Garrett, N.~Warr,
+  M.~Kadi, A.~Martin, S.~W. Yates, G.~D. Johns, R.~O. Nelson, and W.~S.
+  Wilburn.
+\newblock {Two-phonon excitations in $^{170}$Er}.
+\newblock \emph{AIP Conference Proceedings}, 481\penalty0 (1):\penalty0
+  464--472, 1999.
+\newblock \doi{http://dx.doi.org/10.1063/1.59530}.
+\newblock URL
+  \url{http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.59530}.
+
+\bibitem[Zamfir et~al.(1999)Zamfir, Casten, Liu, Brenner, Barton, Kr\"ucken,
+  Beausang, Novak, Cooper, Cata-Danil, Gill, and Warner]{Zamfir_162Dy0_1999}
+N.~V. Zamfir, R.~F. Casten, B.~Liu, D.~S. Brenner, C.~J. Barton, R.~Kr\"ucken,
+  C.~W. Beausang, J.~R. Novak, J.~R. Cooper, G.~Cata-Danil, R.~L. Gill, and
+  D.~D. Warner.
+\newblock {Status of the ${K}^{\ensuremath{\pi}}{=0}_{2}^{+}$ band in
+  ${}^{162}\mathrm{Dy}$}.
+\newblock \emph{Phys. Rev. C}, 60:\penalty0 054319, Oct 1999.
+
+\bibitem[Zamfir et~al.(2002)Zamfir, Zhang, and
+  Casten]{Zamfir_doubleoctupole_2002}
+N.~V. Zamfir, J.-y. Zhang, and R.~F. Casten.
+\newblock Interpreting recent measurements of ${0}^{+}$ states in
+  ${}^{158}\mathrm{Gd}$.
+\newblock \emph{Phys. Rev. C}, 66:\penalty0 057303, Nov 2002.
+
+\bibitem[Zilges et~al.(1991)Zilges, von Brentano, Friedrichs, Heil, Kneissl,
+  Lindestruth, Pitz, and Wesselborg]{Zilges_K0dipole}
+A.~Zilges, P.~von Brentano, H.~Friedrichs, R.~Heil, U.~Kneissl, S.~Lindestruth,
+  H.~Pitz, and C.~Wesselborg.
+\newblock {A survey of $\Delta$K=0 dipole transitions from low lying J=1 states
+  in rare earth nuclei}.
+\newblock \emph{Z Phys. A - Hadrons and Nuclei}, 340:\penalty0 155 -- 158, Apr
+  1991.
+
+\end{thebibliography}

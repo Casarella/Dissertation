@@ -1,0 +1,14 @@
+set terminal postscript eps color enhanced "Helvetica" 20 solid
+set xlabel "E_{x} (keV)" offset 0,-0.5 font "Helvetica, 30"
+set ylabel "{/Symbol t} (fs)" offset 2.5,0 font "Helvetica, 30"
+set mytics 10
+set mxtics 5
+set ytics 10 
+set logscale y
+Ymax=10000
+set yrange [5:Ymax]
+set xrange [0:2500]
+set output '160Gd_viz_lifetimes.eps'
+set size 2,1
+
+plot '160Gd_lifetimes_15.dat' u 1:2:($2-$4):($2+$3) w yerrorbars t "E_{n}=1.5 MeV" pt 7 ps 1.5, '160Gd_lifetime_20.dat' u 1:2:($2-$4):($2+$3) w yerrorbars t "E_{n}=2.0 MeV" pt 5 ps 1.5, '160Gd_lifetimes_28.dat' u 1:2:($2-$4):($2+$3) w yerrorbars t "E_{n}=2.8 MeV" pt 9 ps 1.5, '160Gd_lit_lifetimes.dat' u 1:2:($2-$4):($2+$3) w yerrorbars t "literature" pt 2 ps 1.5 lc rgb "black"

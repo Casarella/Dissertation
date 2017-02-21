@@ -1,0 +1,77 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Dissertation_Casarella.aux
+A level-1 auxiliary file: pdflscape.aux
+A level-1 auxiliary file: Chapter1_Casarella.aux
+A level-1 auxiliary file: Chapter1_Casarella_lasthalf.aux
+A level-1 auxiliary file: Chapter2_Casarella.aux
+A level-1 auxiliary file: Chapter3_Casarella.aux
+A level-1 auxiliary file: Chapter_Results.aux
+A level-1 auxiliary file: Chapter_Results_Dy.aux
+A level-1 auxiliary file: Chapter4_Casarella.aux
+A level-1 auxiliary file: Chapter5_Casarella.aux
+A level-1 auxiliary file: Chapter5_Casarella_2.aux
+A level-1 auxiliary file: Chapter5_Casarella_3.aux
+A level-1 auxiliary file: Chapter6_Casarella.aux
+The style file: nddiss2e.bst
+Database file #1: Casarella_Bib.bib
+I was expecting a `,' or a `}'---line 397 of file Casarella_Bib.bib
+ : 
+ : note = "{Piecewise Cubic Polyonmial Interpolation Program for Interpolation of Photon Cross Sections}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 913 of file Casarella_Bib.bib
+ : 
+ : address ="North-Holland",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--can't use both author and editor fields in Pelte_text
+Warning--empty publisher in Pelte_text
+Warning--empty year in Pelte_text
+Warning--empty year in Pelte_text
+Warning--empty publisher in CONTE_NUMERICAL_text
+Warning--empty year in CONTE_NUMERICAL_text
+Warning--empty year in CONTE_NUMERICAL_text
+Warning--empty year in FitPic_Fribourg
+You've used 85 entries,
+            2774 wiz_defined-function locations,
+            1176 strings with 23254 characters,
+and the built_in function-call counts, 46696 in all, are:
+= -- 3872
+> -- 3763
+< -- 46
++ -- 1277
+- -- 1191
+* -- 4188
+:= -- 7615
+add.period$ -- 256
+call.type$ -- 85
+change.case$ -- 558
+chr.to.int$ -- 84
+cite$ -- 178
+duplicate$ -- 1642
+empty$ -- 3158
+format.name$ -- 1300
+if$ -- 9477
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 95
+newline$ -- 434
+num.names$ -- 340
+pop$ -- 1222
+preamble$ -- 1
+purify$ -- 481
+quote$ -- 0
+skip$ -- 1304
+stack$ -- 0
+substring$ -- 1669
+swap$ -- 126
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 870
+warning$ -- 8
+while$ -- 340
+width$ -- 0
+write$ -- 1111
+(There were 2 error messages)

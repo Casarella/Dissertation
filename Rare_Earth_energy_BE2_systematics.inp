@@ -1,0 +1,102 @@
+set terminal postscript eps color enhanced "Helvetica" 20 solid 
+set size 2,2
+set output 'Rare_Earth_energy_BE2_systematics.eps'
+set multiplot layout 2,2
+
+set lmargin 10
+set bmargin 5
+set tmargin 0
+set rmargin 0
+
+set origin 0,0
+set xlabel "N" offset 0,-0.5 font "Helvetica, 30"
+set xtics (84,86,88,90,92,94,96,98,100,102,104,106,108,110)
+set mxtics 2
+set logscale y
+set ytics
+set ylabel "B(E2){/Symbol \257} (W.u.)" offset 0.5,0 font "Helvetica, 30"
+set xrange [82:112]
+set yrange [0.2:200]
+set size 1,1
+set label "2@^+_2 {/Symbol \256} 0@^+_{gs}" left at 84,100 norotate font "Helvetica,40"
+plot 'Rare_Earth_2g_BE2.dat' u ($5-62):6 t "Sm" w linespoints lw 4 ps 2 pt 5 lc rgb "green",'Rare_Earth_2g_BE2.dat' u ($1-64):2 t "Gd" w linespoints lw 4 ps 2 pt 7 lc rgb "red", 'Rare_Earth_2g_BE2.dat' u ($3-66):4 t "Dy" w linespoints lw 4 ps 2 pt 6 lc rgb "blue",'Rare_Earth_2g_BE2.dat' u ($7-68):8 t "Er" w linespoints lw 4 ps 2 pt 4 lc rgb "magenta",'Rare_Earth_2g_BE2.dat' u ($9-70):10 t "Yb" w linespoints lw 4 ps 2 pt 3 lc rgb "orange",'Rare_Earth_2g_BE2.dat' u ($11-72):12 t "Hf" w linespoints lw 4 ps 2 pt 2 lc rgb "black"
+unset label
+unset xlabel
+unset ylabel
+
+
+
+
+set lmargin 0
+set bmargin 5
+set tmargin 0
+set rmargin 10
+set origin 1,0
+set size 1,1
+set xlabel "N" offset 0,-0.5 font "Helvetica, 30"
+#set ytics 0 format ""
+unset ytics
+set logscale y2
+set y2tics 
+set label "0@^+_2 {/Symbol \256} 2@^+_{gs}" left at 84,100 norotate font "Helvetica,40"
+set yrange [0.2:200]
+set y2range [0.2:200]
+plot 'Rare_Earth_02_BE2.dat' u ($5-62):6 t "Sm" w linespoints lw 4 ps 2 pt 5 lc rgb "green",'Rare_Earth_02_BE2.dat' u ($1-64):2 t "Gd" w linespoints lw 4 ps 2 pt 7 lc rgb "red", 'Rare_Earth_02_BE2.dat' u ($3-66):4 t "Dy" w linespoints lw 4 ps 2 pt 6 lc rgb "blue",'Rare_Earth_02_BE2.dat' u ($7-68):8 t "Er" w linespoints lw 4 ps 2 pt 4 lc rgb "magenta",'Rare_Earth_02_BE2.dat' u ($9-70):10 t "Yb" w linespoints lw 4 ps 2 pt 3 lc rgb "orange",'Rare_Earth_02_BE2.dat' u ($11-72):12 t "Hf" w linespoints lw 4 ps 2 pt 2 lc rgb "black"
+unset logscale y2
+unset label
+unset y2tics
+unset logscale y
+unset ytics
+
+
+set bmargin 0
+set rmargin 0
+set lmargin 10
+set tmargin 5
+
+
+set origin 0,1
+#set xlabel "N" offset 0,-0.5 font "Helvetica, 30"
+set ylabel "E_x (keV)" offset 0.5,0 font "Helvetica, 30"
+set mytics 2
+set mxtics 2
+set xtics 4 format ""
+set ytics 200
+set key left 
+set xrange [82:112]
+set yrange [0:2700]
+set size 1,1
+set key default
+unset xlabel
+set label "2@^+_2" left at 83,2500 norotate font "Helvetica,40"
+plot 'Rare_Earth_2g_N.dat' u 5:6 t "Sm" w linespoints lw 4 ps 2 pt 5 lc rgb "green",'Rare_Earth_2g_N.dat' u 1:2 t "Gd" w linespoints lw 4 ps 2 pt 7 lc rgb "red", 'Rare_Earth_2g_N.dat' u 3:4 t "Dy" w linespoints lw 4 ps 2 pt 6 lc rgb "blue",'Rare_Earth_2g_N.dat' u 7:8 t "Er" w linespoints lw 4 ps 2 pt 4 lc rgb "magenta",'Rare_Earth_2g_N.dat' u 9:10 t "Yb" w linespoints lw 4 ps 2 pt 3 lc rgb "orange",'Rare_Earth_2g_N.dat' u 11:12 t "Hf" w linespoints lw 4 ps 2 pt 2 lc rgb "black"
+unset label
+unset xtics 
+
+
+
+set lmargin 0
+set bmargin 0
+set tmargin 5
+set rmargin 10
+set origin 1,1
+set size 1,1
+set ytics 200 format ""
+set y2tics 200
+set my2tics 2
+set y2range [0:2700]
+set xtics format ""
+unset ylabel
+unset logscale y
+set yrange [0:2700]
+set label "0@^+_2" left at 83,2500 norotate font "Helvetica,40"
+plot 'Rare_Earth_0s_N.dat' u 5:6 t "Sm" w linespoints lw 4 ps 2 pt 5 lc rgb "green",'Rare_Earth_0s_N.dat' u 1:2 t "Gd" w linespoints lw 4 ps 2 pt 7 lc rgb "red", 'Rare_Earth_0s_N.dat' u 3:4 t "Dy" w linespoints lw 4 ps 2 pt 6 lc rgb "blue",'Rare_Earth_0s_N.dat' u 7:8 t "Er" w linespoints lw 4 ps 2 pt 4 lc rgb "magenta",'Rare_Earth_0s_N.dat' u 9:10 t "Yb" w linespoints lw 4 ps 2 pt 3 lc rgb "orange",'Rare_Earth_0s_N.dat' u 11:12 t "Hf" w linespoints lw 4 ps 2 pt 2 lc rgb "black"
+unset label 
+
+
+
+
+
+
+
+unset multiplot
