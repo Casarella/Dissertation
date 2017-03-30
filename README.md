@@ -1,10 +1,9 @@
 # Dissertation
 PhD Dissertation TeX files
 
+Final Draft - Mar 30, 2017 (post-defense and formatting check)
 
-Final Draft - Feb 20, 2017
-
-Uses University of Notre Dame formatting class file
+Uses University of Notre Dame formatting class file (nddiss2e.cls)
 
 Compiled final draft is:
 
