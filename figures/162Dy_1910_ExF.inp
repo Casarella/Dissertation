@@ -1,0 +1,21 @@
+set terminal postscript eps color enhanced "Helvetica" 20 solid
+set xlabel "E_{n} (MeV)" offset 0,-0.5 font "Helvetica, 30"
+set ylabel "Normalized area (arb. units)" offset 0.5,0 font "Helvetica, 30"
+set key inside left
+set mytics 4
+set mxtics 5
+set ytics 250
+set xtics 0.5
+set yrange [0:200]
+set xrange [1.5:3.3]
+set output '162Dy_1910_ExF.eps'
+set size 1,1
+#set label "E_{lev} = 1148 keV" left at 2.3,550 norotate font "Helvetica,25"
+#5:3:4
+#5:($3/I260*N):($4/I260*N)
+N=1000
+BR947=0.552
+BR1022=0.448
+#set arrow from 1.6,1200 to 1.6,0 nohead
+#set arrow from 2.2,1200 to 2.2,0 nohead
+plot '947_ExF.dat' u 5:($3*BR947/BR1022):($4*BR947/BR1022) w yerrorbars t "E_{/Symbol g}=947 keV" pt 7 ps 1,'1022_ExF.dat' u 5:($3):($4) w yerrorbars t "E_{/Symbol g}=1022 keV" pt 7 ps 1

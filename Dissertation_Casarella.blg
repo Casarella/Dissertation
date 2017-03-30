@@ -13,6 +13,11 @@ A level-1 auxiliary file: Chapter5_Casarella.aux
 A level-1 auxiliary file: Chapter5_Casarella_2.aux
 A level-1 auxiliary file: Chapter5_Casarella_3.aux
 A level-1 auxiliary file: Chapter6_Casarella.aux
+A level-1 auxiliary file: appendix_160Gd_1.aux
+A level-1 auxiliary file: appendix_160Gd_2.aux
+A level-1 auxiliary file: appendix_162Dy_pos.aux
+A level-1 auxiliary file: appendix_162Dy_neg.aux
+A level-1 auxiliary file: appendix_162Dy_grid.aux
 The style file: nddiss2e.bst
 Database file #1: Casarella_Bib.bib
 I was expecting a `,' or a `}'---line 397 of file Casarella_Bib.bib
@@ -33,45 +38,45 @@ Warning--empty publisher in CONTE_NUMERICAL_text
 Warning--empty year in CONTE_NUMERICAL_text
 Warning--empty year in CONTE_NUMERICAL_text
 Warning--empty year in FitPic_Fribourg
-You've used 85 entries,
+You've used 86 entries,
             2774 wiz_defined-function locations,
-            1176 strings with 23254 characters,
-and the built_in function-call counts, 46696 in all, are:
-= -- 3872
-> -- 3763
-< -- 46
-+ -- 1277
-- -- 1191
-* -- 4188
-:= -- 7615
-add.period$ -- 256
-call.type$ -- 85
-change.case$ -- 558
-chr.to.int$ -- 84
-cite$ -- 178
-duplicate$ -- 1642
-empty$ -- 3158
-format.name$ -- 1300
-if$ -- 9477
+            1188 strings with 23523 characters,
+and the built_in function-call counts, 47054 in all, are:
+= -- 3905
+> -- 3773
+< -- 47
++ -- 1281
+- -- 1194
+* -- 4212
+:= -- 7672
+add.period$ -- 259
+call.type$ -- 86
+change.case$ -- 561
+chr.to.int$ -- 85
+cite$ -- 180
+duplicate$ -- 1661
+empty$ -- 3195
+format.name$ -- 1304
+if$ -- 9553
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 95
-newline$ -- 434
-num.names$ -- 340
-pop$ -- 1222
+missing$ -- 96
+newline$ -- 439
+num.names$ -- 344
+pop$ -- 1229
 preamble$ -- 1
-purify$ -- 481
+purify$ -- 483
 quote$ -- 0
-skip$ -- 1304
+skip$ -- 1315
 stack$ -- 0
-substring$ -- 1669
-swap$ -- 126
+substring$ -- 1689
+swap$ -- 128
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 870
+type$ -- 881
 warning$ -- 8
-while$ -- 340
+while$ -- 344
 width$ -- 0
-write$ -- 1111
+write$ -- 1124
 (There were 2 error messages)

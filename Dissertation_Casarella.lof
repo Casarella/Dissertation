@@ -29,11 +29,11 @@
  {\vskip 0.4em} 
 \contentsline {figure}{\numberline {1.15}{\ignorespaces Systematics for the energies of excited 0$^+$ states, the first excited 2$^+$ bandhead, and low-lying ground state band members for even-even Ytterbium nuclei. Proton and neutron pairing gaps (2$\Delta _\pi $ and 2$\Delta _\nu $, respectively) are drawn in green and blue and are calculated from Equations \ref {eq:pairing_gapP} and \ref {eq:pairing_gapN}. Transition arrows represent known experimental B(E2) measurements for 0$^+$ bandheads and 2$^+$ bandheads (in W.u. where known). }}{35}{figure.1.15}
  {\vskip 0.4em} 
-\contentsline {figure}{\numberline {1.16}{\ignorespaces Systematics for the energies of excited 0$^+$ states, the first excited 2$^+$ bandhead, and low-lying ground state band members for even-even Hafnium nuclei. Proton and neutron pairing gaps (2$\Delta _\pi $ and 2$\Delta _\nu $, respectively) are drawn in green and blue and are calculated from Equations \ref {eq:pairing_gapP} and \ref {eq:pairing_gapN}. Transition arrows represent known experimental B(E2) measurements for 0$^+$ bandheads and 2$^+$ bandheads (in W.u. where known). }}{36}{figure.1.16}
+\contentsline {figure}{\numberline {1.16}{\ignorespaces Systematics for the energies of excited 0$^+$ states (and 2$^+$ members of the band), the first excited 2$^+$ bandhead, and low-lying ground state band members for even-even Hafnium nuclei. Proton and neutron pairing gaps (2$\Delta _\pi $ and 2$\Delta _\nu $, respectively) are drawn in green and blue and are calculated from Equations \ref {eq:pairing_gapP} and \ref {eq:pairing_gapN}. Transition arrows represent known experimental B(E2) measurements for 0$^+$ bands and 2$^+$ bandheads (in W.u. where known). }}{36}{figure.1.16}
  {\vskip 0.4em} 
-\contentsline {figure}{\numberline {1.17}{\ignorespaces Systematics for the energies of excited negative parity states, the first excited 2$^+$ bandhead, and low-lying excited 0$^+$ states below the pairing gap (2$\Delta _\pi $ and 2$\Delta _\nu $) for even-even Gadolinium nuclei.}}{39}{figure.1.17}
+\contentsline {figure}{\numberline {1.17}{\ignorespaces Systematics for the energies of excited negative parity states, the first excited 2$^+$ bandhead, and low-lying excited 0$^+$ states below the pairing gap (2$\Delta _\pi $ and 2$\Delta _\nu $) for even-even Gadolinium nuclei. }}{39}{figure.1.17}
  {\vskip 0.4em} 
-\contentsline {figure}{\numberline {1.18}{\ignorespaces Systematics for the energies of excited negative parity states, the first excited 2$^+$ bandhead, and low-lying excited 0$^+$ states below the pairing gap (2$\Delta _\pi $ and 2$\Delta _\nu $) for even-even Dysprosium nuclei. States with a `$\oplus $' marker indicate where a literature lifetime measurement exists.}}{40}{figure.1.18}
+\contentsline {figure}{\numberline {1.18}{\ignorespaces Systematics for the energies of excited negative parity states, the first excited 2$^+$ bandhead, and low-lying excited 0$^+$ states below the pairing gap (2$\Delta _\pi $ and 2$\Delta _\nu $) for even-even Dysprosium nuclei. States with a `$\oplus $' marker indicate where a literature lifetime measurement exists. }}{40}{figure.1.18}
  {\vskip 0.4em} 
 \contentsline {figure}{\numberline {1.19}{\ignorespaces Summary of all known multiphonon ($\gamma \gamma $, $\beta \gamma $, or $\beta \beta $) configurations in rare-earth nuclei, absolute B(E2) from literature are shown in Weisskopf units to signify collective decays to $\gamma $-vibrational and/or potential $\beta $-vibrational states. }}{43}{figure.1.19}
  {\vskip 0.4em} 
@@ -144,6 +144,7 @@
  {\vskip 0.4em} 
 \contentsline {figure}{\numberline {6.2}{\ignorespaces Known experimental B(E2) strengths of the lowest-lying 0$^+$ state as a function of A for rare earth Sm, Gd, Dy, Er, Yb and Hf isotopes. }}{213}{figure.6.2}
  {\vskip 0.4em} 
+\addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

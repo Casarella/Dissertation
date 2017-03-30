@@ -1,4 +1,4 @@
-\begin{thebibliography}{85}
+\begin{thebibliography}{86}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -36,6 +36,13 @@ A.~Aprahamian, X.~Wu, S.~Lesher, D.~Warner, W.~Gelletly, H.~B\"orner,
 \newblock {First observation of a near-harmonic vibrational nucleus}.
 \newblock \emph{Phys. Rev. Lett.}, 59:\penalty0 535--538, Aug 1987.
 
+\bibitem[{Aprahamian, A. and S. R. Lesher and C. Casarella and H. G. B\"{o}rner
+  and M. Jentschel}(2017)]{Aprahamian_162Dy_GRID}
+{Aprahamian, A. and S. R. Lesher and C. Casarella and H. G. B\"{o}rner and M.
+  Jentschel}.
+\newblock {Lifetime measurements in $^{162}$Dy}.
+\newblock \emph{Phys. Rev. C}, 95:\penalty0 024329, Feb 2017.
+
 \bibitem[Belgya et~al.(1996)Belgya, Molnar, and Yates]{Belgya_DSAM1996}
 T.~Belgya, G.~Molnar, and S.~W. Yates.
 \newblock {Analysis of Doppler-shift attenuation measurements performed with
@@ -46,7 +53,7 @@ T.~Belgya, G.~Molnar, and S.~W. Yates.
   Maruhn]{Bender_pairing2000}
 M.~Bender, K.~Rutz, P.~G. Reinhard, and J.~A. Maruhn.
 \newblock {Pairing Gaps from Nuclear Mean-Field Models}.
-\newblock \emph{EPJ manuscript CHECK}, 731:\penalty0 291 -- 298, 2004.
+\newblock \emph{EPJ}, 731:\penalty0 291 -- 298, 2004.
 
 \bibitem[{Berzin} et~al.(1989){Berzin}, {Grigorev}, {Guseva}, and
   {Tamberg}]{Berzin_160Gd_reject0}

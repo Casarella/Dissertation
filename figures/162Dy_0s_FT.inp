@@ -1,0 +1,87 @@
+set terminal postscript eps color enhanced "Helvetica" 24 solid 
+set size 2,3
+set output '162Dy_0s_FT.eps'
+set multiplot layout 2,3
+
+
+
+
+set origin 0,2
+set mytics 4
+set mxtics 2
+set ytics 0.1
+set xtics 0.25
+set yrange [1319.5:1319.725]
+set xrange [-1:1]
+set size 1,1
+set ylabel "E_{/Symbol g} (keV)"
+beta=0.00015718130782713607
+F=0.031
+Eg=1319.604
+F(x)=Eg*(1+beta*F*x)
+set arrow from 30,1 to 160,1 nohead lc rgb "blue" lw 2
+set label "0@_2^+ {/Symbol \256} 2@^+_{gs}" at -0.75,1319.675 font "Helvetica,40"
+plot '162Dy_1319.dat' u (cos($11*pi/180)):7:8 w yerrorbars lw 6 t "E_{/Symbol g}=1319 keV",F(x) lt rgb "blue" lw 5 t "" 
+unset label
+
+set origin 0,1
+set yrange [1585.2:1585.5]
+set xrange [-1:1]
+set size 1,1
+set ytics 0.1
+beta=0.00018431142084551422
+F=0.051
+Eg=1585.343
+set label "0@_3^+ {/Symbol \256} 2@^+_{gs}" at -0.75,1585.45 font "Helvetica,40"
+plot '162Dy_1585.dat' u (cos($11*pi/180)):7:8 w yerrorbars lw 6 t "E_{/Symbol g}=1585 keV",F(x) lt rgb "blue" lw 5 t ""
+unset label 
+
+set origin 0,0
+set yrange [2047.0:2047.95]
+set xrange [-1:1]
+set size 1,1
+F=0.071
+Eg=2047.475
+set ytics 0.2
+#0.071 0.031
+set xlabel "cos({/Symbol q}_{lab})" font "Helvetica,30"
+set label "0@_6^+ {/Symbol \256} 2@^+_{gs}" at -0.75,2047.7 font "Helvetica,40"
+plot '162Dy_2046.dat' u (cos($11*pi/180)):7:8 w yerrorbars lw 6 t "E_{/Symbol g}=2047 keV",F(x) lt rgb "blue" lw 5 t ""
+unset xlabel
+unset label
+
+set origin 1,2
+set yrange [2416.4:2418]
+set xrange [-1:1]
+set size 1,1
+set ytics 0.4
+beta=0.00021878712105573596*2.2
+F=0.376
+Eg=2417.2
+set label "0@_7^+ {/Symbol \256} 2@^+_{gs}" at -0.75,2417.75 font "Helvetica,40"
+plot '162Dy_2416.dat' u (cos($11*pi/180)):7:8 w yerrorbars lw 6 t "E_{/Symbol g}=2417 keV",F(x) lt rgb "blue" lw 5 t ""
+unset label
+
+set origin 1,1
+set yrange [2573.8:2576.8]
+set xrange [-1:1]
+set size 1,1
+F=0.436
+Eg=2575.27
+set label "0@_9^+ {/Symbol \256} 2@^+_{gs}" at -0.75,2576.4 font "Helvetica,40"
+plot '162Dy_2575.dat' u (cos($11*pi/180)):7:8 w yerrorbars lw 6 t "E_{/Symbol g}=2575 keV",F(x) lt rgb "blue" lw 5 t ""
+unset label
+
+set origin 1,0
+set yrange [2719.0:2721.5]
+set xrange [-1:1]
+set size 1,1
+F=0.653
+Eg=2720.37
+
+set xlabel "cos({/Symbol q}_{lab})" font "Helvetica,30"
+set label "0@_{11}^+ {/Symbol \256} 2@^+_{gs}" at -0.75,2721.2 font "Helvetica,40"
+plot '162Dy_2722.dat' u (cos($11*pi/180)):7:8 w yerrorbars lw 6 t "E_{/Symbol g}=2721 keV",F(x) lt rgb "blue" lw 5 t ""
+unset label
+unset xlabel
+unset multiplot

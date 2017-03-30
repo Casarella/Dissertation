@@ -1,0 +1,25 @@
+set terminal postscript eps color enhanced "Helvetica" 20 solid 
+set size 2,1
+set output '1342_AD.eps'
+set origin 0,0
+set mytics 2
+set xtics 50
+set mxtics 5
+set ytics 0.2
+set xtics 50
+set yrange [0.7:1.5]
+set xrange [20:180]
+set ylabel "Normalized peak area" offset 0.5,0 font "Helvetica, 30"
+set xlabel "{/Symbol q}" offset 0,-0.5 font "Helvetica, 30"
+set size 1,1
+set label "89% E2 if J=2" center at 130,0.8 norotate font "Helvetica,28"
+set label "a_2 = 0.1321{/Symbol \261}0.0782" center at 90,1.3 norotate font "Helvetica,28"
+set label "a_4 = 0.0153{/Symbol \261}0.1004" center at 90,1.2 norotate font "Helvetica,28"
+A0_1=2233.63
+a2_1=0.1321+0.0782
+a4_1=0.0153
+P2(c)=0.5*(3*c**2-1)
+P4(c)=1/8*(35*c**4-30*c**2+3)
+W_1(c)=(1+a2_1*P2(c)+a4_1*P4(c))
+plot '1342_AD.dat' u 5:($3/A0_1):($4/A0_1) w yerrorbars t "E_{/Symbol g}=1342 keV" pt 7 ps 1, W_1(cos(x*pi/180)) lt rgb "blue" t "W({/Symbol q}) fit"
+

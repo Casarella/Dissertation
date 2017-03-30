@@ -85,4 +85,5 @@
 \contentsline {chapter}{{APPENDIX\ B: $^{160}$GD NEGATIVE PARITY STATES}}{221}{appendix.B}
 \contentsline {chapter}{{APPENDIX\ C: $^{162}$DY QUADRUPOLE EXCITATIONS}}{236}{appendix.C}
 \contentsline {chapter}{{APPENDIX\ D: $^{162}$DY NEGATIVE PARITY STATES}}{261}{appendix.D}
-\contentsline {chapter}{BIBLIOGRAPHY}{281}{appendix*.6}
+\contentsline {chapter}{{APPENDIX\ E: $^{162}$DY GRID}}{281}{appendix.E}
+\contentsline {chapter}{BIBLIOGRAPHY}{292}{appendix*.6}

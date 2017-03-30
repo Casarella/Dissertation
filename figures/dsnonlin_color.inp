@@ -1,0 +1,23 @@
+set terminal postscript eps color enhanced "Helvetica" 20 solid
+set xlabel "E_{/Symbol g} (keV)" offset 0,-0.5 font "Helvetica, 30"
+set ylabel "{/Symbol D}E_{/Symbol g} (keV)" offset 0.5,0 font "Helvetica, 30"
+set mytics 2
+set mxtics 5
+set ytics 1
+set xtics 500
+set yrange [-2:2]
+set xrange [0:3200]
+set output '310_dsnonlin_color.eps'
+set size 1,1
+set label "E_n = 3.1 MeV" left at 1950,3750 norotate font "Helvetica,25"
+a5=-1.858107E-15
+a4=1.40266243E-11
+a3=-4.08736E-8
+a2=5.68660622E-5
+a1=-0.034898151
+a0=6.1926402409
+ms3=0.2205
+ms2=0.2056155063
+yi=1.1266
+poly5(x)=a5*x**5+a4*x**4+a3*x**3+a2*x**2+a1*x+a0
+plot 'AD310_dsnonlin_5.nlp' u 1:(ms3*$8):10 w yerrorbars t "3.1" pt 7 ps 0.5, ms3*poly5(x) lt rgb "red" t "5^{th} order fit",'220_dsnonlin_color.nlp' u 1:(ms2*$8):10 w yerrorbars t "2.2" pt 7 ps 0.5,'160_dsnonlin_color.nlp' u 1:(ms2*$8):10 w yerrorbars t "1.6" pt 7 ps 0.5

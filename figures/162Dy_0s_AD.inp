@@ -1,0 +1,70 @@
+set terminal postscript eps color enhanced "Helvetica" 24 solid 
+set size 2,3
+set output '162Dy_0s_AD.eps'
+set multiplot layout 2,3
+
+set origin 0,2
+set mytics 4
+set mxtics 2
+set ytics 0.1
+set xtics 20
+set yrange [0.75:1.25]
+set xrange [30:160]
+set size 1,1
+set ylabel "Normalized Peak Area"
+A0=3483.953
+set arrow from 30,1 to 160,1 nohead lc rgb "blue" lw 2
+set label "0@_2^+ {/Symbol \256} 2@^+_{gs}" at 50,1.175 font "Helvetica,40"
+plot '162Dy_1319.dat' u 5:($3/A0):($4/A0) w yerrorbars lw 6 t "E_{/Symbol g}=1319 keV"
+unset label
+
+set origin 0,1
+set yrange [0.75:1.25]
+set xrange [30:160]
+set size 1,1
+A0=3437.000
+set label "0@_3^+ {/Symbol \256} 2@^+_{gs}" at 50,1.175 font "Helvetica,40"
+plot '162Dy_1585.dat' u 5:($3/A0):($4/A0) w yerrorbars lw 6 t "E_{/Symbol g}=1585 keV"
+unset label 
+
+set origin 0,0
+set yrange [0.6:1.4]
+set xrange [30:160]
+set size 1,1
+A0=1936.294
+set xlabel "{/Symbol q}_{lab} (deg)" font "Helvetica,30"
+set label "0@_6^+ {/Symbol \256} 2@^+_{gs}" at 50,1.25 font "Helvetica,40"
+plot '162Dy_2046.dat' u 5:($3/A0):($4/A0) w yerrorbars lw 6 t "E_{/Symbol g}=2047 keV"
+unset xlabel
+unset label
+
+set origin 1,2
+set yrange [0.6:1.4]
+set xrange [30:160]
+set size 1,1
+A0=679.797
+set label "0@_7^+ {/Symbol \256} 2@^+_{gs}" at 50,1.3 font "Helvetica,40"
+plot '162Dy_2416.dat' u 5:($3/A0):($4/A0) w yerrorbars lw 6 t "E_{/Symbol g}=2417 keV" 
+unset label
+
+set origin 1,1
+set ytics 0.2
+set yrange [0.4:1.8]
+set xrange [30:160]
+set size 1,1
+A0=340.749
+set label "0@_9^+ {/Symbol \256} 2@^+_{gs}" at 50,1.6 font "Helvetica,40"
+plot '162Dy_2575.dat' u 5:($3/A0):($4/A0) w yerrorbars lw 6 t "E_{/Symbol g}=2575 keV"
+unset label
+
+set origin 1,0
+set yrange [0.4:2.0]
+set xrange [30:160]
+set size 1,1
+A0=284.687
+set xlabel "{/Symbol q}_{lab} (deg)" font "Helvetica,30"
+set label "0@_{11}^+ {/Symbol \256} 2@^+_{gs}" at 45,1.8 font "Helvetica,40"
+plot '162Dy_2722.dat' u 5:($3/A0):($4/A0) w yerrorbars lw 6 t "E_{/Symbol g}=2721 keV"
+unset label
+unset xlabel
+unset multiplot

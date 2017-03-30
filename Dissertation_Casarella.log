@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.12.2)  17 FEB 2017 13:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.12.2)  29 MAR 2017 18:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -173,7 +173,8 @@ LaTeX Info: Redefining \cite on input line 694.
 LaTeX Warning: Label `fig:162Dy_misc' multiply defined.
 
 ) (./Chapter6_Casarella.aux) (./appendix_160Gd_1.aux) (./appendix_160Gd_2.aux)
-(./appendix_162Dy_pos.aux) (./appendix_162Dy_neg.aux))
+(./appendix_162Dy_pos.aux) (./appendix_162Dy_neg.aux)
+(./appendix_162Dy_grid.aux))
 \openout1 = `Dissertation_Casarella.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
@@ -624,141 +625,150 @@ CHAPTER 1.
 
 
 ] [2]
-Package epstopdf Info: Source file: <Chart_of_Nuclides_def.eps>
-(epstopdf)                    date: 2016-10-21 11:38:55
-(epstopdf)                    size: 2251450 bytes
-(epstopdf)             Output file: <Chart_of_Nuclides_def-eps-converted-to.pdf
->
-(epstopdf)                    date: 2016-10-21 11:39:05
-(epstopdf)                    size: 26380 bytes
-(epstopdf)             Command: <repstopdf --outfile=Chart_of_Nuclides_def-eps-
-converted-to.pdf Chart_of_Nuclides_def.eps>
+Package epstopdf Info: Source file: <figures/Chart_of_Nuclides_def.eps>
+(epstopdf)                    date: 2017-03-17 10:03:12
+(epstopdf)                    size: 2251363 bytes
+(epstopdf)             Output file: <figures/Chart_of_Nuclides_def-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2017-03-29 18:38:10
+(epstopdf)                    size: 25996 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/Chart_of_Nuclides_
+def-eps-converted-to.pdf figures/Chart_of_Nuclides_def.eps>
 (epstopdf)             \includegraphics on input line 35.
 Package epstopdf Info: Output file is already uptodate.
 
-<Chart_of_Nuclides_def-eps-converted-to.pdf, id=785, 361.35pt x 252.945pt>
-File: Chart_of_Nuclides_def-eps-converted-to.pdf Graphic file (type pdf)
-
-<use Chart_of_Nuclides_def-eps-converted-to.pdf>
-Package pdftex.def Info: Chart_of_Nuclides_def-eps-converted-to.pdf used on inp
-ut line 35.
+<figures/Chart_of_Nuclides_def-eps-converted-to.pdf, id=790, 361.35pt x 252.945
+pt>
+File: figures/Chart_of_Nuclides_def-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use figures/Chart_of_Nuclides_def-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Chart_of_Nuclides_def-eps-converted-to.pdf use
+d on input line 35.
 (pdftex.def)             Requested size: 432.0pt x 302.40161pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3] <B(E2)_rotations_Casten.png, id=799, 572.1375pt x 679.53876pt>
-File: B(E2)_rotations_Casten.png Graphic file (type png)
+[3] <figures/B(E2)_rotations_Casten.png, id=804, 572.1375pt x 679.53876pt>
+File: figures/B(E2)_rotations_Casten.png Graphic file (type png)
 
-<use B(E2)_rotations_Casten.png>
-Package pdftex.def Info: B(E2)_rotations_Casten.png used on input line 50.
+<use figures/B(E2)_rotations_Casten.png>
+Package pdftex.def Info: figures/B(E2)_rotations_Casten.png used on input line 
+50.
 (pdftex.def)             Requested size: 410.39868pt x 487.44261pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[4 <./Chart_of_Nuclides_def-eps-converted-to.pdf>] [5 <./B(E2)_rotations_Casten
-.png>] [6]
+[4 <./figures/Chart_of_Nuclides_def-eps-converted-to.pdf>] [5 <./figures/B(E2)_
+rotations_Casten.png>] [6]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 81.
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 81.
  [7]
-Package epstopdf Info: Source file: <SciDraw_beta_vibration.eps>
+Package epstopdf Info: Source file: <figures/SciDraw_beta_vibration.eps>
 (epstopdf)                    date: 2016-05-24 15:10:24
 (epstopdf)                    size: 3595838 bytes
-(epstopdf)             Output file: <SciDraw_beta_vibration-eps-converted-to.pd
-f>
+(epstopdf)             Output file: <figures/SciDraw_beta_vibration-eps-convert
+ed-to.pdf>
 (epstopdf)                    date: 2016-05-24 15:13:35
 (epstopdf)                    size: 7753 bytes
-(epstopdf)             Command: <repstopdf --outfile=SciDraw_beta_vibration-eps
--converted-to.pdf SciDraw_beta_vibration.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/SciDraw_beta_vibra
+tion-eps-converted-to.pdf figures/SciDraw_beta_vibration.eps>
 (epstopdf)             \includegraphics on input line 85.
 Package epstopdf Info: Output file is already uptodate.
 
-<SciDraw_beta_vibration-eps-converted-to.pdf, id=849, 957.5775pt x 478.78876pt>
-File: SciDraw_beta_vibration-eps-converted-to.pdf Graphic file (type pdf)
-<use SciDraw_beta_vibration-eps-converted-to.pdf>
-Package pdftex.def Info: SciDraw_beta_vibration-eps-converted-to.pdf used on in
-put line 85.
+<figures/SciDraw_beta_vibration-eps-converted-to.pdf, id=855, 957.5775pt x 478.
+78876pt>
+File: figures/SciDraw_beta_vibration-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use figures/SciDraw_beta_vibration-eps-converted-to.pdf>
+Package pdftex.def Info: figures/SciDraw_beta_vibration-eps-converted-to.pdf us
+ed on input line 85.
 (pdftex.def)             Requested size: 432.0pt x 216.00087pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package epstopdf Info: Source file: <SciDraw_gamma_vibration.eps>
+Package epstopdf Info: Source file: <figures/SciDraw_gamma_vibration.eps>
 (epstopdf)                    date: 2016-05-24 15:08:54
 (epstopdf)                    size: 3599174 bytes
-(epstopdf)             Output file: <SciDraw_gamma_vibration-eps-converted-to.p
-df>
+(epstopdf)             Output file: <figures/SciDraw_gamma_vibration-eps-conver
+ted-to.pdf>
 (epstopdf)                    date: 2016-05-24 15:13:36
 (epstopdf)                    size: 7914 bytes
-(epstopdf)             Command: <repstopdf --outfile=SciDraw_gamma_vibration-ep
-s-converted-to.pdf SciDraw_gamma_vibration.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/SciDraw_gamma_vibr
+ation-eps-converted-to.pdf figures/SciDraw_gamma_vibration.eps>
 (epstopdf)             \includegraphics on input line 93.
 Package epstopdf Info: Output file is already uptodate.
 
-<SciDraw_gamma_vibration-eps-converted-to.pdf, id=850, 957.5775pt x 478.78876pt
->
-File: SciDraw_gamma_vibration-eps-converted-to.pdf Graphic file (type pdf)
- <use SciDraw_gamma_vibration-eps-converted-to.pdf>
-Package pdftex.def Info: SciDraw_gamma_vibration-eps-converted-to.pdf used on i
-nput line 93.
+<figures/SciDraw_gamma_vibration-eps-converted-to.pdf, id=856, 957.5775pt x 478
+.78876pt>
+File: figures/SciDraw_gamma_vibration-eps-converted-to.pdf Graphic file (type p
+df)
+ <use figures/SciDraw_gamma_vibration-eps-converted-to.pdf>
+Package pdftex.def Info: figures/SciDraw_gamma_vibration-eps-converted-to.pdf u
+sed on input line 93.
 (pdftex.def)             Requested size: 432.0pt x 216.00087pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8] [9 <./SciDraw_beta_vibration-eps-converted-to.pdf>] [10 <./SciDraw_gamma_vi
-bration-eps-converted-to.pdf>]
-<phonon_deformed.pdf, id=887, 1102.1175pt x 615.29875pt>
-File: phonon_deformed.pdf Graphic file (type pdf)
+[8] [9 <./figures/SciDraw_beta_vibration-eps-converted-to.pdf>] [10 <./figures/
+SciDraw_gamma_vibration-eps-converted-to.pdf>]
+<figures/phonon_deformed.pdf, id=893, 1102.1175pt x 615.29875pt>
+File: figures/phonon_deformed.pdf Graphic file (type pdf)
 
-<use phonon_deformed.pdf>
-Package pdftex.def Info: phonon_deformed.pdf used on input line 148.
+<use figures/phonon_deformed.pdf>
+Package pdftex.def Info: figures/phonon_deformed.pdf used on input line 148.
 (pdftex.def)             Requested size: 432.0pt x 241.17668pt.
- [11 <./phonon_deformed.pdf>]
+ [11 <./figures/phonon_deformed.pdf>]
 Overfull \hbox (7.13046pt too wide) in paragraph at lines 182--183
 []\OT1/cmr/m/n/12 Experimentally, many de-formed rare-earth nu-clei ex-hibit a 
 low-lying ex-cited K$[]$=0$[]$
  []
 
-Package epstopdf Info: Source file: <Rare_Earth_2g_BE2.eps>
+Package epstopdf Info: Source file: <figures/Rare_Earth_2g_BE2.eps>
 (epstopdf)                    date: 2016-10-12 12:53:09
 (epstopdf)                    size: 23179 bytes
-(epstopdf)             Output file: <Rare_Earth_2g_BE2-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/Rare_Earth_2g_BE2-eps-converted-to
+.pdf>
 (epstopdf)                    date: 2016-10-12 12:55:32
 (epstopdf)                    size: 8372 bytes
-(epstopdf)             Command: <repstopdf --outfile=Rare_Earth_2g_BE2-eps-conv
-erted-to.pdf Rare_Earth_2g_BE2.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/Rare_Earth_2g_BE2-
+eps-converted-to.pdf figures/Rare_Earth_2g_BE2.eps>
 (epstopdf)             \includegraphics on input line 186.
 Package epstopdf Info: Output file is already uptodate.
-<Rare_Earth_2g_BE2-eps-converted-to.pdf, id=920, 361.35pt x 252.945pt>
-File: Rare_Earth_2g_BE2-eps-converted-to.pdf Graphic file (type pdf)
 
-<use Rare_Earth_2g_BE2-eps-converted-to.pdf>
-Package pdftex.def Info: Rare_Earth_2g_BE2-eps-converted-to.pdf used on input l
-ine 186.
+<figures/Rare_Earth_2g_BE2-eps-converted-to.pdf, id=926, 361.35pt x 252.945pt>
+File: figures/Rare_Earth_2g_BE2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/Rare_Earth_2g_BE2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Rare_Earth_2g_BE2-eps-converted-to.pdf used on
+ input line 186.
 (pdftex.def)             Requested size: 380.16211pt x 266.11728pt.
-Package epstopdf Info: Source file: <Rare_Earth_2g_N.eps>
+Package epstopdf Info: Source file: <figures/Rare_Earth_2g_N.eps>
 (epstopdf)                    date: 2016-10-12 12:52:53
 (epstopdf)                    size: 23736 bytes
-(epstopdf)             Output file: <Rare_Earth_2g_N-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/Rare_Earth_2g_N-eps-converted-to.p
+df>
 (epstopdf)                    date: 2016-10-13 16:50:17
 (epstopdf)                    size: 7903 bytes
-(epstopdf)             Command: <repstopdf --outfile=Rare_Earth_2g_N-eps-conver
-ted-to.pdf Rare_Earth_2g_N.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/Rare_Earth_2g_N-ep
+s-converted-to.pdf figures/Rare_Earth_2g_N.eps>
 (epstopdf)             \includegraphics on input line 187.
 Package epstopdf Info: Output file is already uptodate.
 
-<Rare_Earth_2g_N-eps-converted-to.pdf, id=921, 361.35pt x 252.945pt>
-File: Rare_Earth_2g_N-eps-converted-to.pdf Graphic file (type pdf)
+<figures/Rare_Earth_2g_N-eps-converted-to.pdf, id=927, 361.35pt x 252.945pt>
+File: figures/Rare_Earth_2g_N-eps-converted-to.pdf Graphic file (type pdf)
 
-<use Rare_Earth_2g_N-eps-converted-to.pdf>
-Package pdftex.def Info: Rare_Earth_2g_N-eps-converted-to.pdf used on input lin
-e 187.
+<use figures/Rare_Earth_2g_N-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Rare_Earth_2g_N-eps-converted-to.pdf used on i
+nput line 187.
 (pdftex.def)             Requested size: 380.16211pt x 266.11728pt.
 
 
@@ -768,40 +778,43 @@ LaTeX Warning: Float too large for page by 1.75595pt on input line 190.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [12]
-Package epstopdf Info: Source file: <Rare_Earth_02_BE2.eps>
+Package epstopdf Info: Source file: <figures/Rare_Earth_02_BE2.eps>
 (epstopdf)                    date: 2016-10-12 12:52:36
 (epstopdf)                    size: 22636 bytes
-(epstopdf)             Output file: <Rare_Earth_02_BE2-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/Rare_Earth_02_BE2-eps-converted-to
+.pdf>
 (epstopdf)                    date: 2016-10-12 12:55:37
 (epstopdf)                    size: 7952 bytes
-(epstopdf)             Command: <repstopdf --outfile=Rare_Earth_02_BE2-eps-conv
-erted-to.pdf Rare_Earth_02_BE2.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/Rare_Earth_02_BE2-
+eps-converted-to.pdf figures/Rare_Earth_02_BE2.eps>
 (epstopdf)             \includegraphics on input line 198.
 Package epstopdf Info: Output file is already uptodate.
- <Rare_Earth_02_BE2-eps-converted-to.pdf, id=934, 361.35pt x 252.945pt>
-File: Rare_Earth_02_BE2-eps-converted-to.pdf Graphic file (type pdf)
 
-<use Rare_Earth_02_BE2-eps-converted-to.pdf>
-Package pdftex.def Info: Rare_Earth_02_BE2-eps-converted-to.pdf used on input l
-ine 198.
+<figures/Rare_Earth_02_BE2-eps-converted-to.pdf, id=940, 361.35pt x 252.945pt>
+File: figures/Rare_Earth_02_BE2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/Rare_Earth_02_BE2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Rare_Earth_02_BE2-eps-converted-to.pdf used on
+ input line 198.
 (pdftex.def)             Requested size: 380.16211pt x 266.11728pt.
-Package epstopdf Info: Source file: <Rare_Earth_0s_N.eps>
+Package epstopdf Info: Source file: <figures/Rare_Earth_0s_N.eps>
 (epstopdf)                    date: 2016-10-12 12:52:46
 (epstopdf)                    size: 23740 bytes
-(epstopdf)             Output file: <Rare_Earth_0s_N-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/Rare_Earth_0s_N-eps-converted-to.p
+df>
 (epstopdf)                    date: 2016-10-12 12:55:36
 (epstopdf)                    size: 7904 bytes
-(epstopdf)             Command: <repstopdf --outfile=Rare_Earth_0s_N-eps-conver
-ted-to.pdf Rare_Earth_0s_N.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/Rare_Earth_0s_N-ep
+s-converted-to.pdf figures/Rare_Earth_0s_N.eps>
 (epstopdf)             \includegraphics on input line 199.
 Package epstopdf Info: Output file is already uptodate.
 
-<Rare_Earth_0s_N-eps-converted-to.pdf, id=935, 361.35pt x 252.945pt>
-File: Rare_Earth_0s_N-eps-converted-to.pdf Graphic file (type pdf)
+<figures/Rare_Earth_0s_N-eps-converted-to.pdf, id=941, 361.35pt x 252.945pt>
+File: figures/Rare_Earth_0s_N-eps-converted-to.pdf Graphic file (type pdf)
 
-<use Rare_Earth_0s_N-eps-converted-to.pdf>
-Package pdftex.def Info: Rare_Earth_0s_N-eps-converted-to.pdf used on input lin
-e 199.
+<use figures/Rare_Earth_0s_N-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Rare_Earth_0s_N-eps-converted-to.pdf used on i
+nput line 199.
 (pdftex.def)             Requested size: 380.16211pt x 266.11728pt.
 
 
@@ -810,177 +823,183 @@ LaTeX Warning: Float too large for page by 16.86794pt on input line 202.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[13]) [14] [15 <./Rare_Earth_2g_BE2-eps-converted-to.pdf> <./Rare_Earth_2g_N-ep
-s-converted-to.pdf>] [16 <./Rare_Earth_02_BE2-eps-converted-to.pdf> <./Rare_Ear
-th_0s_N-eps-converted-to.pdf>]
+[13]) [14] [15 <./figures/Rare_Earth_2g_BE2-eps-converted-to.pdf> <./figures/Ra
+re_Earth_2g_N-eps-converted-to.pdf>] [16 <./figures/Rare_Earth_02_BE2-eps-conve
+rted-to.pdf> <./figures/Rare_Earth_0s_N-eps-converted-to.pdf>]
 \openout2 = `Chapter1_Casarella_lasthalf.aux'.
 
- (./Chapter1_Casarella_lasthalf.tex [17
+
+(./Chapter1_Casarella_lasthalf.tex [17
 
 
 ]
-<Q3D_spectrometer.png, id=997, 874.26625pt x 489.83pt>
-File: Q3D_spectrometer.png Graphic file (type png)
+<figures/Q3D_spectrometer.png, id=1003, 874.26625pt x 489.83pt>
+File: figures/Q3D_spectrometer.png Graphic file (type png)
 
-<use Q3D_spectrometer.png>
-Package pdftex.def Info: Q3D_spectrometer.png used on input line 15.
+<use figures/Q3D_spectrometer.png>
+Package pdftex.def Info: figures/Q3D_spectrometer.png used on input line 15.
 (pdftex.def)             Requested size: 432.0pt x 242.03682pt.
- [18 <./Q3D_spectrometer.png>]
-<158Gd(pt).png, id=1007, 1363.0925pt x 816.04875pt>
-File: 158Gd(pt).png Graphic file (type png)
- <use 158Gd(pt).png>
-Package pdftex.def Info: 158Gd(pt).png used on input line 26.
-(pdftex.def)             Requested size: 432.0pt x 258.62566pt.
+ [18 <./figures/Q3D_spectrometer.png>]
+<figures/158Gd(pt).png, id=1013, 1363.0925pt x 816.04875pt>
+File: figures/158Gd(pt).png Graphic file (type png)
 
-[19 <./158Gd(pt).png>]
-Package epstopdf Info: Source file: <Gd_Dy_0s_Number.eps>
+<use figures/158Gd(pt).png>
+Package pdftex.def Info: figures/158Gd(pt).png used on input line 26.
+(pdftex.def)             Requested size: 432.0pt x 258.62566pt.
+ [19 <./figures/158Gd(pt).png>]
+Package epstopdf Info: Source file: <figures/Gd_Dy_0s_Number.eps>
 (epstopdf)                    date: 2016-09-28 08:41:05
 (epstopdf)                    size: 25062 bytes
-(epstopdf)             Output file: <Gd_Dy_0s_Number-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/Gd_Dy_0s_Number-eps-converted-to.p
+df>
 (epstopdf)                    date: 2016-09-28 11:06:15
 (epstopdf)                    size: 8005 bytes
-(epstopdf)             Command: <repstopdf --outfile=Gd_Dy_0s_Number-eps-conver
-ted-to.pdf Gd_Dy_0s_Number.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/Gd_Dy_0s_Number-ep
+s-converted-to.pdf figures/Gd_Dy_0s_Number.eps>
 (epstopdf)             \includegraphics on input line 36.
 Package epstopdf Info: Output file is already uptodate.
 
-<Gd_Dy_0s_Number-eps-converted-to.pdf, id=1026, 361.35pt x 252.945pt>
-File: Gd_Dy_0s_Number-eps-converted-to.pdf Graphic file (type pdf)
+<figures/Gd_Dy_0s_Number-eps-converted-to.pdf, id=1032, 361.35pt x 252.945pt>
+File: figures/Gd_Dy_0s_Number-eps-converted-to.pdf Graphic file (type pdf)
 
-<use Gd_Dy_0s_Number-eps-converted-to.pdf>
-Package pdftex.def Info: Gd_Dy_0s_Number-eps-converted-to.pdf used on input lin
-e 36.
+<use figures/Gd_Dy_0s_Number-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Gd_Dy_0s_Number-eps-converted-to.pdf used on i
+nput line 36.
 (pdftex.def)             Requested size: 410.39868pt x 287.2796pt.
- [20 <./Gd_Dy_0s_Number-eps-converted-to.pdf>] [21] [22] [23] [24] [25] [26] [2
-7]
+ [20 <./figures/Gd_Dy_0s_Number-eps-converted-to.pdf>] [21] [22] [23] [24] [25]
+ [26] [27]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 180.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 180.
+(hyperref)                removing `math shift' on input line 179.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 180.
+(hyperref)                removing `math shift' on input line 179.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 180.
+(hyperref)                removing `math shift' on input line 179.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 183.
+(hyperref)                removing `math shift' on input line 179.
+
+[28]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 182.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 183.
+(hyperref)                removing `superscript' on input line 182.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pi' on input line 183.
+(hyperref)                removing `\pi' on input line 182.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 183.
+(hyperref)                removing `math shift' on input line 182.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 183.
+(hyperref)                removing `math shift' on input line 182.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 183.
+(hyperref)                removing `superscript' on input line 182.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 183.
+(hyperref)                removing `math shift' on input line 182.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 183.
+(hyperref)                removing `math shift' on input line 182.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 183.
+(hyperref)                removing `superscript' on input line 182.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 183.
+(hyperref)                removing `math shift' on input line 182.
 
-[28] [29] <SciDraw_SmSystematics.pdf, id=1161, 1513.655pt x 926.46124pt>
-File: SciDraw_SmSystematics.pdf Graphic file (type pdf)
+[29] <figures/SciDraw_SmSystematics.pdf, id=1167, 1513.655pt x 926.46124pt>
+File: figures/SciDraw_SmSystematics.pdf Graphic file (type pdf)
 
-<use SciDraw_SmSystematics.pdf>
-Package pdftex.def Info: SciDraw_SmSystematics.pdf used on input line 189.
+<use figures/SciDraw_SmSystematics.pdf>
+Package pdftex.def Info: figures/SciDraw_SmSystematics.pdf used on input line 1
+88.
 (pdftex.def)             Requested size: 564.63979pt x 345.60132pt.
 
 
-LaTeX Warning: Float too large for page by 61.2894pt on input line 193.
+LaTeX Warning: Float too large for page by 61.2894pt on input line 191.
 
-[30 <./SciDraw_SmSystematics.pdf>]
-<SciDraw_GdSystematics.pdf, id=1185, 1135.24126pt x 696.6025pt>
-File: SciDraw_GdSystematics.pdf Graphic file (type pdf)
+[30 <./figures/SciDraw_SmSystematics.pdf>]
+<figures/SciDraw_GdSystematics.pdf, id=1191, 1135.24126pt x 696.6025pt>
+File: figures/SciDraw_GdSystematics.pdf Graphic file (type pdf)
 
-<use SciDraw_GdSystematics.pdf>
-Package pdftex.def Info: SciDraw_GdSystematics.pdf used on input line 201.
+<use figures/SciDraw_GdSystematics.pdf>
+Package pdftex.def Info: figures/SciDraw_GdSystematics.pdf used on input line 1
+99.
 (pdftex.def)             Requested size: 563.21935pt x 345.60132pt.
 
 
-LaTeX Warning: Float too large for page by 61.2894pt on input line 205.
+LaTeX Warning: Float too large for page by 61.2894pt on input line 202.
 
-[31 <./SciDraw_GdSystematics.pdf>]
-<SciDraw_DySystematics.pdf, id=1208, 1513.655pt x 926.46124pt>
-File: SciDraw_DySystematics.pdf Graphic file (type pdf)
+[31 <./figures/SciDraw_GdSystematics.pdf>]
+<figures/SciDraw_DySystematics.pdf, id=1215, 1513.655pt x 926.46124pt>
+File: figures/SciDraw_DySystematics.pdf Graphic file (type pdf)
 
-<use SciDraw_DySystematics.pdf>
-Package pdftex.def Info: SciDraw_DySystematics.pdf used on input line 213.
+<use figures/SciDraw_DySystematics.pdf>
+Package pdftex.def Info: figures/SciDraw_DySystematics.pdf used on input line 2
+10.
 (pdftex.def)             Requested size: 564.63979pt x 345.60132pt.
 
 
-LaTeX Warning: Float too large for page by 46.12271pt on input line 217.
+LaTeX Warning: Float too large for page by 46.12271pt on input line 213.
 
-[32 <./SciDraw_DySystematics.pdf>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 220.
-
+[32 <./figures/SciDraw_DySystematics.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 220.
+(hyperref)                removing `math shift' on input line 216.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pi' on input line 220.
+(hyperref)                removing `superscript' on input line 216.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 220.
+(hyperref)                removing `\pi' on input line 216.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 220.
+(hyperref)                removing `math shift' on input line 216.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 220.
+(hyperref)                removing `math shift' on input line 216.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 220.
+(hyperref)                removing `superscript' on input line 216.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 220.
+(hyperref)                removing `math shift' on input line 216.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 220.
+(hyperref)                removing `math shift' on input line 216.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 220.
+(hyperref)                removing `superscript' on input line 216.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 216.
 
 [33
 
@@ -989,39 +1008,42 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 
-] <SciDraw_ErSystematics.pdf, id=1234, 1513.655pt x 926.46124pt>
-File: SciDraw_ErSystematics.pdf Graphic file (type pdf)
+] <figures/SciDraw_ErSystematics.pdf, id=1240, 1513.655pt x 926.46124pt>
+File: figures/SciDraw_ErSystematics.pdf Graphic file (type pdf)
 
-<use SciDraw_ErSystematics.pdf>
-Package pdftex.def Info: SciDraw_ErSystematics.pdf used on input line 226.
+<use figures/SciDraw_ErSystematics.pdf>
+Package pdftex.def Info: figures/SciDraw_ErSystematics.pdf used on input line 2
+22.
 (pdftex.def)             Requested size: 564.63979pt x 345.60132pt.
 
 
-LaTeX Warning: Float too large for page by 61.2894pt on input line 230.
+LaTeX Warning: Float too large for page by 61.2894pt on input line 225.
 
-[34 <./SciDraw_ErSystematics.pdf>]
-<SciDraw_YbSystematics.pdf, id=1257, 1513.655pt x 926.46124pt>
-File: SciDraw_YbSystematics.pdf Graphic file (type pdf)
+[34 <./figures/SciDraw_ErSystematics.pdf>]
+<figures/SciDraw_YbSystematics.pdf, id=1263, 1513.655pt x 926.46124pt>
+File: figures/SciDraw_YbSystematics.pdf Graphic file (type pdf)
 
-<use SciDraw_YbSystematics.pdf>
-Package pdftex.def Info: SciDraw_YbSystematics.pdf used on input line 237.
+<use figures/SciDraw_YbSystematics.pdf>
+Package pdftex.def Info: figures/SciDraw_YbSystematics.pdf used on input line 2
+32.
 (pdftex.def)             Requested size: 564.63979pt x 345.60132pt.
 
 
-LaTeX Warning: Float too large for page by 61.2894pt on input line 241.
+LaTeX Warning: Float too large for page by 61.2894pt on input line 235.
 
-[35 <./SciDraw_YbSystematics.pdf>]
-<SciDraw_HfSystematics.pdf, id=1280, 1513.655pt x 926.46124pt>
-File: SciDraw_HfSystematics.pdf Graphic file (type pdf)
+[35 <./figures/SciDraw_YbSystematics.pdf>]
+<figures/SciDraw_HfSystematics.pdf, id=1286, 1513.655pt x 926.46124pt>
+File: figures/SciDraw_HfSystematics.pdf Graphic file (type pdf)
 
-<use SciDraw_HfSystematics.pdf>
-Package pdftex.def Info: SciDraw_HfSystematics.pdf used on input line 248.
+<use figures/SciDraw_HfSystematics.pdf>
+Package pdftex.def Info: figures/SciDraw_HfSystematics.pdf used on input line 2
+42.
 (pdftex.def)             Requested size: 564.63979pt x 345.60132pt.
 
 
-LaTeX Warning: Float too large for page by 61.2894pt on input line 252.
+LaTeX Warning: Float too large for page by 61.2894pt on input line 245.
 
-[36 <./SciDraw_HfSystematics.pdf>] [37
+[36 <./figures/SciDraw_HfSystematics.pdf>] [37
 
 
 
@@ -1029,105 +1051,104 @@ LaTeX Warning: Float too large for page by 61.2894pt on input line 252.
 
 
 ] [38]
-<SciDraw_Gd_Octupole_Systematics_FULL.pdf, id=1329, 1513.655pt x 926.46124pt>
-File: SciDraw_Gd_Octupole_Systematics_FULL.pdf Graphic file (type pdf)
-
-<use SciDraw_Gd_Octupole_Systematics_FULL.pdf>
-Package pdftex.def Info: SciDraw_Gd_Octupole_Systematics_FULL.pdf used on input
- line 275.
+<figures/SciDraw_Gd_Octupole_Systematics_FULL.pdf, id=1336, 1513.655pt x 926.46
+124pt>
+File: figures/SciDraw_Gd_Octupole_Systematics_FULL.pdf Graphic file (type pdf)
+ <use figures/SciDraw_Gd_Octupole_Systematics_FULL.pdf>
+Package pdftex.def Info: figures/SciDraw_Gd_Octupole_Systematics_FULL.pdf used 
+on input line 268.
 (pdftex.def)             Requested size: 564.63979pt x 345.60132pt.
 
 
-LaTeX Warning: Float too large for page by 15.43463pt on input line 279.
+LaTeX Warning: Float too large for page by 2.43463pt on input line 272.
 
-[39 <./SciDraw_Gd_Octupole_Systematics_FULL.pdf>]
-<SciDraw_DySystematics_Octupole.pdf, id=1351, 1513.655pt x 926.46124pt>
-File: SciDraw_DySystematics_Octupole.pdf Graphic file (type pdf)
-
-<use SciDraw_DySystematics_Octupole.pdf>
-Package pdftex.def Info: SciDraw_DySystematics_Octupole.pdf used on input line 
-285.
+[39 <./figures/SciDraw_Gd_Octupole_Systematics_FULL.pdf>]
+<figures/SciDraw_DySystematics_Octupole.pdf, id=1357, 1513.655pt x 926.46124pt>
+File: figures/SciDraw_DySystematics_Octupole.pdf Graphic file (type pdf)
+<use figures/SciDraw_DySystematics_Octupole.pdf>
+Package pdftex.def Info: figures/SciDraw_DySystematics_Octupole.pdf used on inp
+ut line 278.
 (pdftex.def)             Requested size: 564.63979pt x 345.60132pt.
 
 
-LaTeX Warning: Float too large for page by 27.93463pt on input line 289.
+LaTeX Warning: Float too large for page by 14.93463pt on input line 282.
 
-[40 <./SciDraw_DySystematics_Octupole.pdf>]
-
-LaTeX Warning: Reference `fig:SmSystematics,fig:GdSystematics,fig:DySystematics
-,fig:ErSystematics,fig:YbSystematics,fig:HfSystematics' on page 41 undefined on
- input line 294.
-
-[41
+[40 <./figures/SciDraw_DySystematics_Octupole.pdf>] [41
 
 
 
 
-] [42] <Multiphonon_RareEarths.pdf, id=1384, 1513.655pt x 926.46124pt>
-File: Multiphonon_RareEarths.pdf Graphic file (type pdf)
+] [42]
+<figures/Multiphonon_RareEarths.pdf, id=1392, 1513.655pt x 926.46124pt>
+File: figures/Multiphonon_RareEarths.pdf Graphic file (type pdf)
 
-<use Multiphonon_RareEarths.pdf>
-Package pdftex.def Info: Multiphonon_RareEarths.pdf used on input line 299.
+<use figures/Multiphonon_RareEarths.pdf>
+Package pdftex.def Info: figures/Multiphonon_RareEarths.pdf used on input line 
+292.
 (pdftex.def)             Requested size: 564.63979pt x 345.60132pt.
 
 
-LaTeX Warning: Float too large for page by 17.60132pt on input line 303.
+LaTeX Warning: Float too large for page by 17.60132pt on input line 296.
 
-[43 <./Multiphonon_RareEarths.pdf>] [44
+[43 <./figures/Multiphonon_RareEarths.pdf>] [44
 
 
 ]) [45]
 \openout2 = `Chapter2_Casarella.aux'.
 
- (./Chapter2_Casarella.tex
+
+(./Chapter2_Casarella.tex
 CHAPTER 2.
-Package epstopdf Info: Source file: <lifetimes-techniques-full.eps>
+Package epstopdf Info: Source file: <figures/lifetimes-techniques-full.eps>
 (epstopdf)                    date: 2016-04-27 14:08:08
 (epstopdf)                    size: 844818 bytes
-(epstopdf)             Output file: <lifetimes-techniques-full-eps-converted-to
-.pdf>
+(epstopdf)             Output file: <figures/lifetimes-techniques-full-eps-conv
+erted-to.pdf>
 (epstopdf)                    date: 2016-04-27 14:18:46
 (epstopdf)                    size: 209585 bytes
-(epstopdf)             Command: <repstopdf --outfile=lifetimes-techniques-full-
-eps-converted-to.pdf lifetimes-techniques-full.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/lifetimes-techniqu
+es-full-eps-converted-to.pdf figures/lifetimes-techniques-full.eps>
 (epstopdf)             \includegraphics on input line 12.
 Package epstopdf Info: Output file is already uptodate.
 
-<lifetimes-techniques-full-eps-converted-to.pdf, id=1413, 579.16376pt x 210.787
-5pt>
-File: lifetimes-techniques-full-eps-converted-to.pdf Graphic file (type pdf)
- <use lifetimes-techniques-full-eps-converted-to.pdf>
-Package pdftex.def Info: lifetimes-techniques-full-eps-converted-to.pdf used on
- input line 12.
+<figures/lifetimes-techniques-full-eps-converted-to.pdf, id=1421, 579.16376pt x
+ 210.7875pt>
+File: figures/lifetimes-techniques-full-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use figures/lifetimes-techniques-full-eps-converted-to.pdf>
+Package pdftex.def Info: figures/lifetimes-techniques-full-eps-converted-to.pdf
+ used on input line 12.
 (pdftex.def)             Requested size: 410.39868pt x 149.36426pt.
- [46
+
+[46
 
 
 
- <./lifetimes-techniques-full-eps-converted-to.pdf>] [47] [48]
-Package epstopdf Info: Source file: <spectra_shift_DSAM.eps>
-(epstopdf)                    date: 2016-06-09 15:51:45
-(epstopdf)                    size: 25322 bytes
-(epstopdf)             Output file: <spectra_shift_DSAM-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-09 15:51:48
-(epstopdf)                    size: 10092 bytes
-(epstopdf)             Command: <repstopdf --outfile=spectra_shift_DSAM-eps-con
-verted-to.pdf spectra_shift_DSAM.eps>
+ <./figures/lifetimes-techniques-full-eps-converted-to.pdf>] [47] [48]
+Package epstopdf Info: Source file: <figures/spectra_shift_DSAM.eps>
+(epstopdf)                    date: 2017-03-19 12:50:20
+(epstopdf)                    size: 25369 bytes
+(epstopdf)             Output file: <figures/spectra_shift_DSAM-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2017-03-29 18:38:12
+(epstopdf)                    size: 10033 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/spectra_shift_DSAM
+-eps-converted-to.pdf figures/spectra_shift_DSAM.eps>
 (epstopdf)             \includegraphics on input line 39.
 Package epstopdf Info: Output file is already uptodate.
 
-<spectra_shift_DSAM-eps-converted-to.pdf, id=1478, 361.35pt x 252.945pt>
-File: spectra_shift_DSAM-eps-converted-to.pdf Graphic file (type pdf)
-
-<use spectra_shift_DSAM-eps-converted-to.pdf>
-Package pdftex.def Info: spectra_shift_DSAM-eps-converted-to.pdf used on input 
-line 39.
+<figures/spectra_shift_DSAM-eps-converted-to.pdf, id=1487, 361.35pt x 252.945pt
+>
+File: figures/spectra_shift_DSAM-eps-converted-to.pdf Graphic file (type pdf)
+ <use figures/spectra_shift_DSAM-eps-converted-to.pdf>
+Package pdftex.def Info: figures/spectra_shift_DSAM-eps-converted-to.pdf used o
+n input line 39.
 (pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[49] [50 <./spectra_shift_DSAM-eps-converted-to.pdf>]
+[49] [50 <./figures/spectra_shift_DSAM-eps-converted-to.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 51.
@@ -1149,87 +1170,92 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 51.
 
 [51] [52]
-Package epstopdf Info: Source file: <SciDraw_ExpSetup_Dy.eps>
+Package epstopdf Info: Source file: <figures/SciDraw_ExpSetup_Dy.eps>
 (epstopdf)                    date: 2016-09-13 12:47:32
 (epstopdf)                    size: 2767346 bytes
-(epstopdf)             Output file: <SciDraw_ExpSetup_Dy-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/SciDraw_ExpSetup_Dy-eps-converted-
+to.pdf>
 (epstopdf)                    date: 2016-09-16 12:47:33
 (epstopdf)                    size: 14777 bytes
-(epstopdf)             Command: <repstopdf --outfile=SciDraw_ExpSetup_Dy-eps-co
-nverted-to.pdf SciDraw_ExpSetup_Dy.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/SciDraw_ExpSetup_D
+y-eps-converted-to.pdf figures/SciDraw_ExpSetup_Dy.eps>
 (epstopdf)             \includegraphics on input line 67.
 Package epstopdf Info: Output file is already uptodate.
 
-<SciDraw_ExpSetup_Dy-eps-converted-to.pdf, id=1520, 658.46pt x 508.90125pt>
-File: SciDraw_ExpSetup_Dy-eps-converted-to.pdf Graphic file (type pdf)
-
-<use SciDraw_ExpSetup_Dy-eps-converted-to.pdf>
-Package pdftex.def Info: SciDraw_ExpSetup_Dy-eps-converted-to.pdf used on input
- line 67.
+<figures/SciDraw_ExpSetup_Dy-eps-converted-to.pdf, id=1528, 658.46pt x 508.9012
+5pt>
+File: figures/SciDraw_ExpSetup_Dy-eps-converted-to.pdf Graphic file (type pdf)
+ <use figures/SciDraw_ExpSetup_Dy-eps-converted-to.pdf>
+Package pdftex.def Info: figures/SciDraw_ExpSetup_Dy-eps-converted-to.pdf used 
+on input line 67.
 (pdftex.def)             Requested size: 419.04053pt x 323.87086pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[53] [54 <./SciDraw_ExpSetup_Dy-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <TAC_spectrum.eps>
+[53] [54 <./figures/SciDraw_ExpSetup_Dy-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/TAC_spectrum.eps>
 (epstopdf)                    date: 2017-02-08 16:27:07
 (epstopdf)                    size: 129610 bytes
-(epstopdf)             Output file: <TAC_spectrum-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/TAC_spectrum-eps-converted-to.pdf>
+
 (epstopdf)                    date: 2017-02-08 16:41:23
 (epstopdf)                    size: 46650 bytes
-(epstopdf)             Command: <repstopdf --outfile=TAC_spectrum-eps-converted
--to.pdf TAC_spectrum.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/TAC_spectrum-eps-c
+onverted-to.pdf figures/TAC_spectrum.eps>
 (epstopdf)             \includegraphics on input line 79.
 Package epstopdf Info: Output file is already uptodate.
 
-<TAC_spectrum-eps-converted-to.pdf, id=1550, 361.35pt x 252.945pt>
-File: TAC_spectrum-eps-converted-to.pdf Graphic file (type pdf)
+<figures/TAC_spectrum-eps-converted-to.pdf, id=1558, 361.35pt x 252.945pt>
+File: figures/TAC_spectrum-eps-converted-to.pdf Graphic file (type pdf)
 
-<use TAC_spectrum-eps-converted-to.pdf>
-Package pdftex.def Info: TAC_spectrum-eps-converted-to.pdf used on input line 7
-9.
+<use figures/TAC_spectrum-eps-converted-to.pdf>
+Package pdftex.def Info: figures/TAC_spectrum-eps-converted-to.pdf used on inpu
+t line 79.
 (pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[55] [56 <./TAC_spectrum-eps-converted-to.pdf>] [57]
-Package epstopdf Info: Source file: <matching_exf.eps>
+[55] [56 <./figures/TAC_spectrum-eps-converted-to.pdf>] [57]
+Package epstopdf Info: Source file: <figures/matching_exf.eps>
 (epstopdf)                    date: 2017-01-11 19:17:41
 (epstopdf)                    size: 27041 bytes
-(epstopdf)             Output file: <matching_exf-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/matching_exf-eps-converted-to.pdf>
+
 (epstopdf)                    date: 2017-01-12 14:01:49
 (epstopdf)                    size: 11552 bytes
-(epstopdf)             Command: <repstopdf --outfile=matching_exf-eps-converted
--to.pdf matching_exf.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/matching_exf-eps-c
+onverted-to.pdf figures/matching_exf.eps>
 (epstopdf)             \includegraphics on input line 92.
 Package epstopdf Info: Output file is already uptodate.
 
-<matching_exf-eps-converted-to.pdf, id=1573, 361.35pt x 252.945pt>
-File: matching_exf-eps-converted-to.pdf Graphic file (type pdf)
+<figures/matching_exf-eps-converted-to.pdf, id=1581, 361.35pt x 252.945pt>
+File: figures/matching_exf-eps-converted-to.pdf Graphic file (type pdf)
 
-<use matching_exf-eps-converted-to.pdf>
-Package pdftex.def Info: matching_exf-eps-converted-to.pdf used on input line 9
-2.
+<use figures/matching_exf-eps-converted-to.pdf>
+Package pdftex.def Info: figures/matching_exf-eps-converted-to.pdf used on inpu
+t line 92.
 (pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
- [58 <./matching_exf-eps-converted-to.pdf>] [59]
-Package epstopdf Info: Source file: <multipole_diff.eps>
+ [58 <./figures/matching_exf-eps-converted-to.pdf>] [59]
+Package epstopdf Info: Source file: <figures/multipole_diff.eps>
 (epstopdf)                    date: 2016-09-16 13:17:08
 (epstopdf)                    size: 26956 bytes
-(epstopdf)             Output file: <multipole_diff-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/multipole_diff-eps-converted-to.pd
+f>
 (epstopdf)                    date: 2016-09-16 13:17:15
 (epstopdf)                    size: 11984 bytes
-(epstopdf)             Command: <repstopdf --outfile=multipole_diff-eps-convert
-ed-to.pdf multipole_diff.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/multipole_diff-eps
+-converted-to.pdf figures/multipole_diff.eps>
 (epstopdf)             \includegraphics on input line 118.
 Package epstopdf Info: Output file is already uptodate.
- <multipole_diff-eps-converted-to.pdf, id=1594, 722.7pt x 252.945pt>
-File: multipole_diff-eps-converted-to.pdf Graphic file (type pdf)
 
-<use multipole_diff-eps-converted-to.pdf>
-Package pdftex.def Info: multipole_diff-eps-converted-to.pdf used on input line
- 118.
+<figures/multipole_diff-eps-converted-to.pdf, id=1602, 722.7pt x 252.945pt>
+File: figures/multipole_diff-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/multipole_diff-eps-converted-to.pdf>
+Package pdftex.def Info: figures/multipole_diff-eps-converted-to.pdf used on in
+put line 118.
 (pdftex.def)             Requested size: 419.04053pt x 146.66574pt.
 
 
@@ -1248,7 +1274,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 128.
 
-[61 <./multipole_diff-eps-converted-to.pdf>]
+[61 <./figures/multipole_diff-eps-converted-to.pdf>]
 Overfull \hbox (22.33585pt too wide) in paragraph at lines 155--164
  [][] 
  []
@@ -1269,27 +1295,29 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 171.
 
 [62] [63]
-Package epstopdf Info: Source file: <SciDraw_angular_distributions.eps>
+Package epstopdf Info: Source file: <figures/SciDraw_angular_distributions.eps>
+
 (epstopdf)                    date: 2016-10-11 15:22:58
 (epstopdf)                    size: 2692925 bytes
-(epstopdf)             Output file: <SciDraw_angular_distributions-eps-converte
-d-to.pdf>
+(epstopdf)             Output file: <figures/SciDraw_angular_distributions-eps-
+converted-to.pdf>
 (epstopdf)                    date: 2016-10-11 15:30:33
 (epstopdf)                    size: 11149 bytes
-(epstopdf)             Command: <repstopdf --outfile=SciDraw_angular_distributi
-ons-eps-converted-to.pdf SciDraw_angular_distributions.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/SciDraw_angular_di
+stributions-eps-converted-to.pdf figures/SciDraw_angular_distributions.eps>
 (epstopdf)             \includegraphics on input line 213.
 Package epstopdf Info: Output file is already uptodate.
 
-<SciDraw_angular_distributions-eps-converted-to.pdf, id=1628, 658.46pt x 508.90
-125pt>
-File: SciDraw_angular_distributions-eps-converted-to.pdf Graphic file (type pdf
-)
- <use SciDraw_angular_distributions-eps-converted-to.pdf>
-Package pdftex.def Info: SciDraw_angular_distributions-eps-converted-to.pdf use
-d on input line 213.
+<figures/SciDraw_angular_distributions-eps-converted-to.pdf, id=1636, 658.46pt 
+x 508.90125pt>
+File: figures/SciDraw_angular_distributions-eps-converted-to.pdf Graphic file (
+type pdf)
+
+<use figures/SciDraw_angular_distributions-eps-converted-to.pdf>
+Package pdftex.def Info: figures/SciDraw_angular_distributions-eps-converted-to
+.pdf used on input line 213.
 (pdftex.def)             Requested size: 410.39868pt x 317.1928pt.
-) [64 <./SciDraw_angular_distributions-eps-converted-to.pdf>] [65] [66]
+) [64 <./figures/SciDraw_angular_distributions-eps-converted-to.pdf>] [65] [66]
 \openout2 = `Chapter3_Casarella.aux'.
 
 
@@ -1299,244 +1327,255 @@ CHAPTER 3.
 
 
 
-] [68] [69] <calibration_226Ra.png, id=1672, 1304.875pt x 964.60374pt>
-File: calibration_226Ra.png Graphic file (type png)
+] [68] [69]
+<figures/calibration_226Ra.png, id=1681, 1304.875pt x 964.60374pt>
+File: figures/calibration_226Ra.png Graphic file (type png)
 
-<use calibration_226Ra.png>
-Package pdftex.def Info: calibration_226Ra.png used on input line 43.
+<use figures/calibration_226Ra.png>
+Package pdftex.def Info: figures/calibration_226Ra.png used on input line 43.
 (pdftex.def)             Requested size: 410.39868pt x 303.38078pt.
  [70
 
 
- <./calibration_226Ra.png>] [71]
-Package epstopdf Info: Source file: <310_energy_calib.eps>
+ <./figures/calibration_226Ra.png>]
+[71]
+Package epstopdf Info: Source file: <figures/310_energy_calib.eps>
 (epstopdf)                    date: 2016-04-21 10:58:31
 (epstopdf)                    size: 24623 bytes
-(epstopdf)             Output file: <310_energy_calib-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/310_energy_calib-eps-converted-to.
+pdf>
 (epstopdf)                    date: 2016-04-21 10:58:41
 (epstopdf)                    size: 9746 bytes
-(epstopdf)             Command: <repstopdf --outfile=310_energy_calib-eps-conve
-rted-to.pdf 310_energy_calib.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/310_energy_calib-e
+ps-converted-to.pdf figures/310_energy_calib.eps>
 (epstopdf)             \includegraphics on input line 95.
 Package epstopdf Info: Output file is already uptodate.
 
-<310_energy_calib-eps-converted-to.pdf, id=1683, 361.35pt x 252.945pt>
-File: 310_energy_calib-eps-converted-to.pdf Graphic file (type pdf)
+<figures/310_energy_calib-eps-converted-to.pdf, id=1692, 361.35pt x 252.945pt>
+File: figures/310_energy_calib-eps-converted-to.pdf Graphic file (type pdf)
 
-<use 310_energy_calib-eps-converted-to.pdf>
-Package pdftex.def Info: 310_energy_calib-eps-converted-to.pdf used on input li
-ne 95.
+<use figures/310_energy_calib-eps-converted-to.pdf>
+Package pdftex.def Info: figures/310_energy_calib-eps-converted-to.pdf used on 
+input line 95.
 (pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
  [72
 
 
- <./310_energy_calib-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <310_dsnonlin_color.eps>
+ <./figures/310_energy_calib-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/310_dsnonlin_color.eps>
 (epstopdf)                    date: 2016-04-14 11:02:52
 (epstopdf)                    size: 30310 bytes
-(epstopdf)             Output file: <310_dsnonlin_color-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/310_dsnonlin_color-eps-converted-t
+o.pdf>
 (epstopdf)                    date: 2016-04-14 14:13:11
 (epstopdf)                    size: 16583 bytes
-(epstopdf)             Command: <repstopdf --outfile=310_dsnonlin_color-eps-con
-verted-to.pdf 310_dsnonlin_color.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/310_dsnonlin_color
+-eps-converted-to.pdf figures/310_dsnonlin_color.eps>
 (epstopdf)             \includegraphics on input line 108.
 Package epstopdf Info: Output file is already uptodate.
 
-<310_dsnonlin_color-eps-converted-to.pdf, id=1700, 361.35pt x 252.945pt>
-File: 310_dsnonlin_color-eps-converted-to.pdf Graphic file (type pdf)
-
-<use 310_dsnonlin_color-eps-converted-to.pdf>
-Package pdftex.def Info: 310_dsnonlin_color-eps-converted-to.pdf used on input 
-line 108.
+<figures/310_dsnonlin_color-eps-converted-to.pdf, id=1709, 361.35pt x 252.945pt
+>
+File: figures/310_dsnonlin_color-eps-converted-to.pdf Graphic file (type pdf)
+ <use figures/310_dsnonlin_color-eps-converted-to.pdf>
+Package pdftex.def Info: figures/310_dsnonlin_color-eps-converted-to.pdf used o
+n input line 108.
 (pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
  [73]
-Package epstopdf Info: Source file: <310_polyfit_color.eps>
+Package epstopdf Info: Source file: <figures/310_polyfit_color.eps>
 (epstopdf)                    date: 2016-10-05 10:54:35
 (epstopdf)                    size: 25468 bytes
-(epstopdf)             Output file: <310_polyfit_color-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/310_polyfit_color-eps-converted-to
+.pdf>
 (epstopdf)                    date: 2016-10-05 10:54:40
 (epstopdf)                    size: 11213 bytes
-(epstopdf)             Command: <repstopdf --outfile=310_polyfit_color-eps-conv
-erted-to.pdf 310_polyfit_color.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/310_polyfit_color-
+eps-converted-to.pdf figures/310_polyfit_color.eps>
 (epstopdf)             \includegraphics on input line 119.
 Package epstopdf Info: Output file is already uptodate.
 
-<310_polyfit_color-eps-converted-to.pdf, id=1707, 361.35pt x 252.945pt>
-File: 310_polyfit_color-eps-converted-to.pdf Graphic file (type pdf)
-
-<use 310_polyfit_color-eps-converted-to.pdf>
-Package pdftex.def Info: 310_polyfit_color-eps-converted-to.pdf used on input l
-ine 119.
+<figures/310_polyfit_color-eps-converted-to.pdf, id=1716, 361.35pt x 252.945pt>
+File: figures/310_polyfit_color-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/310_polyfit_color-eps-converted-to.pdf>
+Package pdftex.def Info: figures/310_polyfit_color-eps-converted-to.pdf used on
+ input line 119.
 (pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
- [74 <./310_dsnonlin_color-eps-converted-to.pdf>] [75 <./310_polyfit_color-eps-
-converted-to.pdf>]
-Package epstopdf Info: Source file: <gambit.eps>
+ [74 <./figures/310_dsnonlin_color-eps-converted-to.pdf>] [75 <./figures/310_po
+lyfit_color-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/gambit.eps>
 (epstopdf)                    date: 2016-09-16 14:08:34
 (epstopdf)                    size: 24273 bytes
-(epstopdf)             Output file: <gambit-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/gambit-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-09-16 14:08:43
 (epstopdf)                    size: 12720 bytes
-(epstopdf)             Command: <repstopdf --outfile=gambit-eps-converted-to.pd
-f gambit.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/gambit-eps-convert
+ed-to.pdf figures/gambit.eps>
 (epstopdf)             \includegraphics on input line 130.
 Package epstopdf Info: Output file is already uptodate.
+ <figures/gambit-eps-converted-to.pdf, id=1752, 361.35pt x 252.945pt>
+File: figures/gambit-eps-converted-to.pdf Graphic file (type pdf)
 
-<gambit-eps-converted-to.pdf, id=1743, 361.35pt x 252.945pt>
-File: gambit-eps-converted-to.pdf Graphic file (type pdf)
-
-<use gambit-eps-converted-to.pdf>
-Package pdftex.def Info: gambit-eps-converted-to.pdf used on input line 130.
+<use figures/gambit-eps-converted-to.pdf>
+Package pdftex.def Info: figures/gambit-eps-converted-to.pdf used on input line
+ 130.
 (pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
- [76 <./gambit-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <samplespec.eps>
+ [76 <./figures/gambit-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/samplespec.eps>
 (epstopdf)                    date: 2016-04-12 15:34:27
 (epstopdf)                    size: 113434 bytes
-(epstopdf)             Output file: <samplespec-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/samplespec-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-04-12 15:36:26
 (epstopdf)                    size: 50682 bytes
-(epstopdf)             Command: <repstopdf --outfile=samplespec-eps-converted-t
-o.pdf samplespec.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/samplespec-eps-con
+verted-to.pdf figures/samplespec.eps>
 (epstopdf)             \includegraphics on input line 142.
 Package epstopdf Info: Output file is already uptodate.
+ <figures/samplespec-eps-converted-to.pdf, id=1768, 722.7pt x 505.89pt>
+File: figures/samplespec-eps-converted-to.pdf Graphic file (type pdf)
 
-<samplespec-eps-converted-to.pdf, id=1759, 722.7pt x 505.89pt>
-File: samplespec-eps-converted-to.pdf Graphic file (type pdf)
-
-<use samplespec-eps-converted-to.pdf>
-Package pdftex.def Info: samplespec-eps-converted-to.pdf used on input line 142
-.
+<use figures/samplespec-eps-converted-to.pdf>
+Package pdftex.def Info: figures/samplespec-eps-converted-to.pdf used on input 
+line 142.
 (pdftex.def)             Requested size: 410.39868pt x 287.27959pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[77] [78 <./samplespec-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <sample_exf.eps>
+[77] [78 <./figures/samplespec-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/sample_exf.eps>
 (epstopdf)                    date: 2016-07-07 12:59:10
 (epstopdf)                    size: 28978 bytes
-(epstopdf)             Output file: <sample_exf-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/sample_exf-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-07-07 13:06:32
 (epstopdf)                    size: 12564 bytes
-(epstopdf)             Command: <repstopdf --outfile=sample_exf-eps-converted-t
-o.pdf sample_exf.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/sample_exf-eps-con
+verted-to.pdf figures/sample_exf.eps>
 (epstopdf)             \includegraphics on input line 164.
 Package epstopdf Info: Output file is already uptodate.
 
-<sample_exf-eps-converted-to.pdf, id=1787, 722.7pt x 252.945pt>
-File: sample_exf-eps-converted-to.pdf Graphic file (type pdf)
+<figures/sample_exf-eps-converted-to.pdf, id=1796, 722.7pt x 252.945pt>
+File: figures/sample_exf-eps-converted-to.pdf Graphic file (type pdf)
 
-<use sample_exf-eps-converted-to.pdf>
-Package pdftex.def Info: sample_exf-eps-converted-to.pdf used on input line 164
-.
+<use figures/sample_exf-eps-converted-to.pdf>
+Package pdftex.def Info: figures/sample_exf-eps-converted-to.pdf used on input 
+line 164.
 (pdftex.def)             Requested size: 419.04053pt x 146.66574pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [79]
-Package epstopdf Info: Source file: <ExF_difference_140_230.eps>
+Package epstopdf Info: Source file: <figures/ExF_difference_140_230.eps>
 (epstopdf)                    date: 2016-10-11 13:07:03
 (epstopdf)                    size: 29732 bytes
-(epstopdf)             Output file: <ExF_difference_140_230-eps-converted-to.pd
-f>
+(epstopdf)             Output file: <figures/ExF_difference_140_230-eps-convert
+ed-to.pdf>
 (epstopdf)                    date: 2016-10-11 13:55:48
 (epstopdf)                    size: 10621 bytes
-(epstopdf)             Command: <repstopdf --outfile=ExF_difference_140_230-eps
--converted-to.pdf ExF_difference_140_230.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/ExF_difference_140
+_230-eps-converted-to.pdf figures/ExF_difference_140_230.eps>
 (epstopdf)             \includegraphics on input line 176.
 Package epstopdf Info: Output file is already uptodate.
 
-<ExF_difference_140_230-eps-converted-to.pdf, id=1793, 361.35pt x 252.945pt>
-File: ExF_difference_140_230-eps-converted-to.pdf Graphic file (type pdf)
-
-<use ExF_difference_140_230-eps-converted-to.pdf>
-Package pdftex.def Info: ExF_difference_140_230-eps-converted-to.pdf used on in
-put line 176.
+<figures/ExF_difference_140_230-eps-converted-to.pdf, id=1802, 361.35pt x 252.9
+45pt>
+File: figures/ExF_difference_140_230-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use figures/ExF_difference_140_230-eps-converted-to.pdf>
+Package pdftex.def Info: figures/ExF_difference_140_230-eps-converted-to.pdf us
+ed on input line 176.
 (pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[80 <./sample_exf-eps-converted-to.pdf>] [81 <./ExF_difference_140_230-eps-conv
-erted-to.pdf>]
-Package epstopdf Info: Source file: <ftau_all.eps>
+[80 <./figures/sample_exf-eps-converted-to.pdf>] [81 <./figures/ExF_difference_
+140_230-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/ftau_all.eps>
 (epstopdf)                    date: 2016-04-21 13:30:47
 (epstopdf)                    size: 25288 bytes
-(epstopdf)             Output file: <ftau_all-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/ftau_all-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-04-21 13:30:50
 (epstopdf)                    size: 8827 bytes
-(epstopdf)             Command: <repstopdf --outfile=ftau_all-eps-converted-to.
-pdf ftau_all.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/ftau_all-eps-conve
+rted-to.pdf figures/ftau_all.eps>
 (epstopdf)             \includegraphics on input line 193.
 Package epstopdf Info: Output file is already uptodate.
- <ftau_all-eps-converted-to.pdf, id=1823, 361.35pt x 252.945pt>
-File: ftau_all-eps-converted-to.pdf Graphic file (type pdf)
 
-<use ftau_all-eps-converted-to.pdf>
-Package pdftex.def Info: ftau_all-eps-converted-to.pdf used on input line 193.
+<figures/ftau_all-eps-converted-to.pdf, id=1832, 361.35pt x 252.945pt>
+File: figures/ftau_all-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/ftau_all-eps-converted-to.pdf>
+Package pdftex.def Info: figures/ftau_all-eps-converted-to.pdf used on input li
+ne 193.
 (pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
- [82] [83 <./ftau_all-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <DSAM_example.eps>
+ [82] [83 <./figures/ftau_all-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/DSAM_example.eps>
 (epstopdf)                    date: 2016-04-16 22:22:20
 (epstopdf)                    size: 23046 bytes
-(epstopdf)             Output file: <DSAM_example-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/DSAM_example-eps-converted-to.pdf>
+
 (epstopdf)                    date: 2016-04-16 22:22:26
 (epstopdf)                    size: 9571 bytes
-(epstopdf)             Command: <repstopdf --outfile=DSAM_example-eps-converted
--to.pdf DSAM_example.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/DSAM_example-eps-c
+onverted-to.pdf figures/DSAM_example.eps>
 (epstopdf)             \includegraphics on input line 207.
 Package epstopdf Info: Output file is already uptodate.
-<DSAM_example-eps-converted-to.pdf, id=1846, 361.35pt x 252.945pt>
-File: DSAM_example-eps-converted-to.pdf Graphic file (type pdf)
 
-<use DSAM_example-eps-converted-to.pdf>
-Package pdftex.def Info: DSAM_example-eps-converted-to.pdf used on input line 2
-07.
+<figures/DSAM_example-eps-converted-to.pdf, id=1856, 361.35pt x 252.945pt>
+File: figures/DSAM_example-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/DSAM_example-eps-converted-to.pdf>
+Package pdftex.def Info: figures/DSAM_example-eps-converted-to.pdf used on inpu
+t line 207.
 (pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
- [84 <./DSAM_example-eps-converted-to.pdf>] [85] <1308_AD_fit.png, id=1878, 458
-.71375pt x 399.4925pt>
-File: 1308_AD_fit.png Graphic file (type png)
+ [84 <./figures/DSAM_example-eps-converted-to.pdf>] [85]
+<figures/1308_AD_fit.png, id=1887, 458.71375pt x 399.4925pt>
+File: figures/1308_AD_fit.png Graphic file (type png)
 
-<use 1308_AD_fit.png>
-Package pdftex.def Info: 1308_AD_fit.png used on input line 219.
+<use figures/1308_AD_fit.png>
+Package pdftex.def Info: figures/1308_AD_fit.png used on input line 219.
 (pdftex.def)             Requested size: 186.01602pt x 162.0pt.
- <1308_AD_chisq_fit.png, id=1879, 517.935pt x 397.485pt>
-File: 1308_AD_chisq_fit.png Graphic file (type png)
 
-<use 1308_AD_chisq_fit.png>
-Package pdftex.def Info: 1308_AD_chisq_fit.png used on input line 220.
+<figures/1308_AD_chisq_fit.png, id=1888, 517.935pt x 397.485pt>
+File: figures/1308_AD_chisq_fit.png Graphic file (type png)
+
+<use figures/1308_AD_chisq_fit.png>
+Package pdftex.def Info: figures/1308_AD_chisq_fit.png used on input line 220.
 (pdftex.def)             Requested size: 211.09813pt x 162.0pt.
 
-<1308_AD_delta_chi.png, id=1880, 462.72874pt x 358.33875pt>
-File: 1308_AD_delta_chi.png Graphic file (type png)
+<figures/1308_AD_delta_chi.png, id=1889, 462.72874pt x 358.33875pt>
+File: figures/1308_AD_delta_chi.png Graphic file (type png)
 
-<use 1308_AD_delta_chi.png>
-Package pdftex.def Info: 1308_AD_delta_chi.png used on input line 221.
+<use figures/1308_AD_delta_chi.png>
+Package pdftex.def Info: figures/1308_AD_delta_chi.png used on input line 221.
 (pdftex.def)             Requested size: 315.35815pt x 244.2139pt.
-) [86] [87] [88 <./1308_AD_fit.png> <./1308_AD_chisq_fit.png> <./1308_AD_delta_
-chi.png>]
+) [86] [87] [88 <./figures/1308_AD_fit.png> <./figures/1308_AD_chisq_fit.png> <
+./figures/1308_AD_delta_chi.png>]
 \openout2 = `Chapter_Results.aux'.
 
- (./Chapter_Results.tex
+
+(./Chapter_Results.tex
 CHAPTER 4.
-Package epstopdf Info: Source file: <lifetime_inflation_example.eps>
+Package epstopdf Info: Source file: <figures/lifetime_inflation_example.eps>
 (epstopdf)                    date: 2016-06-20 13:00:24
 (epstopdf)                    size: 22506 bytes
-(epstopdf)             Output file: <lifetime_inflation_example-eps-converted-t
-o.pdf>
+(epstopdf)             Output file: <figures/lifetime_inflation_example-eps-con
+verted-to.pdf>
 (epstopdf)                    date: 2016-06-20 13:07:45
 (epstopdf)                    size: 8123 bytes
-(epstopdf)             Command: <repstopdf --outfile=lifetime_inflation_example
--eps-converted-to.pdf lifetime_inflation_example.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/lifetime_inflation
+_example-eps-converted-to.pdf figures/lifetime_inflation_example.eps>
 (epstopdf)             \includegraphics on input line 6.
 Package epstopdf Info: Output file is already uptodate.
 
-<lifetime_inflation_example-eps-converted-to.pdf, id=1900, 361.35pt x 252.945pt
->
-File: lifetime_inflation_example-eps-converted-to.pdf Graphic file (type pdf)
- <use lifetime_inflation_example-eps-converted-to.pdf>
-Package pdftex.def Info: lifetime_inflation_example-eps-converted-to.pdf used o
-n input line 6.
+<figures/lifetime_inflation_example-eps-converted-to.pdf, id=1909, 361.35pt x 2
+52.945pt>
+File: figures/lifetime_inflation_example-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use figures/lifetime_inflation_example-eps-converted-to.pdf>
+Package pdftex.def Info: figures/lifetime_inflation_example-eps-converted-to.pd
+f used on input line 6.
 (pdftex.def)             Requested size: 367.20264pt x 257.04329pt.
 
 
@@ -1559,11 +1598,12 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 13.
 
-[90 <./lifetime_inflation_example-eps-converted-to.pdf>] [91]
-<160Gd_All.pdf, id=1927, 2254.4225pt x 1171.37625pt>
-File: 160Gd_All.pdf Graphic file (type pdf)
- <use 160Gd_All.pdf>
-Package pdftex.def Info: 160Gd_All.pdf used on input line 19.
+[90 <./figures/lifetime_inflation_example-eps-converted-to.pdf>] [91]
+<figures/160Gd_All.pdf, id=1936, 2254.4225pt x 1171.37625pt>
+File: figures/160Gd_All.pdf Graphic file (type pdf)
+
+<use figures/160Gd_All.pdf>
+Package pdftex.def Info: figures/160Gd_All.pdf used on input line 19.
 (pdftex.def)             Requested size: 706.7069pt x 367.20264pt.
 
 Overfull \hbox (58.7069pt too wide) in paragraph at lines 19--21
@@ -1576,24 +1616,25 @@ LaTeX Warning: Float too large for page by 26.04622pt on input line 22.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[92 <./160Gd_All.pdf>]
-Package epstopdf Info: Source file: <160Gd_viz_lifetimes.eps>
+[92 <./figures/160Gd_All.pdf>]
+Package epstopdf Info: Source file: <figures/160Gd_viz_lifetimes.eps>
 (epstopdf)                    date: 2016-09-21 10:13:36
 (epstopdf)                    size: 25137 bytes
-(epstopdf)             Output file: <160Gd_viz_lifetimes-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/160Gd_viz_lifetimes-eps-converted-
+to.pdf>
 (epstopdf)                    date: 2016-09-21 10:55:05
 (epstopdf)                    size: 9739 bytes
-(epstopdf)             Command: <repstopdf --outfile=160Gd_viz_lifetimes-eps-co
-nverted-to.pdf 160Gd_viz_lifetimes.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/160Gd_viz_lifetime
+s-eps-converted-to.pdf figures/160Gd_viz_lifetimes.eps>
 (epstopdf)             \includegraphics on input line 30.
 Package epstopdf Info: Output file is already uptodate.
 
-<160Gd_viz_lifetimes-eps-converted-to.pdf, id=1954, 722.7pt x 252.945pt>
-File: 160Gd_viz_lifetimes-eps-converted-to.pdf Graphic file (type pdf)
-
-<use 160Gd_viz_lifetimes-eps-converted-to.pdf>
-Package pdftex.def Info: 160Gd_viz_lifetimes-eps-converted-to.pdf used on input
- line 30.
+<figures/160Gd_viz_lifetimes-eps-converted-to.pdf, id=1963, 722.7pt x 252.945pt
+>
+File: figures/160Gd_viz_lifetimes-eps-converted-to.pdf Graphic file (type pdf)
+ <use figures/160Gd_viz_lifetimes-eps-converted-to.pdf>
+Package pdftex.def Info: figures/160Gd_viz_lifetimes-eps-converted-to.pdf used 
+on input line 30.
 (pdftex.def)             Requested size: 410.39868pt x 143.6398pt.
 
 Overfull \hbox (18.9661pt too wide) in paragraph at lines 35--36
@@ -1601,22 +1642,24 @@ Overfull \hbox (18.9661pt too wide) in paragraph at lines 35--36
 ingles-spectrum for $[]$Gd(n,n$[]\OML/cmm/m/it/12 ^^M$\OT1/cmr/m/n/12 )
  []
 
-Package epstopdf Info: Source file: <160Gd_200_spectra.eps>
+Package epstopdf Info: Source file: <figures/160Gd_200_spectra.eps>
 (epstopdf)                    date: 2016-10-17 09:08:54
 (epstopdf)                    size: 243104 bytes
-(epstopdf)             Output file: <160Gd_200_spectra-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/160Gd_200_spectra-eps-converted-to
+.pdf>
 (epstopdf)                    date: 2016-10-17 09:10:09
 (epstopdf)                    size: 106899 bytes
-(epstopdf)             Command: <repstopdf --outfile=160Gd_200_spectra-eps-conv
-erted-to.pdf 160Gd_200_spectra.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/160Gd_200_spectra-
+eps-converted-to.pdf figures/160Gd_200_spectra.eps>
 (epstopdf)             \includegraphics on input line 39.
 Package epstopdf Info: Output file is already uptodate.
-<160Gd_200_spectra-eps-converted-to.pdf, id=1956, 4336.2pt x 2890.8pt>
-File: 160Gd_200_spectra-eps-converted-to.pdf Graphic file (type pdf)
 
-<use 160Gd_200_spectra-eps-converted-to.pdf>
-Package pdftex.def Info: 160Gd_200_spectra-eps-converted-to.pdf used on input l
-ine 39.
+<figures/160Gd_200_spectra-eps-converted-to.pdf, id=1965, 4336.2pt x 2890.8pt>
+File: figures/160Gd_200_spectra-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/160Gd_200_spectra-eps-converted-to.pdf>
+Package pdftex.def Info: figures/160Gd_200_spectra-eps-converted-to.pdf used on
+ input line 39.
 (pdftex.def)             Requested size: 410.39868pt x 273.57022pt.
 
 
@@ -1637,8 +1680,8 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [93
 
 
- <./160Gd_viz_lifetimes-eps-converted-to.pdf>] [94 <./160Gd_200_spectra-eps-con
-verted-to.pdf>]
+ <./figures/160Gd_viz_lifetimes-eps-converted-to.pdf>] [94 <./figures/160Gd_200
+_spectra-eps-converted-to.pdf>]
 
 LaTeX Warning: Float too large for page by 19.27795pt on input line 79.
 
@@ -1725,11 +1768,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [102
 
 
-] <162Dy_All.pdf, id=2047, 1908.12875pt x 1161.33875pt>
-File: 162Dy_All.pdf Graphic file (type pdf)
+] <figures/162Dy_All.pdf, id=2056, 1908.12875pt x 1161.33875pt>
+File: figures/162Dy_All.pdf Graphic file (type pdf)
 
-<use 162Dy_All.pdf>
-Package pdftex.def Info: 162Dy_All.pdf used on input line 14.
+<use figures/162Dy_All.pdf>
+Package pdftex.def Info: figures/162Dy_All.pdf used on input line 14.
 (pdftex.def)             Requested size: 567.84277pt x 345.60132pt.
 
 
@@ -1738,7 +1781,7 @@ LaTeX Warning: Float too large for page by 32.61159pt on input line 18.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[103 <./162Dy_All.pdf>]
+[103 <./figures/162Dy_All.pdf>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1746,28 +1789,24 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 ] [105]
-Package epstopdf Info: Source file: <../Dissertation_Casarella/162Dy_viz_lifeti
-mes.eps>
+Package epstopdf Info: Source file: <figures/162Dy_viz_lifetimes.eps>
 (epstopdf)                    date: 2016-08-29 09:40:24
 (epstopdf)                    size: 27906 bytes
-(epstopdf)             Output file: <../Dissertation_Casarella/162Dy_viz_lifeti
-mes-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/162Dy_viz_lifetimes-eps-converted-
+to.pdf>
 (epstopdf)                    date: 2016-08-29 09:52:56
 (epstopdf)                    size: 11542 bytes
-(epstopdf)             Command: <repstopdf --outfile=../Dissertation_Casarella/
-162Dy_viz_lifetimes-eps-converted-to.pdf ../Dissertation_Casarella/162Dy_viz_li
-fetimes.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/162Dy_viz_lifetime
+s-eps-converted-to.pdf figures/162Dy_viz_lifetimes.eps>
 (epstopdf)             \includegraphics on input line 67.
 Package epstopdf Info: Output file is already uptodate.
 
-<../Dissertation_Casarella/162Dy_viz_lifetimes-eps-converted-to.pdf, id=2094, 7
-22.7pt x 252.945pt>
-File: ../Dissertation_Casarella/162Dy_viz_lifetimes-eps-converted-to.pdf Graphi
-c file (type pdf)
-
-<use ../Dissertation_Casarella/162Dy_viz_lifetimes-eps-converted-to.pdf>
-Package pdftex.def Info: ../Dissertation_Casarella/162Dy_viz_lifetimes-eps-conv
-erted-to.pdf used on input line 67.
+<figures/162Dy_viz_lifetimes-eps-converted-to.pdf, id=2103, 722.7pt x 252.945pt
+>
+File: figures/162Dy_viz_lifetimes-eps-converted-to.pdf Graphic file (type pdf)
+ <use figures/162Dy_viz_lifetimes-eps-converted-to.pdf>
+Package pdftex.def Info: figures/162Dy_viz_lifetimes-eps-converted-to.pdf used 
+on input line 67.
 (pdftex.def)             Requested size: 431.56494pt x 151.04642pt.
 
 Overfull \hbox (18.39388pt too wide) in paragraph at lines 72--73
@@ -1775,23 +1814,25 @@ Overfull \hbox (18.39388pt too wide) in paragraph at lines 72--73
 ingles-spectrum for $[]$Dy(n,n$[]\OML/cmm/m/it/12 ^^M$\OT1/cmr/m/n/12 )
  []
 
-Package epstopdf Info: Source file: <sample_spec_stacked_220.eps>
+Package epstopdf Info: Source file: <figures/sample_spec_stacked_220.eps>
 (epstopdf)                    date: 2016-10-17 09:11:24
 (epstopdf)                    size: 212865 bytes
-(epstopdf)             Output file: <sample_spec_stacked_220-eps-converted-to.p
-df>
+(epstopdf)             Output file: <figures/sample_spec_stacked_220-eps-conver
+ted-to.pdf>
 (epstopdf)                    date: 2016-10-17 09:15:06
 (epstopdf)                    size: 97955 bytes
-(epstopdf)             Command: <repstopdf --outfile=sample_spec_stacked_220-ep
-s-converted-to.pdf sample_spec_stacked_220.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/sample_spec_stacke
+d_220-eps-converted-to.pdf figures/sample_spec_stacked_220.eps>
 (epstopdf)             \includegraphics on input line 76.
 Package epstopdf Info: Output file is already uptodate.
-<sample_spec_stacked_220-eps-converted-to.pdf, id=2096, 4336.2pt x 2890.8pt>
-File: sample_spec_stacked_220-eps-converted-to.pdf Graphic file (type pdf)
 
-<use sample_spec_stacked_220-eps-converted-to.pdf>
-Package pdftex.def Info: sample_spec_stacked_220-eps-converted-to.pdf used on i
-nput line 76.
+<figures/sample_spec_stacked_220-eps-converted-to.pdf, id=2105, 4336.2pt x 2890
+.8pt>
+File: figures/sample_spec_stacked_220-eps-converted-to.pdf Graphic file (type p
+df)
+ <use figures/sample_spec_stacked_220-eps-converted-to.pdf>
+Package pdftex.def Info: figures/sample_spec_stacked_220-eps-converted-to.pdf u
+sed on input line 76.
 (pdftex.def)             Requested size: 410.39868pt x 273.57022pt.
 
 
@@ -1809,31 +1850,28 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 82.
 
-<../Dissertation_Casarella/162Dy_0s_AD.pdf, id=2099, 722.7pt x 758.835pt>
-File: ../Dissertation_Casarella/162Dy_0s_AD.pdf Graphic file (type pdf)
+<figures/162Dy_0s_AD.pdf, id=2108, 722.7pt x 758.835pt>
+File: figures/162Dy_0s_AD.pdf Graphic file (type pdf)
 
-<use ../Dissertation_Casarella/162Dy_0s_AD.pdf>
-Package pdftex.def Info: ../Dissertation_Casarella/162Dy_0s_AD.pdf used on inpu
-t line 87.
+<use figures/162Dy_0s_AD.pdf>
+Package pdftex.def Info: figures/162Dy_0s_AD.pdf used on input line 87.
 (pdftex.def)             Requested size: 410.39868pt x 430.9194pt.
- [106 <../Dissertation_Casarella/162Dy_viz_lifetimes-eps-converted-to.pdf>]
+ [106 <./figures/162Dy_viz_lifetimes-eps-converted-to.pdf>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../Dissertation_Casarella/162Dy_0s_FT.pdf, id=2113, 722.7pt x 758.835pt>
-File: ../Dissertation_Casarella/162Dy_0s_FT.pdf Graphic file (type pdf)
+<figures/162Dy_0s_FT.pdf, id=2122, 722.7pt x 758.835pt>
+File: figures/162Dy_0s_FT.pdf Graphic file (type pdf)
 
-<use ../Dissertation_Casarella/162Dy_0s_FT.pdf>
-Package pdftex.def Info: ../Dissertation_Casarella/162Dy_0s_FT.pdf used on inpu
-t line 94.
+<use figures/162Dy_0s_FT.pdf>
+Package pdftex.def Info: figures/162Dy_0s_FT.pdf used on input line 94.
 (pdftex.def)             Requested size: 410.39868pt x 430.9194pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[107 <./sample_spec_stacked_220-eps-converted-to.pdf>] [108 <../Dissertation_Ca
-sarella/162Dy_0s_AD.pdf>] [109 <../Dissertation_Casarella/162Dy_0s_FT.pdf>]
-[110] [111
+[107 <./figures/sample_spec_stacked_220-eps-converted-to.pdf>] [108 <./figures/
+162Dy_0s_AD.pdf>] [109 <./figures/162Dy_0s_FT.pdf>] [110] [111
 
 ] [112] [113]
 
@@ -1945,10 +1983,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 235.
 
-<162Dy_LLoct.pdf, id=2207, 1355.0625pt x 975.645pt>
-File: 162Dy_LLoct.pdf Graphic file (type pdf)
- <use 162Dy_LLoct.pdf>
-Package pdftex.def Info: 162Dy_LLoct.pdf used on input line 240.
+<figures/162Dy_LLoct.pdf, id=2216, 1355.0625pt x 975.645pt>
+File: figures/162Dy_LLoct.pdf Graphic file (type pdf)
+
+<use figures/162Dy_LLoct.pdf>
+Package pdftex.def Info: figures/162Dy_LLoct.pdf used on input line 240.
 (pdftex.def)             Requested size: 410.39868pt x 295.47964pt.
 
 
@@ -1956,42 +1995,44 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [118
 
-] [119 <./162Dy_LLoct.pdf>] [120
+] [119 <./figures/162Dy_LLoct.pdf>] [120
 
 ] [121] [122]
-Package epstopdf Info: Source file: <260_DSAM.eps>
+Package epstopdf Info: Source file: <figures/260_DSAM.eps>
 (epstopdf)                    date: 2016-08-29 15:12:28
 (epstopdf)                    size: 21560 bytes
-(epstopdf)             Output file: <260_DSAM-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/260_DSAM-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-08-29 15:12:38
 (epstopdf)                    size: 9164 bytes
-(epstopdf)             Command: <repstopdf --outfile=260_DSAM-eps-converted-to.
-pdf 260_DSAM.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/260_DSAM-eps-conve
+rted-to.pdf figures/260_DSAM.eps>
 (epstopdf)             \includegraphics on input line 302.
 Package epstopdf Info: Output file is already uptodate.
 
-<260_DSAM-eps-converted-to.pdf, id=2252, 361.35pt x 252.945pt>
-File: 260_DSAM-eps-converted-to.pdf Graphic file (type pdf)
+<figures/260_DSAM-eps-converted-to.pdf, id=2261, 361.35pt x 252.945pt>
+File: figures/260_DSAM-eps-converted-to.pdf Graphic file (type pdf)
 
-<use 260_DSAM-eps-converted-to.pdf>
-Package pdftex.def Info: 260_DSAM-eps-converted-to.pdf used on input line 302.
+<use figures/260_DSAM-eps-converted-to.pdf>
+Package pdftex.def Info: figures/260_DSAM-eps-converted-to.pdf used on input li
+ne 302.
 (pdftex.def)             Requested size: 211.68237pt x 148.17871pt.
-Package epstopdf Info: Source file: <260_ExF.eps>
+Package epstopdf Info: Source file: <figures/260_ExF.eps>
 (epstopdf)                    date: 2016-08-30 11:04:11
 (epstopdf)                    size: 27171 bytes
-(epstopdf)             Output file: <260_ExF-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/260_ExF-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-08-30 11:09:35
 (epstopdf)                    size: 14215 bytes
-(epstopdf)             Command: <repstopdf --outfile=260_ExF-eps-converted-to.p
-df 260_ExF.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/260_ExF-eps-conver
+ted-to.pdf figures/260_ExF.eps>
 (epstopdf)             \includegraphics on input line 303.
 Package epstopdf Info: Output file is already uptodate.
 
-<260_ExF-eps-converted-to.pdf, id=2253, 361.35pt x 252.945pt>
-File: 260_ExF-eps-converted-to.pdf Graphic file (type pdf)
+<figures/260_ExF-eps-converted-to.pdf, id=2262, 361.35pt x 252.945pt>
+File: figures/260_ExF-eps-converted-to.pdf Graphic file (type pdf)
 
-<use 260_ExF-eps-converted-to.pdf>
-Package pdftex.def Info: 260_ExF-eps-converted-to.pdf used on input line 303.
+<use figures/260_ExF-eps-converted-to.pdf>
+Package pdftex.def Info: figures/260_ExF-eps-converted-to.pdf used on input lin
+e 303.
 (pdftex.def)             Requested size: 211.68237pt x 148.17871pt.
 
 
@@ -1999,58 +2040,61 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [123
 
-] [124 <./260_DSAM-eps-converted-to.pdf> <./260_ExF-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <1974_ExF.eps>
+] [124 <./figures/260_DSAM-eps-converted-to.pdf> <./figures/260_ExF-eps-convert
+ed-to.pdf>]
+Package epstopdf Info: Source file: <figures/1974_ExF.eps>
 (epstopdf)                    date: 2016-08-23 12:34:17
 (epstopdf)                    size: 21466 bytes
-(epstopdf)             Output file: <1974_ExF-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/1974_ExF-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-08-23 12:58:08
 (epstopdf)                    size: 9144 bytes
-(epstopdf)             Command: <repstopdf --outfile=1974_ExF-eps-converted-to.
-pdf 1974_ExF.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/1974_ExF-eps-conve
+rted-to.pdf figures/1974_ExF.eps>
 (epstopdf)             \includegraphics on input line 314.
 Package epstopdf Info: Output file is already uptodate.
 
-<1974_ExF-eps-converted-to.pdf, id=2290, 361.35pt x 252.945pt>
-File: 1974_ExF-eps-converted-to.pdf Graphic file (type pdf)
+<figures/1974_ExF-eps-converted-to.pdf, id=2299, 361.35pt x 252.945pt>
+File: figures/1974_ExF-eps-converted-to.pdf Graphic file (type pdf)
 
-<use 1974_ExF-eps-converted-to.pdf>
-Package pdftex.def Info: 1974_ExF-eps-converted-to.pdf used on input line 314.
+<use figures/1974_ExF-eps-converted-to.pdf>
+Package pdftex.def Info: figures/1974_ExF-eps-converted-to.pdf used on input li
+ne 314.
 (pdftex.def)             Requested size: 324.0pt x 226.80313pt.
-Package epstopdf Info: Source file: <912_DSAM.eps>
+Package epstopdf Info: Source file: <figures/912_DSAM.eps>
 (epstopdf)                    date: 2016-08-23 12:56:21
 (epstopdf)                    size: 23131 bytes
-(epstopdf)             Output file: <912_DSAM-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/912_DSAM-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-08-23 12:58:09
 (epstopdf)                    size: 9666 bytes
-(epstopdf)             Command: <repstopdf --outfile=912_DSAM-eps-converted-to.
-pdf 912_DSAM.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/912_DSAM-eps-conve
+rted-to.pdf figures/912_DSAM.eps>
 (epstopdf)             \includegraphics on input line 315.
 Package epstopdf Info: Output file is already uptodate.
 
-<912_DSAM-eps-converted-to.pdf, id=2291, 361.35pt x 252.945pt>
-File: 912_DSAM-eps-converted-to.pdf Graphic file (type pdf)
+<figures/912_DSAM-eps-converted-to.pdf, id=2300, 361.35pt x 252.945pt>
+File: figures/912_DSAM-eps-converted-to.pdf Graphic file (type pdf)
 
-<use 912_DSAM-eps-converted-to.pdf>
-Package pdftex.def Info: 912_DSAM-eps-converted-to.pdf used on input line 315.
+<use figures/912_DSAM-eps-converted-to.pdf>
+Package pdftex.def Info: figures/912_DSAM-eps-converted-to.pdf used on input li
+ne 315.
 (pdftex.def)             Requested size: 211.68237pt x 148.17871pt.
-Package epstopdf Info: Source file: <1010_DSAM.eps>
+Package epstopdf Info: Source file: <figures/1010_DSAM.eps>
 (epstopdf)                    date: 2016-08-23 12:55:24
 (epstopdf)                    size: 23052 bytes
-(epstopdf)             Output file: <1010_DSAM-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/1010_DSAM-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-08-23 12:58:21
 (epstopdf)                    size: 9527 bytes
-(epstopdf)             Command: <repstopdf --outfile=1010_DSAM-eps-converted-to
-.pdf 1010_DSAM.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/1010_DSAM-eps-conv
+erted-to.pdf figures/1010_DSAM.eps>
 (epstopdf)             \includegraphics on input line 316.
 Package epstopdf Info: Output file is already uptodate.
 
-<1010_DSAM-eps-converted-to.pdf, id=2292, 361.35pt x 252.945pt>
-File: 1010_DSAM-eps-converted-to.pdf Graphic file (type pdf)
+<figures/1010_DSAM-eps-converted-to.pdf, id=2301, 361.35pt x 252.945pt>
+File: figures/1010_DSAM-eps-converted-to.pdf Graphic file (type pdf)
 
-<use 1010_DSAM-eps-converted-to.pdf>
-Package pdftex.def Info: 1010_DSAM-eps-converted-to.pdf used on input line 316.
-
+<use figures/1010_DSAM-eps-converted-to.pdf>
+Package pdftex.def Info: figures/1010_DSAM-eps-converted-to.pdf used on input l
+ine 316.
 (pdftex.def)             Requested size: 211.68237pt x 148.17871pt.
 
 
@@ -2124,102 +2168,89 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 322.
 
-Package epstopdf Info: Source file: <../Dissertation_Casarella/937_ExF.eps>
+Package epstopdf Info: Source file: <figures/937_ExF.eps>
 (epstopdf)                    date: 2016-07-28 10:57:44
 (epstopdf)                    size: 21874 bytes
-(epstopdf)             Output file: <../Dissertation_Casarella/937_ExF-eps-conv
-erted-to.pdf>
+(epstopdf)             Output file: <figures/937_ExF-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-07-28 11:01:01
 (epstopdf)                    size: 9578 bytes
-(epstopdf)             Command: <repstopdf --outfile=../Dissertation_Casarella/
-937_ExF-eps-converted-to.pdf ../Dissertation_Casarella/937_ExF.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/937_ExF-eps-conver
+ted-to.pdf figures/937_ExF.eps>
 (epstopdf)             \includegraphics on input line 328.
 Package epstopdf Info: Output file is already uptodate.
+<figures/937_ExF-eps-converted-to.pdf, id=2307, 361.35pt x 252.945pt>
+File: figures/937_ExF-eps-converted-to.pdf Graphic file (type pdf)
 
-<../Dissertation_Casarella/937_ExF-eps-converted-to.pdf, id=2298, 361.35pt x 25
-2.945pt>
-File: ../Dissertation_Casarella/937_ExF-eps-converted-to.pdf Graphic file (type
- pdf)
- <use ../Dissertation_Casarella/937_ExF-eps-converted-to.pdf>
-Package pdftex.def Info: ../Dissertation_Casarella/937_ExF-eps-converted-to.pdf
- used on input line 328.
+<use figures/937_ExF-eps-converted-to.pdf>
+Package pdftex.def Info: figures/937_ExF-eps-converted-to.pdf used on input lin
+e 328.
 (pdftex.def)             Requested size: 324.0pt x 226.80313pt.
-Package epstopdf Info: Source file: <../Dissertation_Casarella/937_DSAM.eps>
+Package epstopdf Info: Source file: <figures/937_DSAM.eps>
 (epstopdf)                    date: 2016-07-28 11:00:04
 (epstopdf)                    size: 22837 bytes
-(epstopdf)             Output file: <../Dissertation_Casarella/937_DSAM-eps-con
-verted-to.pdf>
+(epstopdf)             Output file: <figures/937_DSAM-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-07-28 11:00:14
 (epstopdf)                    size: 9485 bytes
-(epstopdf)             Command: <repstopdf --outfile=../Dissertation_Casarella/
-937_DSAM-eps-converted-to.pdf ../Dissertation_Casarella/937_DSAM.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/937_DSAM-eps-conve
+rted-to.pdf figures/937_DSAM.eps>
 (epstopdf)             \includegraphics on input line 329.
 Package epstopdf Info: Output file is already uptodate.
 
-<../Dissertation_Casarella/937_DSAM-eps-converted-to.pdf, id=2299, 361.35pt x 2
-52.945pt>
-File: ../Dissertation_Casarella/937_DSAM-eps-converted-to.pdf Graphic file (typ
-e pdf)
- <use ../Dissertation_Casarella/937_DSAM-eps-converted-to.pdf>
-Package pdftex.def Info: ../Dissertation_Casarella/937_DSAM-eps-converted-to.pd
-f used on input line 329.
+<figures/937_DSAM-eps-converted-to.pdf, id=2308, 361.35pt x 252.945pt>
+File: figures/937_DSAM-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/937_DSAM-eps-converted-to.pdf>
+Package pdftex.def Info: figures/937_DSAM-eps-converted-to.pdf used on input li
+ne 329.
 (pdftex.def)             Requested size: 211.68237pt x 148.17871pt.
-Package epstopdf Info: Source file: <../Dissertation_Casarella/1220_DSAM.eps>
+Package epstopdf Info: Source file: <figures/1220_DSAM.eps>
 (epstopdf)                    date: 2016-07-28 11:00:10
 (epstopdf)                    size: 23362 bytes
-(epstopdf)             Output file: <../Dissertation_Casarella/1220_DSAM-eps-co
-nverted-to.pdf>
+(epstopdf)             Output file: <figures/1220_DSAM-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-07-28 11:00:15
 (epstopdf)                    size: 9721 bytes
-(epstopdf)             Command: <repstopdf --outfile=../Dissertation_Casarella/
-1220_DSAM-eps-converted-to.pdf ../Dissertation_Casarella/1220_DSAM.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/1220_DSAM-eps-conv
+erted-to.pdf figures/1220_DSAM.eps>
 (epstopdf)             \includegraphics on input line 330.
 Package epstopdf Info: Output file is already uptodate.
 
-<../Dissertation_Casarella/1220_DSAM-eps-converted-to.pdf, id=2300, 361.35pt x 
-252.945pt>
-File: ../Dissertation_Casarella/1220_DSAM-eps-converted-to.pdf Graphic file (ty
-pe pdf)
- <use ../Dissertation_Casarella/1220_DSAM-eps-converted-to.pdf>
-Package pdftex.def Info: ../Dissertation_Casarella/1220_DSAM-eps-converted-to.p
-df used on input line 330.
+<figures/1220_DSAM-eps-converted-to.pdf, id=2309, 361.35pt x 252.945pt>
+File: figures/1220_DSAM-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/1220_DSAM-eps-converted-to.pdf>
+Package pdftex.def Info: figures/1220_DSAM-eps-converted-to.pdf used on input l
+ine 330.
 (pdftex.def)             Requested size: 211.68237pt x 148.17871pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[125] [126 <./1974_ExF-eps-converted-to.pdf> <./912_DSAM-eps-converted-to.pdf> 
-<./1010_DSAM-eps-converted-to.pdf>] [127 <../Dissertation_Casarella/937_ExF-eps
--converted-to.pdf> <../Dissertation_Casarella/937_DSAM-eps-converted-to.pdf> <.
-./Dissertation_Casarella/1220_DSAM-eps-converted-to.pdf>] [128]
-Package epstopdf Info: Source file: <../Dissertation_Casarella/162Dy_1minus_ExF
-.eps>
+[125] [126 <./figures/1974_ExF-eps-converted-to.pdf> <./figures/912_DSAM-eps-co
+nverted-to.pdf> <./figures/1010_DSAM-eps-converted-to.pdf>] [127 <./figures/937
+_ExF-eps-converted-to.pdf> <./figures/937_DSAM-eps-converted-to.pdf> <./figures
+/1220_DSAM-eps-converted-to.pdf>] [128]
+Package epstopdf Info: Source file: <figures/162Dy_1minus_ExF.eps>
 (epstopdf)                    date: 2016-08-12 10:40:52
 (epstopdf)                    size: 23709 bytes
-(epstopdf)             Output file: <../Dissertation_Casarella/162Dy_1minus_ExF
--eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/162Dy_1minus_ExF-eps-converted-to.
+pdf>
 (epstopdf)                    date: 2016-08-27 10:29:25
 (epstopdf)                    size: 10343 bytes
-(epstopdf)             Command: <repstopdf --outfile=../Dissertation_Casarella/
-162Dy_1minus_ExF-eps-converted-to.pdf ../Dissertation_Casarella/162Dy_1minus_Ex
-F.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/162Dy_1minus_ExF-e
+ps-converted-to.pdf figures/162Dy_1minus_ExF.eps>
 (epstopdf)             \includegraphics on input line 348.
 Package epstopdf Info: Output file is already uptodate.
 
-<../Dissertation_Casarella/162Dy_1minus_ExF-eps-converted-to.pdf, id=2379, 361.
-35pt x 252.945pt>
-File: ../Dissertation_Casarella/162Dy_1minus_ExF-eps-converted-to.pdf Graphic f
-ile (type pdf)
+<figures/162Dy_1minus_ExF-eps-converted-to.pdf, id=2388, 361.35pt x 252.945pt>
+File: figures/162Dy_1minus_ExF-eps-converted-to.pdf Graphic file (type pdf)
 
-<use ../Dissertation_Casarella/162Dy_1minus_ExF-eps-converted-to.pdf>
-Package pdftex.def Info: ../Dissertation_Casarella/162Dy_1minus_ExF-eps-convert
-ed-to.pdf used on input line 348.
+<use figures/162Dy_1minus_ExF-eps-converted-to.pdf>
+Package pdftex.def Info: figures/162Dy_1minus_ExF-eps-converted-to.pdf used on 
+input line 348.
 (pdftex.def)             Requested size: 419.04053pt x 293.3315pt.
- [129 <../Dissertation_Casarella/162Dy_1minus_ExF-eps-converted-to.pdf>] [130] 
-[131
+ [129 <./figures/162Dy_1minus_ExF-eps-converted-to.pdf>] [130] [131
 
-]
-[132]
+] [132]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 404.
@@ -2402,67 +2433,70 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 ]
-Package epstopdf Info: Source file: <1250_Gd.eps>
+Package epstopdf Info: Source file: <figures/1250_Gd.eps>
 (epstopdf)                    date: 2016-07-07 12:24:39
 (epstopdf)                    size: 22801 bytes
-(epstopdf)             Output file: <1250_Gd-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/1250_Gd-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-07-07 12:35:12
 (epstopdf)                    size: 9991 bytes
-(epstopdf)             Command: <repstopdf --outfile=1250_Gd-eps-converted-to.p
-df 1250_Gd.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/1250_Gd-eps-conver
+ted-to.pdf figures/1250_Gd.eps>
 (epstopdf)             \includegraphics on input line 33.
 Package epstopdf Info: Output file is already uptodate.
- <1250_Gd-eps-converted-to.pdf, id=2537, 361.35pt x 252.945pt>
-File: 1250_Gd-eps-converted-to.pdf Graphic file (type pdf)
+ <figures/1250_Gd-eps-converted-to.pdf, id=2546, 361.35pt x 252.945pt>
+File: figures/1250_Gd-eps-converted-to.pdf Graphic file (type pdf)
 
-<use 1250_Gd-eps-converted-to.pdf>
-Package pdftex.def Info: 1250_Gd-eps-converted-to.pdf used on input line 33.
+<use figures/1250_Gd-eps-converted-to.pdf>
+Package pdftex.def Info: figures/1250_Gd-eps-converted-to.pdf used on input lin
+e 33.
 (pdftex.def)             Requested size: 427.68237pt x 299.37952pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [161]
-Package epstopdf Info: Source file: <2163_exfGd.eps>
+Package epstopdf Info: Source file: <figures/2163_exfGd.eps>
 (epstopdf)                    date: 2016-07-07 13:03:24
 (epstopdf)                    size: 24868 bytes
-(epstopdf)             Output file: <2163_exfGd-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/2163_exfGd-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-07-07 13:06:33
 (epstopdf)                    size: 9923 bytes
-(epstopdf)             Command: <repstopdf --outfile=2163_exfGd-eps-converted-t
-o.pdf 2163_exfGd.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/2163_exfGd-eps-con
+verted-to.pdf figures/2163_exfGd.eps>
 (epstopdf)             \includegraphics on input line 42.
 Package epstopdf Info: Output file is already uptodate.
- <2163_exfGd-eps-converted-to.pdf, id=2544, 722.7pt x 252.945pt>
-File: 2163_exfGd-eps-converted-to.pdf Graphic file (type pdf)
+ <figures/2163_exfGd-eps-converted-to.pdf, id=2553, 722.7pt x 252.945pt>
+File: figures/2163_exfGd-eps-converted-to.pdf Graphic file (type pdf)
 
-<use 2163_exfGd-eps-converted-to.pdf>
-Package pdftex.def Info: 2163_exfGd-eps-converted-to.pdf used on input line 42.
-
+<use figures/2163_exfGd-eps-converted-to.pdf>
+Package pdftex.def Info: figures/2163_exfGd-eps-converted-to.pdf used on input 
+line 42.
 (pdftex.def)             Requested size: 427.68237pt x 149.68782pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<160Gd_Partial0sRevised.pdf, id=2546, 1210.5225pt x 984.67876pt>
-File: 160Gd_Partial0sRevised.pdf Graphic file (type pdf)
+<figures/160Gd_Partial0sRevised.pdf, id=2555, 1210.5225pt x 984.67876pt>
+File: figures/160Gd_Partial0sRevised.pdf Graphic file (type pdf)
 
-<use 160Gd_Partial0sRevised.pdf>
-Package pdftex.def Info: 160Gd_Partial0sRevised.pdf used on input line 51.
+<use figures/160Gd_Partial0sRevised.pdf>
+Package pdftex.def Info: figures/160Gd_Partial0sRevised.pdf used on input line 
+51.
 (pdftex.def)             Requested size: 427.68237pt x 347.88812pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[162 <./1250_Gd-eps-converted-to.pdf>] [163 <./2163_exfGd-eps-converted-to.pdf>
-] [164 <./160Gd_Partial0sRevised.pdf>] [165]
-<160Gd_OctupoleRevised.pdf, id=2611, 1645.14626pt x 931.48pt>
-File: 160Gd_OctupoleRevised.pdf Graphic file (type pdf)
+[162 <./figures/1250_Gd-eps-converted-to.pdf>] [163 <./figures/2163_exfGd-eps-c
+onverted-to.pdf>] [164 <./figures/160Gd_Partial0sRevised.pdf>] [165]
+<figures/160Gd_OctupoleRevised.pdf, id=2620, 1645.14626pt x 931.48pt>
+File: figures/160Gd_OctupoleRevised.pdf Graphic file (type pdf)
 
-<use 160Gd_OctupoleRevised.pdf>
-Package pdftex.def Info: 160Gd_OctupoleRevised.pdf used on input line 70.
+<use figures/160Gd_OctupoleRevised.pdf>
+Package pdftex.def Info: figures/160Gd_OctupoleRevised.pdf used on input line 7
+0.
 (pdftex.def)             Requested size: 427.68237pt x 242.15065pt.
- [166 <./160Gd_OctupoleRevised.pdf>] [167]
+ [166 <./figures/160Gd_OctupoleRevised.pdf>] [167]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 93.
@@ -2475,11 +2509,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 93.
 
-<160Gd_posparity.pdf, id=2639, 1513.655pt x 926.46124pt>
-File: 160Gd_posparity.pdf Graphic file (type pdf)
+<figures/160Gd_posparity.pdf, id=2648, 1513.655pt x 926.46124pt>
+File: figures/160Gd_posparity.pdf Graphic file (type pdf)
 
-<use 160Gd_posparity.pdf>
-Package pdftex.def Info: 160Gd_posparity.pdf used on input line 98.
+<use figures/160Gd_posparity.pdf>
+Package pdftex.def Info: figures/160Gd_posparity.pdf used on input line 98.
 (pdftex.def)             Requested size: 427.68237pt x 261.76819pt.
 
 
@@ -2510,7 +2544,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 104.
 
-[168 <./160Gd_posparity.pdf>] [169]
+[168 <./figures/160Gd_posparity.pdf>] [169]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 107.
@@ -2539,19 +2573,21 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 107.
 
-<160Gd_Kunknown.pdf, id=2671, 865.2325pt x 525.965pt>
-File: 160Gd_Kunknown.pdf Graphic file (type pdf)
- <use 160Gd_Kunknown.pdf>
-Package pdftex.def Info: 160Gd_Kunknown.pdf used on input line 113.
+<figures/160Gd_Kunknown.pdf, id=2680, 865.2325pt x 525.965pt>
+File: figures/160Gd_Kunknown.pdf Graphic file (type pdf)
+
+<use figures/160Gd_Kunknown.pdf>
+Package pdftex.def Info: figures/160Gd_Kunknown.pdf used on input line 113.
 (pdftex.def)             Requested size: 427.68237pt x 259.98029pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[170] [171 <./160Gd_Kunknown.pdf>] [172] [173]) [174]
+[170] [171 <./figures/160Gd_Kunknown.pdf>] [172] [173]) [174]
 \openout2 = `Chapter5_Casarella.aux'.
 
- (./Chapter5_Casarella.tex
+
+(./Chapter5_Casarella.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 4.
@@ -2596,41 +2632,34 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 75.
 
-Package epstopdf Info: Source file: <../Dissertation_Casarella/162Dy_unobserved
-_0s.eps>
+Package epstopdf Info: Source file: <figures/162Dy_unobserved_0s.eps>
 (epstopdf)                    date: 2016-09-20 14:40:28
 (epstopdf)                    size: 30237 bytes
-(epstopdf)             Output file: <../Dissertation_Casarella/162Dy_unobserved
-_0s-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/162Dy_unobserved_0s-eps-converted-
+to.pdf>
 (epstopdf)                    date: 2016-09-21 10:55:07
 (epstopdf)                    size: 10835 bytes
-(epstopdf)             Command: <repstopdf --outfile=../Dissertation_Casarella/
-162Dy_unobserved_0s-eps-converted-to.pdf ../Dissertation_Casarella/162Dy_unobse
-rved_0s.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/162Dy_unobserved_0
+s-eps-converted-to.pdf figures/162Dy_unobserved_0s.eps>
 (epstopdf)             \includegraphics on input line 80.
 Package epstopdf Info: Output file is already uptodate.
 
-<../Dissertation_Casarella/162Dy_unobserved_0s-eps-converted-to.pdf, id=2718, 8
-67.24pt x 289.08pt>
-File: ../Dissertation_Casarella/162Dy_unobserved_0s-eps-converted-to.pdf Graphi
-c file (type pdf)
-
-<use ../Dissertation_Casarella/162Dy_unobserved_0s-eps-converted-to.pdf>
-Package pdftex.def Info: ../Dissertation_Casarella/162Dy_unobserved_0s-eps-conv
-erted-to.pdf used on input line 80.
+<figures/162Dy_unobserved_0s-eps-converted-to.pdf, id=2727, 867.24pt x 289.08pt
+>
+File: figures/162Dy_unobserved_0s-eps-converted-to.pdf Graphic file (type pdf)
+ <use figures/162Dy_unobserved_0s-eps-converted-to.pdf>
+Package pdftex.def Info: figures/162Dy_unobserved_0s-eps-converted-to.pdf used 
+on input line 80.
 (pdftex.def)             Requested size: 431.56494pt x 143.85593pt.
+ [175
 
-[175
 
+] [176] [177 <./figures/162Dy_unobserved_0s-eps-converted-to.pdf>]
+<figures/162Dy_0s_all.pdf, id=2752, 1445.4pt x 751.80875pt>
+File: figures/162Dy_0s_all.pdf Graphic file (type pdf)
 
-] [176] [177 <../Dissertation_Casarella/162Dy_unobserved_0s-eps-converted-to.pd
-f>]
-<../Dissertation_Casarella/162Dy_0s_all.pdf, id=2743, 1445.4pt x 751.80875pt>
-File: ../Dissertation_Casarella/162Dy_0s_all.pdf Graphic file (type pdf)
-
-<use ../Dissertation_Casarella/162Dy_0s_all.pdf>
-Package pdftex.def Info: ../Dissertation_Casarella/162Dy_0s_all.pdf used on inp
-ut line 90.
+<use figures/162Dy_0s_all.pdf>
+Package pdftex.def Info: figures/162Dy_0s_all.pdf used on input line 90.
 (pdftex.def)             Requested size: 705.98055pt x 367.20264pt.
 
 Overfull \hbox (57.98055pt too wide) in paragraph at lines 90--91
@@ -2640,7 +2669,7 @@ Overfull \hbox (57.98055pt too wide) in paragraph at lines 90--91
 
 LaTeX Warning: Float too large for page by 25.96602pt on input line 93.
 
-[178 <../Dissertation_Casarella/162Dy_0s_all.pdf>]
+[178 <./figures/162Dy_0s_all.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 99.
@@ -2780,62 +2809,58 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [182]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 115.
+(hyperref)                removing `math shift' on input line 116.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 115.
+(hyperref)                removing `superscript' on input line 116.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 115.
+(hyperref)                removing `math shift' on input line 116.
 
 [183]
-Package epstopdf Info: Source file: <../Dissertation_Casarella/1342_AD.eps>
+Package epstopdf Info: Source file: <figures/1342_AD.eps>
 (epstopdf)                    date: 2016-09-28 10:59:55
 (epstopdf)                    size: 22170 bytes
-(epstopdf)             Output file: <../Dissertation_Casarella/1342_AD-eps-conv
-erted-to.pdf>
+(epstopdf)             Output file: <figures/1342_AD-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-09-28 11:06:16
 (epstopdf)                    size: 9839 bytes
-(epstopdf)             Command: <repstopdf --outfile=../Dissertation_Casarella/
-1342_AD-eps-converted-to.pdf ../Dissertation_Casarella/1342_AD.eps>
-(epstopdf)             \includegraphics on input line 122.
+(epstopdf)             Command: <repstopdf --outfile=figures/1342_AD-eps-conver
+ted-to.pdf figures/1342_AD.eps>
+(epstopdf)             \includegraphics on input line 123.
 Package epstopdf Info: Output file is already uptodate.
+ <figures/1342_AD-eps-converted-to.pdf, id=2832, 361.35pt x 252.945pt>
+File: figures/1342_AD-eps-converted-to.pdf Graphic file (type pdf)
 
-<../Dissertation_Casarella/1342_AD-eps-converted-to.pdf, id=2823, 361.35pt x 25
-2.945pt>
-File: ../Dissertation_Casarella/1342_AD-eps-converted-to.pdf Graphic file (type
- pdf)
- <use ../Dissertation_Casarella/1342_AD-eps-converted-to.pdf>
-Package pdftex.def Info: ../Dissertation_Casarella/1342_AD-eps-converted-to.pdf
- used on input line 122.
+<use figures/1342_AD-eps-converted-to.pdf>
+Package pdftex.def Info: figures/1342_AD-eps-converted-to.pdf used on input lin
+e 123.
 (pdftex.def)             Requested size: 431.56494pt x 302.0967pt.
- [184 <../Dissertation_Casarella/1342_AD-eps-converted-to.pdf>] [185]
-<../Dissertation_Casarella/162Dy_multiphonon042.pdf, id=2841, 1488.56125pt x 79
-4.97pt>
-File: ../Dissertation_Casarella/162Dy_multiphonon042.pdf Graphic file (type pdf
-)
- <use ../Dissertation_Casarella/162Dy_multiphonon042.pdf>
-Package pdftex.def Info: ../Dissertation_Casarella/162Dy_multiphonon042.pdf use
-d on input line 132.
+ [184 <./figures/1342_AD-eps-converted-to.pdf>] [185]
+<figures/162Dy_multiphonon042.pdf, id=2850, 1488.56125pt x 794.97pt>
+File: figures/162Dy_multiphonon042.pdf Graphic file (type pdf)
+
+<use figures/162Dy_multiphonon042.pdf>
+Package pdftex.def Info: figures/162Dy_multiphonon042.pdf used on input line 13
+3.
 (pdftex.def)             Requested size: 687.5857pt x 367.20264pt.
 
-Overfull \hbox (39.5857pt too wide) in paragraph at lines 132--134
+Overfull \hbox (39.5857pt too wide) in paragraph at lines 133--135
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 51.03595pt on input line 136.
+LaTeX Warning: Float too large for page by 51.03595pt on input line 137.
 
-[186 <../Dissertation_Casarella/162Dy_multiphonon042.pdf>] [187
+[186 <./figures/162Dy_multiphonon042.pdf>] [187
 
 
-]) [188]
-[189] [190]
+]) [188] [189] [190]
 \openout2 = `Chapter5_Casarella_2.aux'.
 
- (./Chapter5_Casarella_2.tex
+
+(./Chapter5_Casarella_2.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 4.
@@ -2896,65 +2921,69 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 ]
-Package epstopdf Info: Source file: <1195_ExF.eps>
+Package epstopdf Info: Source file: <figures/1195_ExF.eps>
 (epstopdf)                    date: 2016-07-28 16:19:49
 (epstopdf)                    size: 22513 bytes
-(epstopdf)             Output file: <1195_ExF-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/1195_ExF-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-07-28 16:19:52
 (epstopdf)                    size: 9849 bytes
-(epstopdf)             Command: <repstopdf --outfile=1195_ExF-eps-converted-to.
-pdf 1195_ExF.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/1195_ExF-eps-conve
+rted-to.pdf figures/1195_ExF.eps>
 (epstopdf)             \includegraphics on input line 22.
 Package epstopdf Info: Output file is already uptodate.
- <1195_ExF-eps-converted-to.pdf, id=2911, 361.35pt x 252.945pt>
-File: 1195_ExF-eps-converted-to.pdf Graphic file (type pdf)
+ <figures/1195_ExF-eps-converted-to.pdf, id=2920, 361.35pt x 252.945pt>
+File: figures/1195_ExF-eps-converted-to.pdf Graphic file (type pdf)
 
-<use 1195_ExF-eps-converted-to.pdf>
-Package pdftex.def Info: 1195_ExF-eps-converted-to.pdf used on input line 22.
+<use figures/1195_ExF-eps-converted-to.pdf>
+Package pdftex.def Info: figures/1195_ExF-eps-converted-to.pdf used on input li
+ne 22.
 (pdftex.def)             Requested size: 324.0pt x 226.80313pt.
-Package epstopdf Info: Source file: <1195_DSAM.eps>
+Package epstopdf Info: Source file: <figures/1195_DSAM.eps>
 (epstopdf)                    date: 2016-07-28 19:05:05
 (epstopdf)                    size: 23354 bytes
-(epstopdf)             Output file: <1195_DSAM-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/1195_DSAM-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-07-28 19:05:14
 (epstopdf)                    size: 9678 bytes
-(epstopdf)             Command: <repstopdf --outfile=1195_DSAM-eps-converted-to
-.pdf 1195_DSAM.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/1195_DSAM-eps-conv
+erted-to.pdf figures/1195_DSAM.eps>
 (epstopdf)             \includegraphics on input line 23.
 Package epstopdf Info: Output file is already uptodate.
 
-<1195_DSAM-eps-converted-to.pdf, id=2912, 361.35pt x 252.945pt>
-File: 1195_DSAM-eps-converted-to.pdf Graphic file (type pdf)
+<figures/1195_DSAM-eps-converted-to.pdf, id=2921, 361.35pt x 252.945pt>
+File: figures/1195_DSAM-eps-converted-to.pdf Graphic file (type pdf)
 
-<use 1195_DSAM-eps-converted-to.pdf>
-Package pdftex.def Info: 1195_DSAM-eps-converted-to.pdf used on input line 23.
+<use figures/1195_DSAM-eps-converted-to.pdf>
+Package pdftex.def Info: figures/1195_DSAM-eps-converted-to.pdf used on input l
+ine 23.
 (pdftex.def)             Requested size: 211.68237pt x 148.17871pt.
-Package epstopdf Info: Source file: <1275_DSAM.eps>
+Package epstopdf Info: Source file: <figures/1275_DSAM.eps>
 (epstopdf)                    date: 2016-07-28 19:05:09
 (epstopdf)                    size: 23861 bytes
-(epstopdf)             Output file: <1275_DSAM-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/1275_DSAM-eps-converted-to.pdf>
 (epstopdf)                    date: 2016-07-28 19:05:15
 (epstopdf)                    size: 9823 bytes
-(epstopdf)             Command: <repstopdf --outfile=1275_DSAM-eps-converted-to
-.pdf 1275_DSAM.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/1275_DSAM-eps-conv
+erted-to.pdf figures/1275_DSAM.eps>
 (epstopdf)             \includegraphics on input line 24.
 Package epstopdf Info: Output file is already uptodate.
 
-<1275_DSAM-eps-converted-to.pdf, id=2913, 361.35pt x 252.945pt>
-File: 1275_DSAM-eps-converted-to.pdf Graphic file (type pdf)
+<figures/1275_DSAM-eps-converted-to.pdf, id=2922, 361.35pt x 252.945pt>
+File: figures/1275_DSAM-eps-converted-to.pdf Graphic file (type pdf)
 
-<use 1275_DSAM-eps-converted-to.pdf>
-Package pdftex.def Info: 1275_DSAM-eps-converted-to.pdf used on input line 24.
+<use figures/1275_DSAM-eps-converted-to.pdf>
+Package pdftex.def Info: figures/1275_DSAM-eps-converted-to.pdf used on input l
+ine 24.
 (pdftex.def)             Requested size: 211.68237pt x 148.17871pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<162Dy_negparity_202.pdf, id=2914, 1192.455pt x 939.51pt>
-File: 162Dy_negparity_202.pdf Graphic file (type pdf)
+<figures/162Dy_negparity_202.pdf, id=2923, 1192.455pt x 939.51pt>
+File: figures/162Dy_negparity_202.pdf Graphic file (type pdf)
 
-<use 162Dy_negparity_202.pdf>
-Package pdftex.def Info: 162Dy_negparity_202.pdf used on input line 32.
+<use figures/162Dy_negparity_202.pdf>
+Package pdftex.def Info: figures/162Dy_negparity_202.pdf used on input line 32.
+
 (pdftex.def)             Requested size: 423.35815pt x 333.54988pt.
 
 
@@ -3003,12 +3032,12 @@ LaTeX Warning: Text page 193 contains only floats.
 Overfull \vbox (1.5175pt too high) has occurred while \output is active []
 
 
-[193] [194] [195 <./1195_ExF-eps-converted-to.pdf> <./1195_DSAM-eps-converted-t
-o.pdf> <./1275_DSAM-eps-converted-to.pdf>] [196 <./162Dy_negparity_202.pdf>]
+[193] [194] [195 <./figures/1195_ExF-eps-converted-to.pdf> <./figures/1195_DSAM
+-eps-converted-to.pdf> <./figures/1275_DSAM-eps-converted-to.pdf>] [196 <./figu
+res/162Dy_negparity_202.pdf>]
 \openout2 = `Chapter5_Casarella_3.aux'.
 
-
-(./Chapter5_Casarella_3.tex
+ (./Chapter5_Casarella_3.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2.
@@ -3129,13 +3158,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 22.
 
-[198]
-<../Dissertation_Casarella/162Dy_otherNeg.pdf, id=3002, 1698.345pt x 939.51pt>
-File: ../Dissertation_Casarella/162Dy_otherNeg.pdf Graphic file (type pdf)
+[198] <figures/162Dy_otherNeg.pdf, id=3011, 1698.345pt x 939.51pt>
+File: figures/162Dy_otherNeg.pdf Graphic file (type pdf)
 
-<use ../Dissertation_Casarella/162Dy_otherNeg.pdf>
-Package pdftex.def Info: ../Dissertation_Casarella/162Dy_otherNeg.pdf used on i
-nput line 30.
+<use figures/162Dy_otherNeg.pdf>
+Package pdftex.def Info: figures/162Dy_otherNeg.pdf used on input line 30.
 (pdftex.def)             Requested size: 663.77719pt x 367.20264pt.
 
 Overfull \hbox (15.77719pt too wide) in paragraph at lines 30--31
@@ -3148,7 +3175,7 @@ LaTeX Warning: Float too large for page by 54.83601pt on input line 33.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[199 <../Dissertation_Casarella/162Dy_otherNeg.pdf>]
+[199 <./figures/162Dy_otherNeg.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 36.
@@ -3177,10 +3204,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 36.
 
-<162Dy_scissors.pdf, id=3026, 1264.725pt x 939.51pt>
-File: 162Dy_scissors.pdf Graphic file (type pdf)
- <use 162Dy_scissors.pdf>
-Package pdftex.def Info: 162Dy_scissors.pdf used on input line 46.
+<figures/162Dy_scissors.pdf, id=3035, 1264.725pt x 939.51pt>
+File: figures/162Dy_scissors.pdf Graphic file (type pdf)
+
+<use figures/162Dy_scissors.pdf>
+Package pdftex.def Info: figures/162Dy_scissors.pdf used on input line 46.
 (pdftex.def)             Requested size: 419.04053pt x 311.28647pt.
 
 
@@ -3189,11 +3217,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [200
 
 
-] [201 <./162Dy_scissors.pdf>]
-<162Dy_misc.pdf, id=3054, 1120.185pt x 794.97pt>
-File: 162Dy_misc.pdf Graphic file (type pdf)
- <use 162Dy_misc.pdf>
-Package pdftex.def Info: 162Dy_misc.pdf used on input line 56.
+] [201 <./figures/162Dy_scissors.pdf>]
+<figures/162Dy_misc.pdf, id=3063, 1120.185pt x 794.97pt>
+File: figures/162Dy_misc.pdf Graphic file (type pdf)
+
+<use figures/162Dy_misc.pdf>
+Package pdftex.def Info: figures/162Dy_misc.pdf used on input line 56.
 (pdftex.def)             Requested size: 517.42793pt x 367.20264pt.
 
 
@@ -3202,11 +3231,12 @@ LaTeX Warning: Float too large for page by 35.2129pt on input line 59.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[202 <./162Dy_misc.pdf>] <162Dy_misc2.pdf, id=3074, 1445.4pt x 794.97pt>
-File: 162Dy_misc2.pdf Graphic file (type pdf)
+[202 <./figures/162Dy_misc.pdf>]
+<figures/162Dy_misc2.pdf, id=3083, 1445.4pt x 794.97pt>
+File: figures/162Dy_misc2.pdf Graphic file (type pdf)
 
-<use 162Dy_misc2.pdf>
-Package pdftex.def Info: 162Dy_misc2.pdf used on input line 65.
+<use figures/162Dy_misc2.pdf>
+Package pdftex.def Info: figures/162Dy_misc2.pdf used on input line 65.
 (pdftex.def)             Requested size: 667.64896pt x 367.20264pt.
 
 Overfull \hbox (19.64896pt too wide) in paragraph at lines 65--66
@@ -3219,11 +3249,12 @@ LaTeX Warning: Float too large for page by 39.2129pt on input line 68.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[203 <./162Dy_misc2.pdf>] <162Dy_misc3.pdf, id=3094, 1120.185pt x 794.97pt>
-File: 162Dy_misc3.pdf Graphic file (type pdf)
+[203 <./figures/162Dy_misc2.pdf>]
+<figures/162Dy_misc3.pdf, id=3103, 1120.185pt x 794.97pt>
+File: figures/162Dy_misc3.pdf Graphic file (type pdf)
 
-<use 162Dy_misc3.pdf>
-Package pdftex.def Info: 162Dy_misc3.pdf used on input line 74.
+<use figures/162Dy_misc3.pdf>
+Package pdftex.def Info: figures/162Dy_misc3.pdf used on input line 74.
 (pdftex.def)             Requested size: 517.42793pt x 367.20264pt.
 
 
@@ -3232,7 +3263,7 @@ LaTeX Warning: Float too large for page by 38.2129pt on input line 77.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[204 <./162Dy_misc3.pdf>]
+[204 <./figures/162Dy_misc3.pdf>]
 Overfull \hbox (3.42453pt too wide) in paragraph at lines 82--83
 \OT1/cmr/m/n/12 quadrupole vi-bra-tions at the ex-ci-ta-tion en-er-gies E$[]$=8
 88 keV, E$[]$=1400 keV,
@@ -3285,40 +3316,42 @@ LaTeX Warning: Reference `sec:162Dy_0s_gamma' on page 209 undefined on input li
 ne 22.
 
 [209] [210]
-Package epstopdf Info: Source file: <Rare_Earth_0s_energies.eps>
+Package epstopdf Info: Source file: <figures/Rare_Earth_0s_energies.eps>
 (epstopdf)                    date: 2016-10-12 12:52:43
 (epstopdf)                    size: 24254 bytes
-(epstopdf)             Output file: <Rare_Earth_0s_energies-eps-converted-to.pd
-f>
+(epstopdf)             Output file: <figures/Rare_Earth_0s_energies-eps-convert
+ed-to.pdf>
 (epstopdf)                    date: 2016-10-12 12:55:35
 (epstopdf)                    size: 8054 bytes
-(epstopdf)             Command: <repstopdf --outfile=Rare_Earth_0s_energies-eps
--converted-to.pdf Rare_Earth_0s_energies.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/Rare_Earth_0s_ener
+gies-eps-converted-to.pdf figures/Rare_Earth_0s_energies.eps>
 (epstopdf)             \includegraphics on input line 28.
 Package epstopdf Info: Output file is already uptodate.
 
-<Rare_Earth_0s_energies-eps-converted-to.pdf, id=3151, 361.35pt x 252.945pt>
-File: Rare_Earth_0s_energies-eps-converted-to.pdf Graphic file (type pdf)
-
-<use Rare_Earth_0s_energies-eps-converted-to.pdf>
-Package pdftex.def Info: Rare_Earth_0s_energies-eps-converted-to.pdf used on in
-put line 28.
+<figures/Rare_Earth_0s_energies-eps-converted-to.pdf, id=3160, 361.35pt x 252.9
+45pt>
+File: figures/Rare_Earth_0s_energies-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use figures/Rare_Earth_0s_energies-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Rare_Earth_0s_energies-eps-converted-to.pdf us
+ed on input line 28.
 (pdftex.def)             Requested size: 410.39868pt x 287.2796pt.
-Package epstopdf Info: Source file: <Rare_Earth_0s_N.eps>
+Package epstopdf Info: Source file: <figures/Rare_Earth_0s_N.eps>
 (epstopdf)                    date: 2016-10-12 12:52:46
 (epstopdf)                    size: 23740 bytes
-(epstopdf)             Output file: <Rare_Earth_0s_N-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/Rare_Earth_0s_N-eps-converted-to.p
+df>
 (epstopdf)                    date: 2016-10-12 12:55:36
 (epstopdf)                    size: 7904 bytes
-(epstopdf)             Command: <repstopdf --outfile=Rare_Earth_0s_N-eps-conver
-ted-to.pdf Rare_Earth_0s_N.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/Rare_Earth_0s_N-ep
+s-converted-to.pdf figures/Rare_Earth_0s_N.eps>
 (epstopdf)             \includegraphics on input line 29.
 Package epstopdf Info: Output file is already uptodate.
-File: Rare_Earth_0s_N-eps-converted-to.pdf Graphic file (type pdf)
+File: figures/Rare_Earth_0s_N-eps-converted-to.pdf Graphic file (type pdf)
 
-<use Rare_Earth_0s_N-eps-converted-to.pdf>
-Package pdftex.def Info: Rare_Earth_0s_N-eps-converted-to.pdf used on input lin
-e 29.
+<use figures/Rare_Earth_0s_N-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Rare_Earth_0s_N-eps-converted-to.pdf used on i
+nput line 29.
 (pdftex.def)             Requested size: 410.39868pt x 287.2796pt.
 
 
@@ -3327,26 +3360,27 @@ LaTeX Warning: Float too large for page by 15.74728pt on input line 32.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package epstopdf Info: Source file: <Rare_Earth_02_BE2.eps>
+Package epstopdf Info: Source file: <figures/Rare_Earth_02_BE2.eps>
 (epstopdf)                    date: 2016-10-12 12:52:36
 (epstopdf)                    size: 22636 bytes
-(epstopdf)             Output file: <Rare_Earth_02_BE2-eps-converted-to.pdf>
+(epstopdf)             Output file: <figures/Rare_Earth_02_BE2-eps-converted-to
+.pdf>
 (epstopdf)                    date: 2016-10-12 12:55:37
 (epstopdf)                    size: 7952 bytes
-(epstopdf)             Command: <repstopdf --outfile=Rare_Earth_02_BE2-eps-conv
-erted-to.pdf Rare_Earth_02_BE2.eps>
+(epstopdf)             Command: <repstopdf --outfile=figures/Rare_Earth_02_BE2-
+eps-converted-to.pdf figures/Rare_Earth_02_BE2.eps>
 (epstopdf)             \includegraphics on input line 36.
 Package epstopdf Info: Output file is already uptodate.
-File: Rare_Earth_02_BE2-eps-converted-to.pdf Graphic file (type pdf)
-<use Rare_Earth_02_BE2-eps-converted-to.pdf>
-Package pdftex.def Info: Rare_Earth_02_BE2-eps-converted-to.pdf used on input l
-ine 36.
+File: figures/Rare_Earth_02_BE2-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/Rare_Earth_02_BE2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/Rare_Earth_02_BE2-eps-converted-to.pdf used on
+ input line 36.
 (pdftex.def)             Requested size: 410.39868pt x 287.2796pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [211] [212 <./Rare_Earth_0s_energies-eps-converted-to.pdf>] [213]
+) [211] [212 <./figures/Rare_Earth_0s_energies-eps-converted-to.pdf>] [213]
 \openout2 = `appendix_160Gd_1.aux'.
 
 
@@ -3386,7 +3420,7 @@ pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/160Gd_firstpaper_fi
 nal.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> all
 owed
 
-<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3178, page=1, 591.
+<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3187, page=1, 591.
 71063pt x 794.97pt>
 File: ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf Graphic file (typ
 e pdf)
@@ -3406,7 +3440,7 @@ pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/160Gd_firstpaper_fi
 nal.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> all
 owed
 
-<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3179, page=2, 591.
+<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3188, page=2, 591.
 71063pt x 794.97pt>
 File: ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf Graphic file (typ
 e pdf)
@@ -3426,7 +3460,7 @@ pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/160Gd_firstpaper_fi
 nal.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> all
 owed
 
-<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3211, page=3, 591.
+<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3220, page=3, 591.
 71063pt x 794.97pt>
 File: ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf Graphic file (typ
 e pdf)
@@ -3446,7 +3480,7 @@ pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/160Gd_firstpaper_fi
 nal.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> all
 owed
 
-<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3233, page=4, 591.
+<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3242, page=4, 591.
 71063pt x 794.97pt>
 File: ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf Graphic file (typ
 e pdf)
@@ -3466,7 +3500,7 @@ pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/160Gd_firstpaper_fi
 nal.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> all
 owed
 
-<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3254, page=5, 591.
+<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3263, page=5, 591.
 71063pt x 794.97pt>
 File: ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf Graphic file (typ
 e pdf)
@@ -3486,7 +3520,7 @@ pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/160Gd_firstpaper_fi
 nal.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> all
 owed
 
-<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3267, page=6, 591.
+<../Dissertation_Bibliography/160Gd_firstpaper_final.pdf, id=3276, page=6, 591.
 71063pt x 794.97pt>
 File: ../Dissertation_Bibliography/160Gd_firstpaper_final.pdf Graphic file (typ
 e pdf)
@@ -3523,7 +3557,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 ]
-<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3295, page=1, 614.295pt x 794.
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3304, page=1, 614.295pt x 794.
 97pt>
 File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
  <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 1>
@@ -3536,7 +3570,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 9--12
  []
 
 [222 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
-<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3393, page=2, 614.295pt x 794.
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3402, page=2, 614.295pt x 794.
 97pt>
 File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
  <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 2>
@@ -3549,7 +3583,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 13--14
  []
 
 [223 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
-<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3428, page=3, 614.295pt x 794.
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3437, page=3, 614.295pt x 794.
 97pt>
 File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
  <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 3>
@@ -3562,7 +3596,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 14--15
  []
 
 [224 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
-<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3476, page=4, 614.295pt x 794.
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3485, page=4, 614.295pt x 794.
 97pt>
 File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
  <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 4>
@@ -3575,7 +3609,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 15--16
  []
 
 [225 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
-<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3525, page=5, 614.295pt x 794.
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3534, page=5, 614.295pt x 794.
 97pt>
 File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
  <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 5>
@@ -3588,7 +3622,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 16--17
  []
 
 [226 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
-<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3563, page=6, 614.295pt x 794.
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3573, page=6, 614.295pt x 794.
 97pt>
 File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
  <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 6>
@@ -3601,7 +3635,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 17--18
  []
 
 [227 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
-<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3619, page=7, 614.295pt x 794.
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3628, page=7, 614.295pt x 794.
 97pt>
 File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
  <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 7>
@@ -3614,7 +3648,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 18--19
  []
 
 [228 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
-<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3653, page=8, 614.295pt x 794.
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3662, page=8, 614.295pt x 794.
 97pt>
 File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
  <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 8>
@@ -3627,7 +3661,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 19--20
  []
 
 [229 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
-<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3668, page=9, 614.295pt x 794.
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3677, page=9, 614.295pt x 794.
 97pt>
 File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
  <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 9>
@@ -3640,7 +3674,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 20--21
  []
 
 [230 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
-<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3683, page=10, 614.295pt x 794
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3693, page=10, 614.295pt x 794
 .97pt>
 File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
  <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 10>
@@ -3653,7 +3687,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 21--22
  []
 
 [231 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
-<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3724, page=11, 614.295pt x 794
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3733, page=11, 614.295pt x 794
 .97pt>
 File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
  <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 11>
@@ -3666,7 +3700,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 22--23
  []
 
 [232 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
-<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3761, page=12, 614.295pt x 794
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3770, page=12, 614.295pt x 794
 .97pt>
 File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
  <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 12>
@@ -3679,7 +3713,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 23--24
  []
 
 [233 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
-<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3798, page=13, 614.295pt x 794
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3808, page=13, 614.295pt x 794
 .97pt>
 File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
  <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 13>
@@ -3692,7 +3726,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 24--25
  []
 
 [234 <../Dissertation_Bibliography/160Gd_Vs11.pdf>]
-<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3826, page=14, 614.295pt x 794
+<../Dissertation_Bibliography/160Gd_Vs11.pdf, id=3835, page=14, 614.295pt x 794
 .97pt>
 File: ../Dissertation_Bibliography/160Gd_Vs11.pdf Graphic file (type pdf)
  <use ../Dissertation_Bibliography/160Gd_Vs11.pdf, page 14>
@@ -3725,7 +3759,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 
-] <../162Dy_papers/162Dy_RC_0s.pdf, id=3880, page=1, 614.295pt x 794.97pt>
+] <../162Dy_papers/162Dy_RC_0s.pdf, id=3889, page=1, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 1>
@@ -3738,7 +3772,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 12--12
  []
 
 [237 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=3913, page=2, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=3922, page=2, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 2>
@@ -3751,7 +3785,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 13--13
  []
 
 [238 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=3939, page=3, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=3948, page=3, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 3>
@@ -3764,7 +3798,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 14--14
  []
 
 [239 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=3966, page=4, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=3975, page=4, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 4>
@@ -3777,7 +3811,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 15--15
  []
 
 [240 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4005, page=5, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4014, page=5, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 5>
@@ -3790,7 +3824,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 16--16
  []
 
 [241 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4034, page=6, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4043, page=6, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 6>
@@ -3803,7 +3837,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 17--17
  []
 
 [242 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4077, page=7, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4086, page=7, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 7>
@@ -3816,7 +3850,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 18--18
  []
 
 [243 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4114, page=8, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4123, page=8, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 8>
@@ -3829,7 +3863,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 19--19
  []
 
 [244 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4148, page=9, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4157, page=9, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 9>
@@ -3842,7 +3876,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 20--20
  []
 
 [245 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4182, page=10, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4191, page=10, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 10>
@@ -3855,7 +3889,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 21--21
  []
 
 [246 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4229, page=11, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4238, page=11, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 11>
@@ -3868,7 +3902,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 22--22
  []
 
 [247 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4275, page=12, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4285, page=12, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 12>
@@ -3881,7 +3915,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 23--23
  []
 
 [248 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4309, page=13, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4318, page=13, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 13>
@@ -3894,7 +3928,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 24--24
  []
 
 [249 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4345, page=14, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4354, page=14, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 14>
@@ -3907,7 +3941,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 25--25
  []
 
 [250 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4378, page=15, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4388, page=15, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 15>
@@ -3920,7 +3954,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 26--26
  []
 
 [251 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4409, page=16, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4418, page=16, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 16>
@@ -3933,7 +3967,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 27--27
  []
 
 [252 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4459, page=17, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4468, page=17, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 17>
@@ -3946,7 +3980,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 28--28
  []
 
 [253 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4503, page=18, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4512, page=18, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 18>
@@ -3959,7 +3993,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 29--29
  []
 
 [254 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4539, page=19, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4548, page=19, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 19>
@@ -3972,7 +4006,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 30--30
  []
 
 [255 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4554, page=20, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4563, page=20, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 20>
@@ -3985,7 +4019,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 31--31
  []
 
 [256 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4569, page=21, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4578, page=21, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 21>
@@ -3998,7 +4032,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 32--32
  []
 
 [257 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4584, page=22, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4593, page=22, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 22>
@@ -4011,7 +4045,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 33--33
  []
 
 [258 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4622, page=23, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4631, page=23, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 23>
@@ -4024,7 +4058,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 34--34
  []
 
 [259 <../162Dy_papers/162Dy_RC_0s.pdf>]
-<../162Dy_papers/162Dy_RC_0s.pdf, id=4658, page=24, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_RC_0s.pdf, id=4667, page=24, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_RC_0s.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_RC_0s.pdf, page 24>
@@ -4058,7 +4092,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 ]
-<../162Dy_papers/162Dy_neg202.pdf, id=4696, page=1, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=4705, page=1, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 1>
@@ -4071,7 +4105,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 10--10
  []
 
 [262 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=4727, page=2, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=4736, page=2, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 2>
@@ -4084,7 +4118,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 11--11
  []
 
 [263 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=4760, page=3, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=4769, page=3, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 3>
@@ -4097,7 +4131,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 12--12
  []
 
 [264 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=4805, page=4, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=4814, page=4, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 4>
@@ -4110,7 +4144,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 13--13
  []
 
 [265 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=4833, page=5, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=4842, page=5, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 5>
@@ -4123,7 +4157,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 14--14
  []
 
 [266 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=4881, page=6, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=4890, page=6, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 6>
@@ -4136,7 +4170,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 15--15
  []
 
 [267 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=4921, page=7, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=4930, page=7, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 7>
@@ -4149,7 +4183,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 16--16
  []
 
 [268 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=4952, page=8, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=4961, page=8, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 8>
@@ -4162,7 +4196,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 17--17
  []
 
 [269 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=4992, page=9, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=5001, page=9, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 9>
@@ -4175,7 +4209,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 18--18
  []
 
 [270 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=5036, page=10, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=5045, page=10, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 10>
@@ -4188,7 +4222,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 19--19
  []
 
 [271 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=5090, page=11, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=5099, page=11, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 11>
@@ -4201,7 +4235,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 20--20
  []
 
 [272 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=5123, page=12, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=5132, page=12, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 12>
@@ -4214,7 +4248,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 21--21
  []
 
 [273 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=5184, page=13, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=5193, page=13, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 13>
@@ -4227,7 +4261,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 22--22
  []
 
 [274 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=5230, page=14, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=5239, page=14, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 14>
@@ -4240,7 +4274,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 23--23
  []
 
 [275 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=5281, page=15, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=5290, page=15, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 15>
@@ -4253,7 +4287,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 24--24
  []
 
 [276 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=5301, page=16, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=5310, page=16, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 16>
@@ -4266,7 +4300,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 25--25
  []
 
 [277 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=5319, page=17, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=5328, page=17, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 17>
@@ -4279,7 +4313,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 26--26
  []
 
 [278 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=5355, page=18, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=5364, page=18, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 18>
@@ -4292,7 +4326,7 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 27--27
  []
 
 [279 <../162Dy_papers/162Dy_neg202.pdf>]
-<../162Dy_papers/162Dy_neg202.pdf, id=5388, page=19, 614.295pt x 794.97pt>
+<../162Dy_papers/162Dy_neg202.pdf, id=5397, page=19, 614.295pt x 794.97pt>
 File: ../162Dy_papers/162Dy_neg202.pdf Graphic file (type pdf)
 
 <use ../162Dy_papers/162Dy_neg202.pdf, page 19>
@@ -4304,50 +4338,273 @@ Overfull \hbox (61.32358pt too wide) in paragraph at lines 28--29
 [][] 
  []
 
-) [280 <../162Dy_papers/162Dy_neg202.pdf>] (./Dissertation_Casarella.bbl
+) [280 <../162Dy_papers/162Dy_neg202.pdf>]
+\openout2 = `appendix_162Dy_grid.aux'.
+
+ (./appendix_162Dy_grid.tex
+APPENDIX E.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1.
+
 [281
+
+
+
+]
+
+pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/162Dy_GRID_publishe
+d.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allow
+ed
+
+<../Dissertation_Bibliography/162Dy_GRID_published.pdf, id=5429, page=1, 591.71
+063pt x 794.97pt>
+File: ../Dissertation_Bibliography/162Dy_GRID_published.pdf Graphic file (type 
+pdf)
+
+<use ../Dissertation_Bibliography/162Dy_GRID_published.pdf, page 1>
+Package pdftex.def Info: ../Dissertation_Bibliography/162Dy_GRID_published.pdf,
+ page1 used on input line 8.
+(pdftex.def)             Requested size: 458.20985pt x 615.59802pt.
+
+Overfull \hbox (26.20985pt too wide) in paragraph at lines 8--10
+ [] 
+ []
+
+
+
+pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/162Dy_GRID_publishe
+d.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allow
+ed
+
+<../Dissertation_Bibliography/162Dy_GRID_published.pdf, id=5430, page=2, 591.71
+063pt x 794.97pt>
+File: ../Dissertation_Bibliography/162Dy_GRID_published.pdf Graphic file (type 
+pdf)
+
+<use ../Dissertation_Bibliography/162Dy_GRID_published.pdf, page 2>
+Package pdftex.def Info: ../Dissertation_Bibliography/162Dy_GRID_published.pdf,
+ page2 used on input line 14.
+(pdftex.def)             Requested size: 458.20985pt x 615.59802pt.
+
+Overfull \hbox (26.20985pt too wide) in paragraph at lines 14--16
+ [] 
+ []
+
+[282 <../Dissertation_Bibliography/162Dy_GRID_published.pdf>]
+
+pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/162Dy_GRID_publishe
+d.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allow
+ed
+
+<../Dissertation_Bibliography/162Dy_GRID_published.pdf, id=5458, page=3, 591.71
+063pt x 794.97pt>
+File: ../Dissertation_Bibliography/162Dy_GRID_published.pdf Graphic file (type 
+pdf)
+
+<use ../Dissertation_Bibliography/162Dy_GRID_published.pdf, page 3>
+Package pdftex.def Info: ../Dissertation_Bibliography/162Dy_GRID_published.pdf,
+ page3 used on input line 20.
+(pdftex.def)             Requested size: 458.20985pt x 615.59802pt.
+
+Overfull \hbox (26.20985pt too wide) in paragraph at lines 20--22
+ [] 
+ []
+
+[283 <../Dissertation_Bibliography/162Dy_GRID_published.pdf>]
+
+pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/162Dy_GRID_publishe
+d.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allow
+ed
+
+<../Dissertation_Bibliography/162Dy_GRID_published.pdf, id=5468, page=4, 591.71
+063pt x 794.97pt>
+File: ../Dissertation_Bibliography/162Dy_GRID_published.pdf Graphic file (type 
+pdf)
+
+<use ../Dissertation_Bibliography/162Dy_GRID_published.pdf, page 4>
+Package pdftex.def Info: ../Dissertation_Bibliography/162Dy_GRID_published.pdf,
+ page4 used on input line 26.
+(pdftex.def)             Requested size: 458.20985pt x 615.59802pt.
+
+Overfull \hbox (26.20985pt too wide) in paragraph at lines 26--28
+ [] 
+ []
+
+[284 <../Dissertation_Bibliography/162Dy_GRID_published.pdf>]
+
+pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/162Dy_GRID_publishe
+d.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allow
+ed
+
+<../Dissertation_Bibliography/162Dy_GRID_published.pdf, id=5486, page=5, 591.71
+063pt x 794.97pt>
+File: ../Dissertation_Bibliography/162Dy_GRID_published.pdf Graphic file (type 
+pdf)
+
+<use ../Dissertation_Bibliography/162Dy_GRID_published.pdf, page 5>
+Package pdftex.def Info: ../Dissertation_Bibliography/162Dy_GRID_published.pdf,
+ page5 used on input line 32.
+(pdftex.def)             Requested size: 458.20985pt x 615.59802pt.
+
+Overfull \hbox (26.20985pt too wide) in paragraph at lines 32--34
+ [] 
+ []
+
+[285 <../Dissertation_Bibliography/162Dy_GRID_published.pdf>]
+
+pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/162Dy_GRID_publishe
+d.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allow
+ed
+
+<../Dissertation_Bibliography/162Dy_GRID_published.pdf, id=5495, page=6, 591.71
+063pt x 794.97pt>
+File: ../Dissertation_Bibliography/162Dy_GRID_published.pdf Graphic file (type 
+pdf)
+
+<use ../Dissertation_Bibliography/162Dy_GRID_published.pdf, page 6>
+Package pdftex.def Info: ../Dissertation_Bibliography/162Dy_GRID_published.pdf,
+ page6 used on input line 38.
+(pdftex.def)             Requested size: 458.20985pt x 615.59802pt.
+
+Overfull \hbox (26.20985pt too wide) in paragraph at lines 38--40
+ [] 
+ []
+
+[286 <../Dissertation_Bibliography/162Dy_GRID_published.pdf>]
+
+pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/162Dy_GRID_publishe
+d.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allow
+ed
+
+<../Dissertation_Bibliography/162Dy_GRID_published.pdf, id=5503, page=7, 591.71
+063pt x 794.97pt>
+File: ../Dissertation_Bibliography/162Dy_GRID_published.pdf Graphic file (type 
+pdf)
+
+<use ../Dissertation_Bibliography/162Dy_GRID_published.pdf, page 7>
+Package pdftex.def Info: ../Dissertation_Bibliography/162Dy_GRID_published.pdf,
+ page7 used on input line 44.
+(pdftex.def)             Requested size: 458.20985pt x 615.59802pt.
+
+Overfull \hbox (26.20985pt too wide) in paragraph at lines 44--46
+ [] 
+ []
+
+[287 <../Dissertation_Bibliography/162Dy_GRID_published.pdf>]
+
+pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/162Dy_GRID_publishe
+d.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allow
+ed
+
+<../Dissertation_Bibliography/162Dy_GRID_published.pdf, id=5512, page=8, 591.71
+063pt x 794.97pt>
+File: ../Dissertation_Bibliography/162Dy_GRID_published.pdf Graphic file (type 
+pdf)
+
+<use ../Dissertation_Bibliography/162Dy_GRID_published.pdf, page 8>
+Package pdftex.def Info: ../Dissertation_Bibliography/162Dy_GRID_published.pdf,
+ page8 used on input line 50.
+(pdftex.def)             Requested size: 458.20985pt x 615.59802pt.
+
+Overfull \hbox (26.20985pt too wide) in paragraph at lines 50--52
+ [] 
+ []
+
+[288 <../Dissertation_Bibliography/162Dy_GRID_published.pdf>]
+
+pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/162Dy_GRID_publishe
+d.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allow
+ed
+
+<../Dissertation_Bibliography/162Dy_GRID_published.pdf, id=5522, page=9, 591.71
+063pt x 794.97pt>
+File: ../Dissertation_Bibliography/162Dy_GRID_published.pdf Graphic file (type 
+pdf)
+
+<use ../Dissertation_Bibliography/162Dy_GRID_published.pdf, page 9>
+Package pdftex.def Info: ../Dissertation_Bibliography/162Dy_GRID_published.pdf,
+ page9 used on input line 56.
+(pdftex.def)             Requested size: 458.20985pt x 615.59802pt.
+
+Overfull \hbox (26.20985pt too wide) in paragraph at lines 56--58
+ [] 
+ []
+
+[289 <../Dissertation_Bibliography/162Dy_GRID_published.pdf>]
+
+pdfTeX warning: pdflatex (file ../Dissertation_Bibliography/162Dy_GRID_publishe
+d.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allow
+ed
+
+<../Dissertation_Bibliography/162Dy_GRID_published.pdf, id=5527, page=10, 591.7
+1063pt x 794.97pt>
+File: ../Dissertation_Bibliography/162Dy_GRID_published.pdf Graphic file (type 
+pdf)
+
+<use ../Dissertation_Bibliography/162Dy_GRID_published.pdf, page 10>
+Package pdftex.def Info: ../Dissertation_Bibliography/162Dy_GRID_published.pdf,
+ page10 used on input line 62.
+(pdftex.def)             Requested size: 458.20985pt x 615.59802pt.
+
+Overfull \hbox (26.20985pt too wide) in paragraph at lines 62--64
+ [] 
+ []
+
+[290 <../Dissertation_Bibliography/162Dy_GRID_published.pdf>]) [291 <../Dissert
+ation_Bibliography/162Dy_GRID_published.pdf>] (./Dissertation_Casarella.bbl
+[292
 
 
 
 ]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
- [282]
+ [293]
 
-LaTeX Warning: Command \o invalid in math mode on input line 204.
+LaTeX Warning: Command \o invalid in math mode on input line 211.
 
 
-LaTeX Warning: Command \o invalid in math mode on input line 204.
+LaTeX Warning: Command \o invalid in math mode on input line 211.
 
+[294]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ¸ in font cmr12!
-[283]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ¤ in font cmr12!
- [284]
+ [295]
 Missing character: There is no â in font cmr8!
 Missing character: There is no ˆ in font cmr8!
 Missing character: There is no ’ in font cmr8!
- [285] [286])
+ [296] [297])
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10> not available
-(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 208.
+(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 209.
 
-[287]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 208.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 208.
+[298]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 209.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 209.
  (./Dissertation_Casarella.aux (./pdflscape.aux) (./Chapter1_Casarella.aux) (./
 Chapter1_Casarella_lasthalf.aux) (./Chapter2_Casarella.aux)
 (./Chapter3_Casarella.aux) (./Chapter_Results.aux) (./Chapter_Results_Dy.aux)
 (./Chapter4_Casarella.aux) (./Chapter5_Casarella.aux)
 (./Chapter5_Casarella_2.aux) (./Chapter5_Casarella_3.aux)
 (./Chapter6_Casarella.aux) (./appendix_160Gd_1.aux) (./appendix_160Gd_2.aux)
-(./appendix_162Dy_pos.aux) (./appendix_162Dy_neg.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 208.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 208.
+(./appendix_162Dy_pos.aux) (./appendix_162Dy_neg.aux)
+(./appendix_162Dy_grid.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 209.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 209.
 Package rerunfilecheck Info: File `Dissertation_Casarella.out' has not changed.
 
-(rerunfilecheck)             Checksum: 2CD08F2F2F9CBEA5B69829F53377DF97;7605.
+(rerunfilecheck)             Checksum: A514DD35110586DAC8301865B25D94A2;7664.
 
 
 LaTeX Warning: There were undefined references.
@@ -4355,13 +4612,13 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 208.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 209.
  ) 
 Here is how much of TeX's memory you used:
- 8901 strings out of 493304
- 144616 string characters out of 6139871
- 264557 words of memory out of 5000000
- 11392 multiletter control sequences out of 15000+600000
+ 8958 strings out of 493304
+ 148180 string characters out of 6139871
+ 265154 words of memory out of 5000000
+ 11428 multiletter control sequences out of 15000+600000
  18653 words of font info for 73 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  41i,12n,35p,4242b,604s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -4400,10 +4657,10 @@ sfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 t8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm1
 0.pfb>
-Output written on Dissertation_Casarella.pdf (306 pages, 5361364 bytes).
+Output written on Dissertation_Casarella.pdf (317 pages, 5883172 bytes).
 PDF statistics:
- 5659 PDF objects out of 6186 (max. 8388607)
- 4812 compressed objects within 49 object streams
- 608 named destinations out of 1000 (max. 500000)
- 1436 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5785 PDF objects out of 6186 (max. 8388607)
+ 4896 compressed objects within 49 object streams
+ 621 named destinations out of 1000 (max. 500000)
+ 1494 words of extra memory for PDF output out of 10000 (max. 10000000)
 

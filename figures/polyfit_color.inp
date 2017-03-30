@@ -1,0 +1,23 @@
+set terminal postscript eps color enhanced "Helvetica" 20 solid
+set xlabel "E_{/Symbol g} (keV)" offset 0,-0.5 font "Helvetica, 30"
+set ylabel "efficiency (arb. units)" offset 0.5,0 font "Helvetica, 30"
+set mytics 5
+set mxtics 4
+set ytics 5
+set xtics 1000
+set yrange [0:50]
+set xrange [0:3100]
+set output '310_polyfit_color.eps'
+set size 1,1
+set label "E_n = 3.1 MeV" left at 1950,3750 norotate font "Helvetica,25"
+a5=-1.40762E-15
+a4=1.3453E-11
+a3=-5.0064E-8
+a2=9.188178E-5
+a1=-0.08768766
+a0=44.987184487
+poly5(x)=a5*x**5+a4*x**4+a3*x**3+a2*x**2+a1*x+a0
+#plot '310_effic_5.pol' u (exp($1)):(exp($2)):(exp($3)) w yerrorbars t "E_n=3.1 MeV" pt 7 ps 1, poly5(x) lt rgb "red" t "", '310_effic_5.pol' u (exp($7)):(exp($8)):(exp($9)) w yerrorbars t "E_n=2.2 MeV" pt 7 ps 1,'310_effic_5.pol' u (exp($4)):(exp($5)):(exp($6)) w yerrorbars t "E_n=1.6 MeV" lc rgb "green" pt 7 ps 1
+plot '310_effic_5.pol' u (exp($1)):(exp($2)):(exp($3)) w yerrorbars t "E_n=3.1 MeV" pt 7 ps 1, poly5(x) lt rgb "red" t ""
+
+
